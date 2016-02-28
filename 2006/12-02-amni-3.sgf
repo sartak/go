@@ -1,0 +1,461 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[6.50]
+PW[amni]PB[sartak]WR[2k]DT[2006-12-02]PC[The KGS Go Server at http://www.gokgs.com/]C[amni [2k\]: i'll pass a few times
+sartak: Sorry about that, didn't notice you had left the room, hehe
+amni [2k\]: ah
+]RE[W+72.50]
+;B[eh]
+;W[]
+;B[fh]
+;W[]
+;B[gh]
+;W[]
+;B[hh]C[amni [2k\]: hehe
+amni [2k\]: ok.
+]
+;W[jc]
+;B[jd]C[amni [2k\]: the traditional spots for handicap stones are the bold dots
+amni [2k\]: K4, D4, etc.
+sartak: nod
+amni [2k\]: but in some rulesets you can place them wherever you want.
+]
+;W[id]C[sartak: I'll do that next time then :)
+]
+;B[je]
+;W[kc]
+;B[ic]
+;W[hc]
+;B[hd]
+;W[ib]
+;B[jj]
+;W[ck]
+;B[cj]
+;W[dj]
+;B[ci]
+;W[dk]
+;B[di]
+;W[gk]
+;B[gj]
+;W[hk]
+;B[ik]
+;W[hj]
+;B[gi]
+;W[fj]
+;B[ie]
+;W[gd]
+;B[he]
+;W[dc]
+;B[ed]
+;W[dd]C[sartak: Hm, that was probably a poor move, no liberty snatching
+]
+;B[de]C[sartak: (e10)
+amni [2k\]: contact plays, either orthogonally or diagonally, are special
+]
+;W[ce]
+;B[df]C[amni [2k\]: an unmotivated contact usually leads to a local loss
+]
+;W[ec]
+;B[ee]
+;W[ii]
+;B[hf]
+;W[ji]
+;B[ki]
+;W[kh]
+;B[kj]
+;W[jg]
+;B[ih]
+;W[jh]
+;B[kf]
+;W[il]
+;B[jk]
+;W[li]
+;B[be]
+;W[bd]
+(;B[bf]
+;W[ll]C[amni [2k\]: M2 is vital here too.
+]
+;B[kl]
+;W[lk]
+;B[lj]
+;W[lh]C[sartak: hrm
+sartak: Did you just kill the M4 group?
+amni [2k\]: this shape is related to the carpenter's square
+amni [2k\]: um... honestly...
+amni [2k\]: i don't know
+sartak: I think you can capture it if I try to play it out.
+amni [2k\]: the life and death of these is very hard to read out
+amni [2k\]: my guess is that black is dead there
+amni [2k\]: M2 was the vital point
+sartak: OK
+sartak: So, carpenter's square?
+amni [2k\]: one of the most complicated shapes
+amni [2k\]: i'll show you after
+sartak: hehe, ok :)
+amni [2k\]: there are 4ds who do not understand it
+]
+;B[cd]
+;W[cc]C[sartak: gah :)
+]
+;B[cf]C[amni [2k\]: playing a stone such as C10
+amni [2k\]: with the intention of it getting captured
+amni [2k\]: is actually often a good strategy
+amni [2k\]: just not in this case
+]
+;W[bj]C[sartak: I see. Well, the capture was not intentional, I should just check to see if I'm placing a stone into atari -_-
+amni [2k\]: you'll learn to see that soon
+amni [2k\]: but everyone makes mistakes
+amni [2k\]: there is a youtube movie of a professional go player placing 5 stones into atari
+amni [2k\]: by accident
+amni [2k\]: he resigned shortly after
+sartak: hehe
+sartak: Well I'm not sure what to do now.
+amni [2k\]: B5 is the normal reply.
+amni [2k\]: then I have to defend B4
+amni [2k\]: so you get to play the next move after that
+sartak: (I've run out of places I can just dump a stone away from the action)
+sartak: ok
+]
+;B[bi]
+;W[ak]
+;B[ai]
+;W[aj]
+;B[el]
+;W[ej]C[sartak: hm, good point
+]
+;B[fk]
+;W[fl]C[amni [2k\]: trying to see if you can cut is always good
+sartak: yeah
+amni [2k\]: in this case it doesn't work, but F3 is the usual sort of move
+]
+;B[gl]
+;W[ek]
+;B[km]
+;W[lm]
+;B[mj]
+;W[ml]
+;B[jl]
+;W[hm]
+;B[mf]
+;W[ge]
+;B[gf]C[amni [2k\]: good
+]
+;W[ld]C[sartak: I feel like M11 is a losing play. You'd play N11 or M12
+amni [2k\]: right, M11 M12.
+amni [2k\]: to capture the stone along the edge.
+sartak: ok
+sartak: (I can definitely see why computers are horrid at go :))
+amni [2k\]: oh man
+amni [2k\]: yeah, it seems impossibly complex to me
+amni [2k\]: the more you learn the more you realize how deep it is
+sartak: :)
+sartak: Any tips on how to play at this stage?
+amni [2k\]: this is the endgame... it's just minor territory adjustments
+amni [2k\]: endgame theory is hard
+sartak: I feel like the game is already decided, I just don't know which way it'll go
+amni [2k\]: you have to know a lot about miai values
+amni [2k\]: try moves like F10
+]
+;B[fd]C[amni [2k\]: it takes a way 1 point of territory
+]
+;W[fc]C[amni [2k\]: and it's sente.
+amni [2k\]: (i have to reply there, so it's your turn again)
+sartak: nod
+]
+;B[ae]
+;W[ad]
+;B[fe]
+;W[gc]C[amni [2k\]: yep, you're getting the hang of it
+sartak: :)
+]
+;B[]C[amni [2k\]: still some points
+]
+;W[ig]C[amni [2k\]: you could have played J7.
+sartak: Hm.
+sartak: I don't know how scoring works, really.
+amni [2k\]: it varies by ruleset
+sartak: but I guess that territory was in dispute, yeah
+amni [2k\]: the ruleset we're using right now is sucky
+]
+;B[jf]C[amni [2k\]: in this ruleset, your score is your territory (empty space you surround) + captured stones (1 pt each) + dead stones 
+]
+;W[hg]
+;B[gg]
+;W[le]C[sartak: dead stones for the other color?
+amni [2k\]: right, so E2 is a point for me
+amni [2k\]: even if I don't explicitly capture it
+amni [2k\]: in THIS ruleset anyway
+amni [2k\]: i think that is confusing, after all
+amni [2k\]: if I had to capture it
+amni [2k\]: I would play two moves 
+amni [2k\]: in my own territory
+amni [2k\]: that should reduce my score by 2
+amni [2k\]: so this ruleset is a bit wacky
+sartak: hm
+]
+;B[lf]C[amni [2k\]: nice.
+]
+;W[hi]C[sartak: Seemed obvious anyway
+]
+;B[ij]
+;W[mh]C[amni [2k\]: yes, there is a saying 
+sartak: So do you control 7LMN, N65?
+amni [2k\]: "even a moron connects against a peep"
+sartak: haha
+]
+;B[kg]C[amni [2k\]: not sure what you mean, 7LMN
+sartak: 7L, 7M, 7N
+amni [2k\]: oh
+sartak: Do those count for you, or are they currently worth no points to either side
+amni [2k\]: they're currently worth no points
+amni [2k\]: only empty spots like C1
+amni [2k\]: are worth a point for me
+amni [2k\]: and M7
+amni [2k\]: is surrounded by both of us, so it counts for neither
+amni [2k\]: it' sa neutral point
+amni [2k\]: so called "dame"
+]
+;W[me]C[sartak: so at this stage we're just taking neutral points?
+amni [2k\]: no, not at all
+amni [2k\]: N9 gained a point
+amni [2k\]: because now N10 is territory
+amni [2k\]: if you had played N9,
+amni [2k\]: I would defend at N10
+amni [2k\]: and not get that point.
+sartak: mm
+amni [2k\]: generally when there are only neutral points left, both players pass
+sartak: What about E5 and F5?
+amni [2k\]: yep, those are dame as well
+amni [2k\]: worthless.
+sartak: ok
+sartak: so what isn't dame?
+amni [2k\]: there are still 3 places you can play to get a point.
+amni [2k\]: L10
+amni [2k\]: for subtle reasons.
+amni [2k\]: J11
+amni [2k\]: and C10
+sartak: j11??
+amni [2k\]: sure,
+amni [2k\]: J10 is in atari.
+sartak: I can play there?
+sartak: ahh
+]
+;B[ic]C[sartak: I didn't know I could do that
+amni [2k\]: it's ok to play a stone into a space with no liberties as long as it captures something in the process.
+amni [2k\]: so you can't play at F3
+sartak: right
+]
+;W[cd]
+;B[kd]
+;W[id]C[sartak: ko! :)
+amni [2k\]: yep
+]
+;B[fi]
+;W[ic]C[sartak: ahhh
+]
+;B[]C[sartak: How do I know it's my territory though?
+amni [2k\]: it seems that M11 is a similar case
+amni [2k\]: well...
+amni [2k\]: that gets kind of technical
+sartak: I'm trying to differentiate F8 from M11 I guess.
+amni [2k\]: i'll explain M11
+sartak: ok
+amni [2k\]: basically, black has the option of playing L9 at any time.
+]
+(;W[lc]C[amni [2k\]: i must play M11
+sartak: (I forgot we had a bunch of stuff to go over)
+amni [2k\]: in playing F8, you lose a point
+amni [2k\]: F8 is your own territory -- empty space
+amni [2k\]: in japanese rules, the most common ruleset, you only count space.
+amni [2k\]: sp F8 loses a point.
+amni [2k\]: so*
+]
+;B[ff]C[amni [2k\]: do you see why?
+amni [2k\]: you don't have to play there.
+sartak: Hm
+sartak: To connect?
+]
+;W[]C[amni [2k\]: i will show you
+sartak: ok
+]
+;B[]TW[aa][ba][ca][da][ea][fa][ga][ha][ia][ja][ka][la][ma][ab][bb][cb][db][eb][fb][gb][hb][jb][kb][lb][mb][ac][bc][mc][md][ki][mi][ij][jj][kj][lj][mj][bk][fk][ik][jk][kk][mk][al][bl][cl][dl][el][gl][hl][jl][kl][am][bm][cm][dm][em][fm][gm][im][jm][km][mm]TB[af][ef][ag][bg][cg][dg][eg][fg][ah][bh][ch][dh]C[amni [2k\]: L1 is dead, for non obvious reasons
+amni [2k\]: but you did much better this time
+sartak: not any more!
+amni [2k\]: hehe
+amni [2k\]: IT'S DEAD DAMMIT
+sartak: Thank you for the games and tuts. :)
+amni [2k\]: np
+amni [2k\]: (click done)
+sartak: Tomorrow I'll play some unknown people.
+amni [2k\]: let me show you a couple things, if you don't mind?
+sartak: Oh, right
+sartak: hehe
+sartak: sure!
+])
+(;W[]C[amni [2k\]: if I did not fill M11, black can play L9
+sartak: ok
+amni [2k\]: so the L9 liberty is important
+sartak: Say I play L9
+amni [2k\]: so going back to the game,
+amni [2k\]: the M2 is the killing nakade of size 4
+amni [2k\]: by virtue that:
+amni [2k\]: if you capture it, you die.
+amni [2k\]: if you don't capture it, it captures you!
+sartak: Nifty.
+amni [2k\]: yep.
+]
+(;B[ke]TR[lk][ll][ml][lm]C[amni [2k\]: now it would be bad for white to ignore
+amni [2k\]: the triangle stones for a nakade
+amni [2k\]: a killing shape
+amni [2k\]: with this killing shape inside a group, it is dead
+amni [2k\]: the reason is as follows,
+sartak: The triangles are dead, or the surrounding group?
+amni [2k\]: the surrounding group
+sartak: O_o
+amni [2k\]: M2 is a killing shape
+amni [2k\]: it kills
+amni [2k\]: not IS killed
+sartak: How does it kill though?
+amni [2k\]: so we can prove that black can be captured as follows
+amni [2k\]: i'll show you
+sartak: :)
+amni [2k\]: first white would remove all outside liberties.
+]
+(;W[]C[sartak: hm
+]
+;B[lc]C[amni [2k\]: M11 captures the three stones.
+]
+;W[md]
+;B[mc])
+(;W[lc]C[sartak: Hmm
+amni [2k\]: since I would have to connect at M11 regardless, I played there anyway
+amni [2k\]: anticipating the need
+amni [2k\]: and since it is usually not customary to fill neutral points
+sartak: Fair enough.
+amni [2k\]: as for the lower right, this is a rare situation
+])
+(;W[im]
+(;B[]C[amni [2k\]: while white is filling outside liberties, black can try to kill M2
+]
+;W[jm]
+;B[]
+;W[mi]C[amni [2k\]: black can't stop that.
+amni [2k\]: next white plays N3
+]
+;B[]
+;W[mk]C[amni [2k\]: the L2 stones are now in atari
+amni [2k\]: so they can be captured.
+amni [2k\]: but that's only half the story.
+])
+(;B[kk]
+;W[jm])))
+(;AE[li]
+;B[]
+;W[im]C[amni [2k\]: with another outside liberty.
+]
+;B[kk]
+;W[jm]
+;B[mk]
+;W[li]
+;B[mm]C[amni [2k\]: black succeeds in killing M2,
+amni [2k\]: but then it's white's turn
+amni [2k\]: white plays M2 -- again the vital point
+]
+(;W[ll]C[amni [2k\]: so the tetris-shape of M2 was critical
+amni [2k\]: it ensured that if M2 was captured, a killable eyespace would remain
+]
+;B[]C[sartak: that's bizarre but awesome
+]
+;W[mi]TR[lk][ll][ml][lm]C[amni [2k\]: without reading all that out
+amni [2k\]: you can see that this tetris shape is a dead space if white goes first
+amni [2k\]: because when white plays in the middle, black can't divide the eyespace into two eyes.
+]
+;B[]
+;W[lk]
+;B[]
+;W[lm]C[amni [2k\]: atari
+]
+;B[ml]
+;W[ll]C[amni [2k\]: M2 again!
+]
+;B[]
+;W[lk]
+;B[lm]
+;W[lk]
+;B[ll]
+;W[lk]C[amni [2k\]: dies.
+sartak: O_o
+])
+(;W[]
+;B[ll]C[amni [2k\]: if it were black's move, black could play M2 to live.
+amni [2k\]: making three eyes.
+sartak: which is living
+amni [2k\]: yep
+]))))
+(;B[lj]
+;W[lh]
+;B[jl]
+;W[hl]TR[jj][kj][lj][jk][jl]C[amni [2k\]: if black had played this way, the resulting shape is called the carpenter's square
+amni [2k\]: we played a dumbed down version of it
+amni [2k\]: where black occupied L2
+amni [2k\]: again, in this shape, M2 is vital
+]
+(;B[ll]TR[kk][mm]C[amni [2k\]: black must play there to live.
+sartak: He can make two eyes if he has M2?
+amni [2k\]: so certain spots on the board, by an almost magical quality, give life to their group
+amni [2k\]: at the very least, these spots are guaranteed eyes.
+amni [2k\]: how can white stop it?
+amni [2k\]: having M2 helps all the surrounding spots.
+]
+(;W[jm]
+;B[km]
+;W[mj]
+;B[mk]
+;W[kk]C[amni [2k\]: L3 doesn't change anything
+amni [2k\]: N1 and L3 are both eyes.
+])
+(;W[lm]
+;B[km]
+;W[ml]
+;B[mk]
+;W[kk]
+;B[mm]))
+(;B[am]
+;W[ll]C[amni [2k\]: if white gets M2, things look very different
+]
+;B[kl]
+;W[lk]C[amni [2k\]: black tries to make an eye at L3, but fails
+amni [2k\]: this is what happened in the game, basically.
+sartak: ah
+]
+;B[mj]
+;W[lm]
+;B[jm]
+;W[ml]C[amni [2k\]: here again, N2 makes a nakade.
+amni [2k\]: there are nakade of all sizes
+amni [2k\]: some as large as 17 stones
+amni [2k\]: it's pretty nuts
+sartak: yeah :)
+amni [2k\]: hope that helps you.
+amni [2k\]: if you play against someone your level
+amni [2k\]: which is about 25k probably
+amni [2k\]: you'll both be making the same mistakes
+amni [2k\]: you might want to try the tutorial
+sartak: nod
+amni [2k\]: http://playgo.to/interactive/
+amni [2k\]: there it is
+amni [2k\]: i disagree with much that it teaches, but you can still learn a lot from it
+sartak: Ah yeah, I've been there.
+amni [2k\]: ok cool
+sartak: I'll go through it again.
+amni [2k\]: it focuses too much on capture
+amni [2k\]: capture can be tactically significant or not
+amni [2k\]: sometimes, as you see in the lower right, capturing kills you
+amni [2k\]: so you need bigger principles
+sartak: :)
+amni [2k\]: but that comes in time
+sartak: Well, I guess I'm gonna go to bed.
+amni [2k\]: ok, night shawn
+amni [2k\]: thanks for the games.
+sartak: Thanks a bunch Josh, I'll talk to ya tomorrow.
+amni [2k\]: kk
+])))

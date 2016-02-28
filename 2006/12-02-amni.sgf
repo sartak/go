@@ -1,0 +1,178 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[6.50]
+PW[amni]PB[sartak]WR[2k]DT[2006-12-02]PC[The KGS Go Server at http://www.gokgs.com/]C[sartak: good day
+amni [2k\]: 9x9 board, 6.5 komi
+amni [2k\]: oh hi
+sartak: asl?
+sartak: ;)
+amni [2k\]: black goes first, do you know the rules?
+amni [2k\]: um
+sartak: Well
+sartak: I know the very basics.
+amni [2k\]: 78 H CX
+sartak: ooh
+amni [2k\]: it's crazy deep, 
+amni [2k\]: neat.
+amni [2k\]: that's all life and death issues,
+sartak: (this software is pretty good)
+amni [2k\]: 9x9 isn't very useful for learning strategy
+amni [2k\]: yep, it's sweet
+amni [2k\]: there's even audio lecturing
+amni [2k\]: i could be talking to you
+sartak: Text is fine :)
+amni [2k\]: but i'd wake someone up
+amni [2k\]: yeah
+amni [2k\]: so that all falls under L&D
+sartak: Want to move to 13x13?
+amni [2k\]: life and death strategy
+amni [2k\]: ok
+amni [2k\]: have to post a new game
+sartak: ok
+]RE[W+Resign]
+(;B[cd]C[amni [2k\]: i'll pass to give you a few
+]
+;W[]
+;B[fe]
+;W[]
+;B[dd]
+;W[ge]
+;B[fd]
+;W[ff]
+;B[ee]
+;W[gd]
+;B[de]
+;W[dg]C[sartak: Do pieces link diagonally or just orthogonally?
+amni [2k\]: only orthogonally
+sartak: OK
+amni [2k\]: they only share liberties along the black lines
+]
+;B[hg]C[sartak: right
+]
+;W[gf]
+;B[gc]C[amni [2k\]: in usual parlance you say that something is connected if you can tactically connect it given any attempt to disconnect by your oppoenent
+]
+;W[cf]C[sartak: ah
+]
+;B[ef]C[amni [2k\]: so here, F6 and G7 are "connected" though they aren't in the same string
+]
+;W[eg]C[sartak: But what if you put a piece onto F6?
+sartak: er f7
+]
+;B[fg]C[amni [2k\]: then there is a sequence by which you can capture that piece
+amni [2k\]: no matter how i play
+sartak: ah
+]
+;W[gg]
+;B[eh]
+;W[be]
+;B[cg]
+;W[bg]
+;B[ch]
+;W[df]C[amni [2k\]: as of this point, it is certain that all the lower stones will die
+amni [2k\]: so you should abandon them and play B6.
+]
+(;B[af]
+;W[bf]
+;B[ce]
+;W[bd]
+;B[ag]
+;W[cc]
+;B[ec]
+;W[hc]
+;B[dc]
+;W[cb]
+;B[fb]
+;W[hb]
+;B[gb]
+;W[db]
+;B[eb]
+;W[ha]
+;B[fa]
+;W[da]C[amni [2k\]: pretty good for your first game
+amni [2k\]: you have a living group.
+sartak: yep, two eyes
+]
+;B[dh]
+;W[fh]C[sartak: I learned a bit a few months ago
+amni [2k\]: *nods*
+]
+;B[bh]
+;W[]
+;B[ah]
+;W[bi]
+;B[ci]
+;W[ei]
+;B[ai]C[amni [2k\]: one eye :(
+]
+;W[]C[sartak: hm
+sartak: So there's nothing I can really do to prevent you from capturing that SW group
+amni [2k\]: yep, it's dead
+]
+;B[aa]C[amni [2k\]: provably able to be captured
+]
+;W[]C[amni [2k\]: so is A9.
+sartak: hehee
+amni [2k\]: you can try if you want ;)
+amni [2k\]: i don't mind
+sartak: nah, I can see where it's going :)
+]
+;B[ig]
+;W[]
+;B[hf]
+;W[]
+;B[he]
+;W[hd]
+;B[hh]
+;W[ie]
+;B[gi]
+;W[fi]
+;B[hi]
+;W[]TR[aa][ia]C[amni [2k\]: J1 and J2 count are in effect just one eye.
+amni [2k\]: s/count//
+sartak: nod, there's no way to extend that to two
+amni [2k\]: nope.
+amni [2k\]: when you have a space three in a row, you can make two by playing in the middle.
+sartak: aye
+sartak: So it seems like the only move now is resign
+amni [2k\]: if you want to
+amni [2k\]: then i can show you some thingz
+sartak: sure
+amni [2k\]: first of all,
+amni [2k\]: do you want to see proof that all of the dead stones can be captured?
+amni [2k\]: or do you see it?
+sartak: I can see it.
+amni [2k\]: kk
+amni [2k\]: and also note, that white's (single) group is alive
+amni [2k\]: not because it has two explicit eyes,
+amni [2k\]: but because it can make two eyes given any sequence by black
+sartak: Best I could do is ignore that whole group and not sacrifice more stones
+amni [2k\]: which one/
+amni [2k\]: ?
+sartak: A1 and friends
+amni [2k\]: true,
+])
+(;B[bd]C[amni [2k\]: makes more territory for black (on top)
+sartak: Gotcha
+amni [2k\]: if you have a large enough territory, it's usually certain that you can make two eyes there if challenged
+amni [2k\]: though that is not always the case
+]))
+(;AW[eg][fg][gg][hg][ig][ch][eh]AB[fh][gh][hh][ih][fi]C[amni [2k\]: black to live?
+sartak: Black or white to play?
+amni [2k\]: black plays to save the 5 stones
+amni [2k\]: (which are in danger)
+sartak: (I mean whose turn)
+amni [2k\]: black.
+sartak: H1?
+sartak: so live?
+]
+(;B[hi]C[amni [2k\]: yep
+amni [2k\]: H1 is the only move that works
+])
+(;B[aa]C[amni [2k\]: otherwise, white can kill by playing on the same spot
+]
+;W[hi]C[sartak: yep :)
+]
+;B[ei]
+;W[di]
+;B[gi]
+;W[ii])))

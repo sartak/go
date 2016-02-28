@@ -1,0 +1,232 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[6.50]
+PW[amni]PB[sartak]WR[2k]DT[2006-12-02]PC[The KGS Go Server at http://www.gokgs.com/]C[amni [2k\]: in this size board, strategy is a bit more important
+amni [2k\]: than just killing and living on a 9x9
+sartak: A strategy vs tactics thing?
+amni [2k\]: hm. do you have any questions after that?
+sartak: One more game?
+amni [2k\]: hm
+amni [2k\]: kk
+amni [2k\]: 13?
+sartak: sure
+]RE[W+Resign]
+;B[de]C[amni [2k\]: yes, which is also to say: a global versus local thing
+sartak: nod
+]
+;W[jd]
+;B[id]C[amni [2k\]: on 7x7 or 9x9, everything is local
+amni [2k\]: on 37x37, everything is global
+sartak: wow
+amni [2k\]: or at least, the balance is tipped towards that
+amni [2k\]: 19x19 reaches a good balance between the two
+]
+;W[jc]C[amni [2k\]: that's why 19x19 is the most popular
+]
+;B[ic]
+;W[ie]C[sartak: aye
+amni [2k\]: it also happened here
+amni [2k\]: J9 is a hane
+amni [2k\]: at the head of two stones.
+sartak: right
+sartak: So I'd play H9?
+amni [2k\]: this is advanced, but there is a rule that tells you that hane at the head of two stones is good shape.
+amni [2k\]: the reason why is somewhat complicated.
+amni [2k\]: i mean heuristic
+amni [2k\]: not rule
+]
+;B[he]
+(;W[hf]C[amni [2k\]: this style of a move is called appropriately a double hane :)
+]
+;B[hg]
+;W[if]
+;B[ig]
+;W[ge]
+;B[gf]
+;W[hd]
+;B[jg]
+;W[gg]
+;B[gh]
+;W[fg]
+;B[eg]
+;W[fh]
+;B[fi]
+;W[ei]
+;B[eh]
+;W[ff]
+;B[fe]
+;W[gi]
+;B[fj]C[amni [2k\]: such a move is called double atari
+]
+;W[hh]C[sartak: which move?
+amni [2k\]: G5, which placed both G6 and F5 in atari
+sartak: ah, so I couldn't save them both if you wanted one dead
+sartak: called a fork or something in chess
+amni [2k\]: usually true
+amni [2k\]: yes, like that
+sartak: (my chess is not much better than my go :))
+amni [2k\]: unless of course, the stone placing the other two stones in atari is itself in atari
+amni [2k\]: then you can simply capture it
+sartak: aye
+]
+;B[ej]
+;W[di]
+;B[ci]
+;W[dj]
+;B[ef]
+;W[fd]
+;B[ee]
+;W[ch]
+;B[dh]
+;W[cj]
+;B[bi]
+;W[bh]
+;B[cg]
+;W[bg]
+;B[bf]
+;W[bj]C[sartak: So b5 is (effectively?) dead
+amni [2k\]: yep.
+amni [2k\]: a5 is useless
+sartak: yeah
+sartak: you can stop me in my tracks if I try to escape, heh.
+]
+;B[dg]C[amni [2k\]: yep
+]
+;W[ik]
+;B[hl]
+;W[hk]
+;B[gl]
+;W[el]
+;B[fk]
+;W[ek]
+;B[il]
+;W[jk]C[sartak: crap :)
+amni [2k\]: *innocent look*
+]
+;B[ki]
+;W[lk]
+;B[kk]
+;W[kj]
+;B[ji]
+;W[kl]
+;B[li]
+;W[lf]
+;B[ld]
+;W[ke]
+;B[kf]
+;W[le]C[amni [2k\]: in go, the basic tactical principle is
+amni [2k\]: ensure that all important stones can gain life
+amni [2k\]: by being able to make two eyes -- somewhere.
+amni [2k\]: the basic strategy principle is
+amni [2k\]: surround your opponent and try not to be surrounded -- connect your groups, and cut your opponents'
+sartak: aye
+amni [2k\]: a surrounded group has more difficulty making two eyes -- but that's just the beginning of why you should surround
+amni [2k\]: in chinese, the name of the game is "wei-chi" which means, the game of enclosing
+]
+;B[dc]
+;W[ec]
+;B[dd]
+;W[db]C[amni [2k\]: when white hanes at D12
+amni [2k\]: the usual move is C12.
+sartak: hanes?
+]
+(;B[cd]C[sartak: Thank you!
+]
+;W[cb]
+;B[bd]
+;W[cf]C[sartak: hrmph
+sartak: Should I have played there/
+amni [2k\]: C10 was an underplay
+amni [2k\]: i'll show you what you can do
+sartak: Now or after the game?
+amni [2k\]: after
+]
+;B[ce]C[amni [2k\]: nice,
+]
+;W[bc]C[amni [2k\]: other moves die.
+]
+;B[ae]C[amni [2k\]: yay
+sartak: hehe
+]
+;W[ac]
+;B[ad]C[amni [2k\]: A10 isn't actually required
+]
+;W[cc]C[sartak: mmkay
+amni [2k\]: i'll show that too.
+]
+;B[kh]C[sartak: nah :)
+]
+(;W[lg]C[sartak: well ok
+amni [2k\]: shape of stones is very important.
+]
+;B[hc]C[amni [2k\]: M7 was a crucial spot. if black had M7, black would live
+]
+;W[gc]C[sartak: Ah, yeah
+sartak: Do games usually go on this long turnwise? I don't really see any way I can do much more.
+amni [2k\]: yep, about this long
+amni [2k\]: often people resign early
+amni [2k\]: on a 19x19 board, usually there are 250 turns about
+amni [2k\]: sometimes drastically more, in the case of ko fights
+sartak: (cool, I always find it annoying when an obviously losing player is a jerk about resigning)
+sartak: Ko.. the repetition of board state thing?
+amni [2k\]: i don't mind, it can help someone new to see what the replies to their moves are
+amni [2k\]: yep
+]
+;B[ih]C[amni [2k\]: ko makes go immensely more complicated than it would be without
+]
+;W[ii]C[sartak: hehe
+amni [2k\]: i'm just beginning to learn it
+amni [2k\]: it's very deep
+sartak: \\o/
+amni [2k\]: thank you
+sartak: No specific questions, na
+amni [2k\]: ok
+])
+(;W[lg]
+;B[je]
+;W[jf]C[sartak: undo! undo! :)
+amni [2k\]: you can if you want, heh
+]))
+(;B[cb]C[amni [2k\]: it's the name of this kind of move.
+sartak: ah
+amni [2k\]: D12 is at the head of this black column
+amni [2k\]: hane is the japanese word for head
+amni [2k\]: h9...
+amni [2k\]: wait this first
+sartak: sure
+amni [2k\]: it's a different situation, because matters on the edge are more complicated than matters in the center
+amni [2k\]: and it's even worse in the corner
+amni [2k\]: much, much worse
+amni [2k\]: black can play this way to defend territory to the left.
+sartak: Yeah, I've noticed that (about edges anyway)
+amni [2k\]: yep.
+]
+(;W[eb]C[amni [2k\]: now white must defend by connecting solidly.
+amni [2k\]: otherwise,
+])
+(;W[cc]
+;B[eb]C[amni [2k\]: black has E12
+amni [2k\]: which captures D12.
+]
+;W[da]
+;B[ea]C[amni [2k\]: it can't run to gain liberties, so it is captured.
+sartak: right
+amni [2k\]: so here, the presence of the edge nearby meant that E12 captured a stone.
+])))
+(;W[hd]C[amni [2k\]: if the analogous situation were played
+]
+;B[je]C[amni [2k\]: a very important concept.
+]
+;W[if]TR[ig]C[amni [2k\]: white can escape in good shape
+sartak: you *can* run
+amni [2k\]: yep
+amni [2k\]: now things would get complicated
+sartak: You're gaining two liberties a turn, I can only take one away
+amni [2k\]: yes, exactly!!
+sartak: :D
+amni [2k\]: J7 is the direction of greatest gain of liberties.
+amni [2k\]: that's the technical term for "head"
+amni [2k\]: if this had been played,
+amni [2k\]: there are now 6 seperate strings vying for life
+amni [2k\]: so a massive fight would ensue
+sartak: /me nods
+]))

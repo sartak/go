@@ -1,0 +1,151 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]HA[3]KM[0.50]
+PW[amni]PB[sartak]WR[1k]BR[11k]DT[2006-12-31]PC[The KGS Go Server at http://www.gokgs.com/]AB[gc][cg][gg]TB[aa][ba][ca][da][ea][fa][ga][ha][ia][ab][bb][cb][db][eb][fb][gb][hb][ib][ac][bc][cc][dc][ec][fc][hc][ic][ad][bd][cd][dd][ed][fd][gd][hd][id][ae][be][ce][de][ee][fe][ge][he][ie][af][bf][cf][df][ef][ff][gf][hf][if][ag][bg][dg][eg][fg][hg][ig][ah][bh][ch][dh][eh][fh][gh][hh][ih][ai][bi][ci][di][ei][fi][gi][hi][ii]C[sartak [11k?\]: OK good
+]RE[W+Resign]
+(;W[eg]C[sartak [11k?\]: have fun
+amni [1k\]: have fun
+sartak [11k?\]: :D
+]
+;B[ce]
+;W[gf]
+;B[fg]
+;W[ff]
+;B[hg]C[amni [1k\]: good start for you
+sartak [11k?\]: :)
+amni [1k\]: this is a good move, so is c5
+]
+(;W[df]
+;B[eh]C[amni [1k\]: and this
+]
+;W[cf]
+;B[dg]
+;W[ef]
+;B[bf]
+;W[cd]
+;B[dd]
+;W[be]
+;B[de]
+;W[bg]
+;B[bd]
+;W[af]
+;B[cc]
+;W[ec]
+;B[he]
+;W[dc]
+;B[ed]
+;W[fd]
+;B[fe]
+;W[fc]
+;B[db]
+;W[ee]
+;B[cd]
+;W[eb]
+;B[fb]
+;W[cb]
+;B[ge]
+;W[ch]
+;B[dh]
+;W[bc]
+(;B[bb]
+(;W[ad]C[sartak [11k?\]: ack
+sartak [11k?\]: hehe
+amni [1k\]: heh
+amni [1k\]: thank you, i wasn't doing so well there
+])
+(;W[]
+;B[ad]))
+(;B[ad]
+;W[ac])
+(;B[hf]
+(;W[bf]C[amni [1k\]: just capture then, don't connect
+sartak [11k?\]: hm?
+amni [1k\]: a6, not b4
+])
+(;W[ad])))
+(;W[ef]C[amni [1k\]: i should play this i guess.
+]))
+(;AE[gc]AW[df][ff][eg]AB[fg]C[amni [1k\]: hm
+amni [1k\]: it's a common connect under trick
+amni [1k\]: c3 and f3 can connect by e2
+amni [1k\]: like in the game,
+]
+(;W[]
+;B[eh]
+;W[dh]
+;B[dg]C[amni [1k\]: because this move is atari
+]
+;W[ef]C[sartak [11k?\]: yep
+]
+;B[ch])
+(;AE[df][ff][fg][gg]TR[gg][fh]C[amni [1k\]: so you need this move to prevent the connection
+amni [1k\]: this is why an approach of 1 space on the third line can be seen as an attack
+amni [1k\]: and is a very common move
+amni [1k\]: it threatens plays on the other side that connect under, for one thing.
+amni [1k\]: it aims here and here
+sartak [11k?\]: white wants both?
+amni [1k\]: black can aim to play either and connect to c3
+sartak [11k?\]: ah
+]
+;W[]
+;B[gg]C[amni [1k\]: for example
+amni [1k\]: this is more common on 19x19
+amni [1k\]: such a move is called a pincer
+amni [1k\]: it denies white's stone the opportunity to make a base
+amni [1k\]: this particular pincer also threatens to connect under
+]
+;W[ee]C[amni [1k\]: e5 is common but doesn't prevent the connection
+]
+;B[eh]
+;W[fh]
+;B[fg]
+;W[dh]C[amni [1k\]: good question
+amni [1k\]: e1 is a little easier on black
+]
+;B[ef]C[sartak [11k?\]: ah
+]
+(;W[dg]
+;B[df]TR[cf][ff]C[sartak [11k?\]: wait
+sartak [11k?\]: white played d3, why not e1
+amni [1k\]: also, here
+amni [1k\]: since white played d2
+amni [1k\]: er
+amni [1k\]: d3
+amni [1k\]: white can aim to cut at c4
+amni [1k\]: so white's play made a cutting point
+sartak [11k?\]: :D
+])
+(;W[ei]
+;B[dg]C[sartak [11k?\]: ah
+amni [1k\]: after that if white doesn't connect black gets a ko to kill the bottom stones
+]
+(;W[ff]
+;B[eh]C[amni [1k\]: this ko would be devastating for white to lose
+])
+(;W[eh]C[amni [1k\]: but if white connects, then white is worse off
+sartak [11k?\]: right, those stones are dead
+amni [1k\]: because for one thing, in the other position white had an eye at e2
+amni [1k\]: no, alive
+amni [1k\]: but
+amni [1k\]: worse off
+]
+;B[de]
+;W[ch]C[amni [1k\]: they have to crawl on the second line for eyes
+amni [1k\]: which is never good
+])))
+(;AE[df][ff][cg][eg][fg][gg]C[amni [1k\]: ok, want to play again?
+sartak [11k?\]: ya
+amni [1k\]: we should be at 2 stones soon
+]
+;W[ff]
+(;B[dg]TR[gg]C[amni [1k\]: in this joseki, when black approaches with a knights move, black aims at g3
+amni [1k\]: it's a similar kind of position
+])
+(;B[df]C[amni [1k\]: black can also approach high.
+amni [1k\]: that gets into the realm of corner joseki
+amni [1k\]: which are only meaningful on a 19x19 board
+sartak [11k?\]: okie
+sartak [11k?\]: I'm staying on 9x9 for a while
+sartak [11k?\]: :)
+amni [1k\]: on this side board, d4 means more for the lower left corner than for the lower right
+amni [1k\]: size*
+]))))
