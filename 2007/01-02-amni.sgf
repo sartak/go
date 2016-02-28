@@ -1,0 +1,277 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]HA[9]KM[0.50]TM[1200]OT[5x35 byo-yomi]
+PW[amni]PB[sartak]WR[1k]BR[11k]DT[2007-01-02]PC[The KGS Go Server at http://www.gokgs.com/]AB[dd][jd][pd][dj][jj][pj][dp][jp][pp]C[amni [1k\]: have the fun
+sartak [11k?\]: you too good sir
+]RE[W+Resign]
+;W[nc]WL[1184.705]
+;B[nd]BL[1197.9]C[amni [1k\]: you have to start working out 19x19 strategy
+]
+;W[md]WL[1177.795]
+;B[ne]BL[1196.002]C[amni [1k\]: but you can't learn it all with 9H
+amni [1k\]: some things you need to learn in an even game
+amni [1k\]: like opening strategy
+sartak [11k?\]: :)
+]
+;W[oc]WL[1164.354]C[sartak [11k?\]: nod
+]
+;B[pb]BL[1185.803]
+;W[pc]WL[1159.786]
+;B[qc]BL[1177.419]
+;W[qd]WL[1155.738]
+;B[qe]BL[1169.906]
+;W[rd]WL[1153.023]
+;B[qb]BL[1153.317]
+;W[re]WL[1147.093]
+;B[qf]BL[1148.007]
+;W[od]WL[1138.58]
+;B[pe]BL[1145.28]
+;W[rf]WL[1134.628]
+;B[oe]BL[1142.097]
+;W[qg]WL[1117.889]
+;B[pg]BL[1135.17]
+;W[qh]WL[1111.737]
+;B[ri]BL[1110.083]
+;W[lc]WL[1106.404]
+;B[kb]BL[1101.551]
+;W[ph]WL[1091.883]
+;B[oh]BL[1096.88]
+;W[oi]WL[1079.592]
+;B[og]BL[1091.524]
+;W[pi]WL[1071.3]
+;B[qi]BL[1087.661]
+;W[mi]WL[1061.838]
+;B[mh]BL[1085.635]
+;W[lh]WL[1053.99]
+;B[lf]BL[1071.375]
+;W[nh]WL[1048.211]
+;B[mg]BL[1069.566]
+;W[ke]WL[1042.053]
+;B[jf]BL[1061.867]
+;W[kf]WL[1036.583]
+;B[ld]BL[1046.104]
+;W[kd]WL[1027.196]
+;B[le]BL[1040.42]C[sartak [11k?\]: hmm
+]
+;W[kc]WL[1022.203]
+;B[jc]BL[1033.549]
+;W[je]WL[1016.034]
+;B[ie]BL[1030.79]
+;W[id]WL[1012.51]
+;B[ic]BL[1027.096]
+;W[hd]WL[1009.204]
+;B[gc]BL[1020.723]
+;W[gd]WL[985.215]
+;B[if]BL[1016.521]
+;W[hc]WL[969.329]
+;B[kg]BL[1004.405]
+;W[lb]WL[923.23]
+;B[jb]BL[994.534]
+;W[hb]WL[918.509]
+;B[mb]BL[943.619]
+;W[mc]WL[907.051]
+;B[nb]BL[940.455]
+;W[ob]WL[900.468]
+;B[oa]BL[932.831]
+;W[ma]WL[890.442]
+;B[me]BL[916.047]
+;W[na]WL[886.249]
+;B[fe]BL[893.99]
+;W[gf]WL[855.069]
+;B[ge]BL[883.344]
+;W[he]WL[851.238]
+;B[hf]BL[874.873]
+;W[gg]WL[825.74]
+;B[ih]BL[860.835]
+;W[eg]WL[808.052]
+;B[fh]BL[846.953]
+;W[ef]WL[795.951]C[sartak [11k?\]: This isn't rated is it?
+amni [1k\]: it's free
+sartak [11k?\]: ok
+]
+;B[fc]BL[831.556]
+;W[fd]WL[784.113]
+;B[ed]BL[829.466]
+;W[ee]WL[777.438]
+;B[df]BL[810.637]
+;W[de]WL[771.878]
+;B[ce]BL[808.515]
+;W[cd]WL[768.852]
+;B[cc]BL[796.581]
+;W[bd]WL[765.056]
+;B[bc]BL[788.121]
+;W[be]WL[759.45]
+;B[cf]BL[786.592]
+;W[bf]WL[756.947]
+;B[cg]BL[782.919]
+;W[bg]WL[754.07]
+;B[dh]BL[770.146]
+;W[ch]WL[746.045]
+;B[dg]BL[764.195]
+;W[di]WL[744.018]
+;B[eh]BL[762.3]
+;W[ci]WL[742.104]
+;B[ei]BL[751.488]
+;W[cj]WL[737.667]
+;B[dk]BL[749.062]
+;W[ec]WL[724.623]C[sartak [11k?\]: :/
+sartak [11k?\]: My stones may be surviving but you're definitely winning more points :)
+amni [1k\]: it's ok
+]
+;B[fg]BL[719.998]C[amni [1k\]: just watch the shapes that show up
+]
+;W[ff]WL[719.489]
+;B[dc]BL[715.67]
+;W[eb]WL[716.713]
+;B[fb]BL[703.646]C[amni [1k\]: so you can begin to see which ones are effective
+]
+;W[fa]WL[709.302]
+;B[bl]BL[680.915]
+;W[qk]WL[690.001]
+;B[pl]BL[654.714]
+;W[qj]WL[667.887]
+;B[pk]BL[644.074]
+;W[rj]WL[650.9]
+;B[qm]BL[638.005]C[amni [1k\]: better to play that at R8 and take a liberty off of R9
+]
+;W[nq]WL[618.766]C[sartak [11k?\]: ok
+]
+;B[oq]BL[626.481]
+;W[np]WL[614.843]
+;B[no]BL[624.148]
+;W[lp]WL[596.759]
+;B[kr]BL[612.294]
+;W[qq]WL[582.112]
+;B[op]BL[606.053]
+;W[or]WL[574.975]
+;B[mp]BL[584.998]
+;W[mq]WL[570.337]C[sartak [11k?\]: heh
+sartak [11k?\]: I wonder if you saw what I was going to do or just somehow knew that was the right move
+]
+;B[mo]BL[564.9]C[amni [1k\]: i'm just playing by instinct
+]
+;W[pr]WL[550.67]C[amni [1k\]: not really reading things
+]
+;B[lq]BL[559.629]
+;W[qp]WL[540.612]
+;B[lr]BL[552.445]
+;W[nr]WL[535.619]
+;B[qo]BL[536.726]C[amni [1k\]: i've made several mistakes so far
+]
+;W[ro]WL[530.02]
+;B[rn]BL[525.613]
+;W[gh]WL[509.458]
+;B[ej]BL[498.965]
+;W[gj]WL[498.118]
+;B[rp]BL[495.065]
+;W[po]WL[490.009]C[sartak [11k?\]: you are a big jerk
+amni [1k\]: heh
+]
+;B[oo]BL[469.78]
+;W[qn]WL[487.073]
+;B[pn]BL[464.3]
+;W[qo]WL[483.681]
+;B[gl]BL[443.218]C[amni [1k\]: that's a nice move, it has a special name
+]
+;W[dr]WL[462.342]C[amni [1k\]: a "capping play"
+]
+;B[fq]BL[432.957]C[sartak [11k?\]: I see
+]
+;W[eq]WL[449.035]
+;B[ep]BL[427.024]
+;W[fr]WL[445.593]
+;B[gr]BL[411.447]C[amni [1k\]: if you're trying to head off the advance of a line of stones, the spot which is a 1-pt jump from the head of the line is often the best place
+sartak [11k?\]: :)
+]
+;W[gq]WL[421.767]
+;B[fp]BL[403.826]
+;W[hr]WL[419.156]
+;B[hq]BL[392.939]
+;W[gp]WL[412.11]
+;B[go]BL[380.809]
+;W[hp]WL[408.763]
+;B[iq]BL[379.097]
+;W[ho]WL[403.781]
+;B[hn]BL[344.706]
+;W[gn]WL[397.677]
+;B[fo]BL[342.194]
+;W[in]WL[395.295]C[sartak [11k?\]: wow
+sartak [11k?\]: you're good at this
+amni [1k\]: these are mostly standard plays
+]
+;B[hm]BL[314.647]
+;W[io]WL[392.275]
+;B[jm]BL[308.474]C[amni [1k\]: when you get to 1k you'll realize how bad 1k really is
+sartak [11k?\]: haha
+]
+;W[on]WL[370.197]C[sartak [11k?\]: My goal here is just to stave off your iron curtain
+]
+;B[pm]BL[300.294]
+;W[kn]WL[363.06]C[sartak [11k?\]: shouldn't have told you that I guess
+]
+;B[jn]BL[284.414]C[amni [1k\]: it's ok, i don't know what you mean by iron curtain.
+]
+;W[jo]WL[356.769]
+;B[ko]BL[279.898]
+;W[lo]WL[352.971]
+;B[kp]BL[274.385]
+;W[ln]WL[348.659]
+;B[nm]BL[268.591]
+;W[ll]WL[335.915]C[sartak [11k?\]: just the creeping of your ladder
+]
+;B[ml]BL[248.014]
+;W[lk]WL[320.674]
+;B[lj]BL[244.04]
+;W[mk]WL[308.109]
+;B[lm]BL[226.651]
+;W[km]WL[303.49]
+;B[mm]BL[223.334]
+;W[kl]WL[298.299]
+;B[im]BL[209.926]
+;W[gs]WL[294.535]C[sartak [11k?\]: huh!
+sartak [11k?\]: hehe
+amni [1k\]: *confused*
+sartak [11k?\]: I forgot that group had only two liberties
+amni [1k\]: oh yeah.
+]
+;B[cq]BL[165.408]
+;W[ir]WL[287.792]
+;B[jr]BL[130.717]
+;W[nk]WL[273.036]
+;B[ok]BL[118.106]
+;W[jq]WL[265.098]
+;B[kq]BL[100.666]
+;W[cr]WL[261.089]
+;B[br]BL[82.68]
+;W[bs]WL[257.264]
+;B[bq]BL[80.397]
+;W[is]WL[246.105]
+;B[js]BL[74.562]
+;W[ls]WL[242.597]C[sartak [11k?\]: grumble grumble
+]
+;B[ms]BL[53.047]
+;W[mr]WL[239.613]C[amni [1k\]: m1 is a normal eye-stealing tesuji
+]
+;B[ip]BL[25.373]
+;W[gr]WL[235.983]
+;B[dq]BL[21.163]
+;W[er]WL[232.684]
+;B[cn]BL[35]OB[5]C[amni [1k\]: you're doing a lot better than the last time we did 9H
+]
+;W[bk]WL[220.234]C[sartak [11k?\]: :)
+]
+;B[ck]BL[35]OB[5]
+;W[aj]WL[207.464]
+;B[al]BL[35]OB[5]
+;W[jg]WL[167.468]
+;B[ig]BL[35]OB[5]
+;W[lg]WL[157.161]
+;B[kh]BL[35]OB[5]
+;W[li]WL[152.482]
+;B[kj]BL[257.967]
+;W[ng]WL[144.201]
+;B[mf]BL[237.623]
+;W[ik]WL[128.486]C[amni [1k\]: thank you
+sartak [11k?\]: You too
+amni [1k\]: you need to watch your cutting points, mainly
+amni [1k\]: and mine
+])

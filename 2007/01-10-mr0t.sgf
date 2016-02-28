@@ -1,0 +1,134 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[6.50]
+PW[sartak]PB[mr0t]WR[16k]DT[2007-01-10]PC[The KGS Go Server at http://www.gokgs.com/]RE[W+14.50]
+;B[gf]C[sartak [16k\]: hello sir
+sartak [16k\]: Do you know about the rule of ko?
+sartak [16k\]: It's the only mildly difficult rule
+]
+;W[cc]C[mr0t: as I understand it, you can't make the same move twice in a row
+sartak [16k\]: sort of
+mr0t: in the instance where your opponent reverses the move you made
+sartak [16k\]: yes
+sartak [16k\]: That's it
+sartak [16k\]: You can't repeat board state
+]
+;B[dg]
+;W[df]
+;B[ef]
+;W[eg]
+;B[ff]
+;W[dh]
+;B[cg]
+;W[eh]C[mr0t: its fascinating to me how computers can beat any human at chess, but not so with go
+sartak [16k\]: :)
+sartak [16k\]: yeah
+]
+;B[ch]C[sartak [16k\]: Some bots can still beat me
+sartak [16k\]: but aioli's at the point where he can beat any bot
+mr0t: how long have you been playing?
+sartak [16k\]: a month
+]
+;W[cf]C[mr0t: 16kyu is pretty good right? it goes down starting from 30 kyu?
+sartak [16k\]: technically
+sartak [16k\]: Advancement is very rapid in the beginning
+sartak [16k\]: 9k is probably the first rank that can be said to be any good
+]
+;B[dd]
+;W[ee]
+;B[de]
+;W[ed]C[mr0t: well let me put it this way.. i've never won against a bot :)
+sartak [16k\]: :)
+sartak [16k\]: There are some easy bots on kgs
+]
+;B[ec]
+;W[dc]
+;B[fd]
+;W[bh]
+;B[bf]
+;W[ce]
+;B[fe]
+;W[bg]
+;B[cd]
+;W[ci]C[mr0t: doh!
+sartak [16k\]: :)
+]
+;B[bc]
+;W[bb]
+;B[db]
+;W[cb]
+;B[bd]
+;W[eb]
+;B[ed]
+;W[be]
+;B[fb]
+;W[da]
+;B[fg]
+;W[gh]
+;B[hg]
+;W[fa]
+;B[gc]
+;W[gb]C[mr0t: hm
+mr0t: i guess my best move would be F7
+sartak [16k\]: F7 probably isn't a bad move, no
+sartak [16k\]: might be better moves though
+]
+;B[hc]
+;W[ib]
+;B[hb]
+;W[fc]
+;B[gd]
+;W[ha]
+;B[ic]
+;W[ga]
+;B[ab]
+;W[ba]
+;B[fb]C[sartak [16k\]: heya doy
+]
+;W[ih]
+;B[ig]
+;W[fc]C[doy: hey
+mr0t: ok, I'm trying to figure out if you have 2 eyes in your top structure
+sartak [16k\]: :)
+mr0t: not yet, I think
+]
+;B[hh]
+;W[fb]C[sartak [16k\]: do now
+mr0t: 3 technically?
+sartak [16k\]: yeah
+]
+;B[fh]
+;W[fi]
+;B[hi]
+;W[gi]
+;B[hf]
+;W[ad]
+;B[ac]
+;W[ae]C[mr0t: hm
+sartak [16k\]: the game ends when we both pass
+]
+;B[ii]
+;W[ia]C[sartak [16k\]: you don't need to capture J2
+sartak [16k\]: we can mark it as dead in the endgame
+sartak [16k\]: well, postgame
+mr0t: the game's pretty much over right?
+sartak [16k\]: yeah I'd say it's over
+]
+;B[]C[sartak [16k\]: The only possible move for you is G3
+sartak [16k\]: which forces me to connect at E1
+sartak [16k\]: which actually gives you a point
+mr0t: hm
+sartak [16k\]: but too late :)
+]
+;W[]TW[ca][ea][db][af][bf][ag][cg][dg][ah][ch][ai][bi][di]TB[hd][id][ee][ge][he][ie][if][ih]C[sartak [16k\]: hmm
+mr0t: which stones are dead?
+sartak [16k\]: So E1 isn't considered mine
+sartak [16k\]: so you playing G3 wouldn't have done anything
+sartak [16k\]: Only B4
+sartak [16k\]: which I've marked as dead
+mr0t: ah, ok.
+mr0t: that was fun :)
+sartak [16k\]: yes :)
+sartak [16k\]: Click done sir
+mr0t: you werent going easy on me were you
+sartak [16k\]: not at all
+])

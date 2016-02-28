@@ -1,0 +1,567 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[6.50]
+PW[sartak]PB[doy]WR[16k]DT[2007-01-10]PC[The KGS Go Server at http://www.gokgs.com/]C[sartak [16k\]: hallo hallo
+doy: hey
+sartak [16k\]: OK
+sartak [16k\]: hehe
+sartak [16k\]: The object of the game is to surround as much territory as you can
+sartak [16k\]: players take turns placing stones, you've probably gleaned that much :)
+doy: yeah
+doy: (:
+sartak [16k\]: Normally stones have four liberties
+doy: okay
+sartak [16k\]: adjacent stones of one color are connected
+sartak [16k\]: there are some configurations that can never be captured
+sartak [16k\]: one last rule: ko
+sartak [16k\]: this is the only arguably difficult rule to grok
+sartak [16k\]: Now let me show you a few patterns
+]RE[W+4.50]
+(;B[ge]
+(;W[fe]
+;B[ee]
+;W[de]
+;B[ce]
+;W[be]
+;B[ae]
+;W[he]
+;B[ie]
+;W[id]
+;B[hd]C[sartak [16k\]: oops
+]
+;W[if]C[sartak [16k\]: hmm
+])
+(;W[gf]
+;B[ff]
+;W[fg]
+;B[hf]
+;W[hg]
+;B[gg]
+;W[gh]
+;B[bc]C[sartak [16k\]: ok say white plays to capture that black stone
+]
+;W[gf]C[doy: are there cases where both players can lose pieces with a single move?
+sartak [16k\]: under the rules presented thus far, black could immediately capture the white stone that was just played
+sartak [16k\]: nope
+doy: okay
+sartak [16k\]: Imagine if it's a close game, one that was so close that it depended who had control of this small piece of the board
+sartak [16k\]: Without the rule of ko, this back-and-forth could go on infinitely
+]
+;B[cb]
+;W[bb]
+;B[gg]
+;W[]
+;B[]
+;W[gf]
+;B[]
+;W[]
+;B[gg]C[sartak [16k\]: like that
+sartak [16k\]: however
+sartak [16k\]: The rule of ko forbids repetition of board state
+sartak [16k\]: so white cannot play G4 (on the square) right away
+sartak [16k\]: so white plays somewhere else
+]
+;W[cc]C[sartak [16k\]: black can now fill in the hole there or respond
+sartak [16k\]: let's say he responds
+]
+;B[dc]C[sartak [16k\]: now white can retake the ko
+sartak [16k\]: because the board isn't the same as it was last time
+]
+;W[gf]C[sartak [16k\]: now let's say black threatens
+]
+;B[cd]C[sartak [16k\]: white can't do much about that
+sartak [16k\]: and he doesn't want to lose that ko fight
+sartak [16k\]: so he just fills it in
+]
+;W[gg]C[sartak [16k\]: You don't need to know so much about that
+doy: okay
+sartak [16k\]: Just the basic thing about ko: you can't repeat board state
+doy: it's any board state at all, at any point?
+sartak [16k\]: yep
+sartak [16k\]: Though with the Japanese ruleset it's simplified
+sartak [16k\]: for example
+]))
+(;B[fd]TR[fc][ed][gd][fe]C[sartak [16k\]: a liberty is an empty space next to that stone
+sartak [16k\]: orthogonally only
+doy: okay
+sartak [16k\]: stones on the side have three liberties, stones in corners have two
+sartak [16k\]: however, it's only empty spaces that are liberties
+]
+;W[ed]C[sartak [16k\]: now the black stone has only three liberties
+]
+;B[ia]
+;W[gd]
+;B[aa]
+;W[fc]
+;B[ae]C[sartak [16k\]: the black stone has only liberty now
+sartak [16k\]: when a stone has only one liberty we say it's in atari
+sartak [16k\]: atari is important because the next turn..
+]
+;W[fe]C[sartak [16k\]: stones with no liberties are removed from the board
+])
+(;B[fc]
+;W[ae]
+;B[fd]TR[fb][ec][gc][ed][gd][fe]C[sartak [16k\]: this black group has six liberties
+doy: adjacent in the same way as before?
+sartak [16k\]: yeah
+sartak [16k\]: Diagonals don't (directly) matter at all in Go
+doy: okay
+sartak [16k\]: if white wanted to capture this group he'd have to put stones on all six triangles
+sartak [16k\]: obviously that'd be difficult to do because black would want to prevent the capture of this group
+]
+;W[ed]
+;B[ec]
+;W[fe]
+;B[ee]
+;W[dd]
+;B[gc]C[sartak [16k\]: hmm
+])
+(;B[gc]
+;AB[ec][fc][ed][gd][ee][fe][ge][ef][gf][eg][fg][gg]C[sartak [16k\]: oh
+sartak [16k\]: let me talk about suicide first
+sartak [16k\]: which was what I was going to describe before going to suicide
+sartak [16k\]: can white capture this black group?
+doy: doesn't look like it
+sartak [16k\]: correct
+]
+;W[fb]
+;AE[ec][fc][gc][ed][gd][ee][fe][ge][ef][gf][eg][fg][gg]AW[db][eb][gb][hb][dc][hc][dd][hd][de][he][df][ff][hf][dg][hg][dh][eh][fh][gh][hh]C[sartak [16k\]: white can't play at F6 because it's suicide
+sartak [16k\]: Same for F4
+sartak [16k\]: And since white can't place two stones simultaneously
+sartak [16k\]: the black group is said to be alive
+sartak [16k\]: Holes like F4 and F6 are called eyes
+sartak [16k\]: Two eyes are sufficient for life
+sartak [16k\]: of course, if black was an imbecile..
+sartak [16k\]: the group could be captured
+sartak [16k\]: but black would have to be really daft to fill in his own eye like that
+sartak [16k\]: ok, now let's try a game
+doy: okay
+])
+(;AW[fe][ef][gf][fg]AB[fd][ee][ge]TR[fe]C[sartak [16k\]: white can't play at the triangle because that would be suicide
+sartak [16k\]: suicide is forbidden
+doy: okay
+sartak [16k\]: there is an exception though
+sartak [16k\]: now white can play at the triangle
+sartak [16k\]: because he's capturing stone(s) in the process
+sartak [16k\]: so in that case he's not committing suicide
+])
+(;AW[cd][gd][be][de][fe][he][cf][gf][eg][dh][fh][ei]AB[cc][gc][bd][dd][fd][hd][ef][dg][fg]C[sartak [16k\]: With Japanese it only looks at this case of back-and-forth
+]
+;B[ce]
+;W[eb]
+;B[ge]C[sartak [16k\]: however
+sartak [16k\]: with triple ko the ko _does_ go on indefinitely
+]
+;W[cd]
+;B[eh]
+;W[gd]
+;B[ce]
+;W[eg]
+;B[ge]
+;W[cd]
+;B[eh]
+;W[gd]
+;B[ce]
+;W[eg]
+;B[ge]
+;W[cd]
+;B[eh]
+;W[gd]C[sartak [16k\]: :)
+sartak [16k\]: The Japanese ruleset doesn't forbid this
+sartak [16k\]: but most rulesets do
+doy: yeah, that's basically what i was getting at earlier
+doy: what happens at that point?
+sartak [16k\]: A ruleset that forbids triple ko has superko rule, which is _all_ board state
+sartak [16k\]: If one player is winning by a lot, he'll just let the other player win the ko fight
+sartak [16k\]: But if it's close the game ends with no result (and if it counts for something, must be replayed)
+sartak [16k\]: so yeah
+sartak [16k\]: You don't need to know this stuff, just the basic rules are fine
+doy: okay
+sartak [16k\]: At your level you don't really even need to know ko
+doy: (:
+doy: it's good to keep in mind though
+sartak [16k\]: So let's try a game out; I won't go easy on you but I will give you some handicap stones
+sartak [16k\]: oh
+doy: okay
+sartak [16k\]: first let me just briefly describe life
+])
+(;AW[cc][gc][gg])
+(;AB[cc][gc][cg][gg]
+;B[]
+;W[ee]C[sartak [16k\]: ok, your turn
+]
+;B[gf]
+;W[ge]
+;B[fe]
+;W[ff]
+;B[fd]
+;W[gd]
+;B[hd]
+;W[he]
+;B[hf]
+;W[ie]
+;B[if]C[sartak [16k\]: heh
+sartak [16k\]: >_>
+sartak [16k\]: There's also a rule where you can't capture a group like this
+doy: hmmm
+]
+;W[id]C[doy: oh, really
+sartak [16k\]: F7 is forbidden
+doy: useful stuff to know
+doy: why?
+sartak [16k\]: because it'll be embarrassing for me if you play it
+sartak [16k\]: hey look H6 is in atari!!
+sartak [16k\]: (that'll teach me to not think)
+doy: wait, f7?
+sartak [16k\]: j7, sorry
+doy: heh, okay
+sartak [16k\]: You can play J7 :)
+sartak [16k\]: J7 is fine!
+]
+;B[ic]C[sartak [16k\]: damn
+sartak [16k\]: And I trusted you, reverse psychology!
+doy: (:
+]
+;W[ef]
+;B[dg]
+;W[dc]
+;B[db]
+;W[cb]
+;B[dd]
+;W[ec]
+;B[eb]
+;W[ed]
+;B[fc]
+;W[cd]C[sartak [16k\]: double atari! \\m/
+]
+;B[de]C[doy: (:
+]
+;W[bc]
+;B[df]
+;W[eg]C[sartak [16k\]: oh yeah
+sartak [16k\]: The game ends when one player resigns or runs out of time, or both players pass
+sartak [16k\]: There's no shame in resigning
+sartak [16k\]: There IS shame in playing on in the face of utter defeat
+doy: sounds like chess
+doy: (:
+sartak [16k\]: because you're insulting your opponent by suggesting he might misplay and let you capitalize
+sartak [16k\]: and wasting his time
+sartak [16k\]: but!
+sartak [16k\]: Don't worry so much about that among our NetHack friends :)
+doy: (:
+doy: yeah, it's like that in chess, among people who actually play seriously
+sartak [16k\]: good :)
+doy: but i only ever played on the high school team
+doy: which, as you can imagine, had quite a bit of waiting for the other person to make a mistake
+doy: (:
+sartak [16k\]: hehe
+]
+;B[fg]C[sartak [16k\]: I find Go to be very fun
+sartak [16k\]: More fun than I ever found chess
+]
+;W[eh]
+;B[dh]
+;W[gh]
+;B[hh]C[sartak [16k\]: After this game I'll teach you some patterns
+]
+;W[fi]
+;B[fh]
+;W[gi]
+;B[ei]
+;W[di]C[doy: heh, oops
+sartak [16k\]: it's cool, I was making that mistake until about my eighteenth game :)
+]
+;B[hi]
+;W[ei]
+;B[ci]C[sartak [16k\]: :)
+sartak [16k\]: You're doing well
+]
+;W[cc]C[sartak [16k\]: you've definitely got this game won
+sartak [16k\]: but
+sartak [16k\]: we should play it out so you can see how it's scored
+]
+;B[da]
+;W[ca]
+;B[ce]
+;W[fb]C[sartak [16k\]: The first real tactic you'll learn is cutting and connecting
+]
+;B[gb]C[sartak [16k\]: F8 was a huge cut
+sartak [16k\]: because of E9 :)
+doy: yeah
+]
+;W[ea]C[sartak [16k\]: I might still win this game
+sartak [16k\]: if I can kill the left group
+sartak [16k\]: and I think I can
+sartak [16k\]: kill = deny the opportunity to make two eyes and live
+sartak [16k\]: :)
+]
+;B[bf]
+;W[be]
+;B[bh]
+;W[af]C[sartak [16k\]: There's a Go proverb I really like
+sartak [16k\]: Lose your first fifty games as quickly as possible
+]
+;B[bg]
+;W[ag]C[sartak [16k\]: but I'm not sure that it'll apply to you
+sartak [16k\]: :)
+]
+;B[bi]
+;W[ga]
+;B[hb]
+;W[ha]
+;B[ib]
+(;W[ah]C[sartak [16k\]: If you had played A2 you would've gotten a point for A1
+sartak [16k\]: So I deny you that point
+sartak [16k\]: J9 and A1 are examples of dame
+sartak [16k\]: Points controlled by neither side
+sartak [16k\]: In the endgame playing in them is a waste of time since it'll affect neither side's score
+doy: does control count actual pieces?
+doy: or just space
+sartak [16k\]: Well
+sartak [16k\]: Control is defined by actual pieces
+sartak [16k\]: It uses a floodfill
+sartak [16k\]: You flood a territory, if it's surrounded entirely by one color then the territory is owned by that color
+sartak [16k\]: (you're the first person I've been able to give that explanation to :))
+doy: (:
+sartak [16k\]: now in this case you can either
+sartak [16k\]: pass or play J9
+sartak [16k\]: You'd play J9 to force me to connect at F9
+sartak [16k\]: however I think the scoring algorithm takes into account that I'd just connect
+sartak [16k\]: so you can pass
+]
+;B[ia]
+;W[fa]C[sartak [16k\]: :)
+]
+;B[]C[sartak [16k\]: if I played here
+]
+(;W[]TW[aa][ba][da][ab][bb][db][eb][ac][ad][bd]TB[hc][gd][id][ge][he][ie][cf][hg][ig][ch][ih][ii]C[sartak [16k\]: ok
+sartak [16k\]: there are no dead stones
+sartak [16k\]: Somehow I won
+doy: what are dead stones?
+sartak [16k\]: I'll show ya after the game
+sartak [16k\]: Just click done
+sartak [16k\]: to finalize this
+sartak [16k\]: ok
+sartak [16k\]: A dead group is one that both players agree is dead
+sartak [16k\]: for example
+])
+(;W[he]TW[aa][ba][da][ab][bb][db][eb][ac][ad][bd]TB[hc][gd][id][ge][he][ie][cf][hg][ig][ch][ih][ii]C[sartak [16k\]: there's absolutely no way for that stone to survive
+sartak [16k\]: And capturing it is not only a waste of time for you, but actually decreases your score
+sartak [16k\]: because you'd be playing some tones in your own territory
+sartak [16k\]: I marked that white stone as dead
+sartak [16k\]: Each side's score is simply captures + the smaller stones (= controlled territory)
+sartak [16k\]: you get no points for stones of your color on the board
+sartak [16k\]: So playing in your own territory decreases your score
+sartak [16k\]: So you can just ignore the play by white at H
+sartak [16k\]: 5
+sartak [16k\]: and just later on when score is tallied say it's dead
+sartak [16k\]: now if there's a dispute about the life/death of a group
+sartak [16k\]: at the endgame when things are being scored
+sartak [16k\]: You can actually just resume play
+sartak [16k\]: ok well
+sartak [16k\]: What do you think?
+sartak [16k\]: I'm honestly surprised I won
+doy: hmmm
+doy: is 6.5 points standard for all board sizes?
+sartak [16k\]: Any questions?
+sartak [16k\]: I think so
+sartak [16k\]: It's the default for all board sizes on KGS anyway
+]))
+(;W[]C[sartak [16k\]: hmm
+sartak [16k\]: I shouldn't have passed
+doy: why?
+sartak [16k\]: Can I have an undo? :)
+sartak [16k\]: (you can say no)
+doy: go for it
+]))
+(;B[hg]
+;W[bd]
+;B[he]C[sartak [16k\]: this move by black is called a one-point jump
+sartak [16k\]: There's a proverb that says one point jumps are never bad moves
+sartak [16k\]: obviously that's not true in _all_ cases but one-point jumps are very good
+sartak [16k\]: say I try to attack it by playing in the middle
+]
+;W[hf]C[sartak [16k\]: already white is down to two liberties and black hasn't even played yet
+]
+;B[gf]
+;W[if]
+;B[ig]
+;W[ie]
+;B[id]C[sartak [16k\]: the capture only happened because we're on the side but it's indicative of how good the one-point jump is
+doy: yeah
+])
+(;B[hf]
+;W[]
+;B[hg]
+;W[]
+;B[gg]
+;W[]
+;B[fg]
+;W[]
+;B[he]
+;W[gf]C[sartak [16k\]: here's a.. shape? called a ladder
+sartak [16k\]: black wants to capture white
+sartak [16k\]: now
+]
+(;B[ff]C[sartak [16k\]: white's in atari so he extends
+]
+;W[ge]C[sartak [16k\]: black says no thanks ma'am and blocks
+sartak [16k\]: your turn
+]
+(;B[gd]
+;W[fe]
+;B[ee]
+;W[fd]
+;B[fc]
+;W[ed]
+;B[dd]
+;W[ec]
+;B[eb]
+;W[dc]
+;B[cc]
+;W[db]
+;B[da]
+;W[cb]
+;B[bb]
+;W[de]
+;B[ca]C[sartak [16k\]: hee
+sartak [16k\]: OK
+sartak [16k\]: Just making sure you know how to play out a ladder is all :)
+doy: (:
+sartak [16k\]: White's moves are very easy, since he's always in atari on his turn
+sartak [16k\]: There's a way ladders can bend if black has stones around but that's kinda beyond me
+sartak [16k\]: You'd need aioli to show ya that
+sartak [16k\]: and I think I pissed him off :)
+sartak [16k\]: My advice now is to play other people
+sartak [16k\]: most preferably NetHack people
+doy: (:
+doy: who is any good?
+sartak [16k\]: I recommend playing stumbly, mr0t, HanClinto, arcanehl
+sartak [16k\]: They're about your skill level I'd say
+sartak [16k\]: raxvulpine and I are the next tier up
+sartak [16k\]: and aioli is a few tiers above us :)
+doy: (:
+sartak [16k\]: There's also a few of my friends who are learning, jasonmay and Dragnox
+doy: i was meaning to teach my girlfriend too
+sartak [16k\]: There's a buddy list system on KGS, I recommend you use it :)
+sartak [16k\]: (and register!!)
+doy: yeah, that too
+sartak [16k\]: ok well see ya
+sartak [16k\]: Thanks for the game, hope you enjoy Go
+doy: alright
+doy: (:
+doy: see ya
+])
+(;B[gd]C[sartak [16k\]: whte's in atari so he extends
+]
+;W[fe]C[sartak [16k\]: black says no thanks ma'am and blocks
+]
+;B[ee]C[sartak [16k\]: and so on
+sartak [16k\]: but let's suppose white has a stone up yonder
+]
+(;W[fd]
+;B[fc]
+;W[ed]
+;B[dd]
+;W[ec]
+;B[eb]
+;W[dc]
+;B[cc]
+;W[db]
+;B[da]
+;W[cb]
+;B[bb]C[sartak [16k\]: now..
+sartak [16k\]: white could play C9
+sartak [16k\]: but it'd be a bad move
+sartak [16k\]: so white plays somewhere else
+]
+(;W[ca]
+;B[ba])
+(;W[de]C[sartak [16k\]: but
+sartak [16k\]: he's still in deep shit
+]
+;B[ca]C[sartak [16k\]: so
+sartak [16k\]: Ordinary ladders are bad for the interior
+]))
+(;W[db]
+;B[]
+;W[fd]C[sartak [16k\]: ok say black now notices that he's in trouble
+sartak [16k\]: that inevitably white will succeed in this ladder and screw black up hard
+sartak [16k\]: so he decides not to play F7, the normal ladder move
+sartak [16k\]: and plays E6
+]
+(;B[fc]C[sartak [16k\]: the shape is what keeps white limited in liberties
+sartak [16k\]: ok so that's about it with ladders
+]
+;W[ed]
+;B[dd]
+;W[ec]
+;B[eb]
+;W[dc]C[amni [1k\]: hi. elbreth is name of aartifact.
+sartak [16k\]: sorry about that
+doy: ...
+sartak [16k\]: ok
+sartak [16k\]: amni = aioli
+doy: ah
+sartak [16k\]: Now white's in a very good state
+doy: (:
+sartak [16k\]: He's not really near atari
+sartak [16k\]: So he can attack those black stones by playing a bunch of double ataris
+]
+;B[cc]
+;W[fb]
+;B[gc]
+;W[ea]
+;B[ef]C[doy: so black probably wants to force the ladder in another direction before it gets here
+]
+;W[cd]
+;B[de]
+;W[cb]
+;B[bc]
+;W[bd]
+;B[bb]
+;W[ba]C[sartak [16k\]: right, BUT
+sartak [16k\]: The ladder is a fragile thing sir
+])
+(;B[ed]C[sartak [16k\]: white's still in atari, so he extends
+]
+;W[fc]C[amni [1k\]: why would black capture that way when he could have just netted with F5
+sartak [16k\]: amni: because D8 was introduced later
+sartak [16k\]: ladder -> ladder with a friendly stone up yonder -> net
+sartak [16k\]: anyway
+sartak [16k\]: white's still fine because he can escape easily
+]
+;B[ec]
+;W[fb]
+;B[eb]
+(;W[gb])
+(;W[gc]
+;B[hd]
+;W[hc]
+;B[ic]C[amni [1k\]: j7 is a mistake, E9 and white is dead
+sartak [16k\]: shaddap!
+doy: (:
+amni [1k\]: :/
+sartak [16k\]: that's lesson #2971
+amni [1k\]: mew
+sartak [16k\]: ok
+sartak [16k\]: So the ladder has a very defined play
+sartak [16k\]: White extends, black plays the next stone over
+])))))
+(;AW[ec][fc][gc][dd][de][df]TR[gf]C[sartak [16k\]: black wants to capture the triangled stone
+sartak [16k\]: he obviously can't do a ladder because of all the friendly stones
+sartak [16k\]: it's black's turn
+sartak [16k\]: where does he play?
+doy: hmmm
+doy: f5?
+]
+;B[fe]C[sartak [16k\]: hmm
+sartak [16k\]: Nets are pretty easy
+sartak [16k\]: But let's play out a ladder
+]
+;W[ff]
+;B[ef]
+;W[ge]
+;B[gd]C[sartak [16k\]: but yes
+sartak [16k\]: That's correct :)
+sartak [16k\]: F5 is called a net
+])))

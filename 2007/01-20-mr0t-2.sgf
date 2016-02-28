@@ -1,0 +1,179 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[0.50]
+PW[sartak]PB[mr0t]WR[16k]BR[29k]DT[2007-01-20]PC[The KGS Go Server at http://www.gokgs.com/]C[mr0t [29k?\]: hm
+]RE[W+46.50]
+;B[ee]C[sartak [16k\]: it's traditional to say "hi" and/or "good luck" before a game with a stranger
+]
+;W[cg]C[sartak [16k\]: just so ya know
+mr0t [29k?\]: ok
+mr0t [29k?\]: the beginning moves kinda remind me of tic tac toe
+sartak [16k\]: :)
+]
+;B[ce]
+;W[eg]
+;B[gd]
+;W[cc]C[mr0t [29k?\]: I made a lot of dumb moves though
+]
+;B[af]C[sartak [16k\]: That's okay
+sartak [16k\]: Arguably most of our moves are dumb
+sartak [16k\]: since we're both pretty noobish
+sartak [16k\]: A4 was a particularly dumb move though ;)
+mr0t [29k?\]: hm, I had others in mind
+sartak [16k\]: I'm sure you thought so after I played B4
+]
+;W[bf]C[mr0t [29k?\]: generally a bad idea to play on the edge?
+]
+(;B[bd]
+;W[ae]
+;B[df]
+;W[be]
+;B[ff]
+;W[cd]
+;B[cb]
+;W[bc]
+;B[dc]
+;W[dd]
+;B[ed]
+;W[de]
+;B[bb]
+;W[cf]
+;B[dg]
+;W[ef]C[sartak [16k\]: E4 was a pretty good cut on my part :)
+sartak [16k\]: One of the first real tactics you'll learn is cutting
+sartak [16k\]: E4 cuts D4 and E5
+mr0t [29k?\]: yeah, you totally kept cutting me off
+sartak [16k\]: :)
+]
+;B[dh]
+;W[eh]
+;B[ch]
+;W[bh]
+;B[ag]
+;W[ah]
+(;B[ei]C[sartak [16k\]: E1 was a good move :)
+sartak [16k\]: Tiger's mouth
+mr0t [29k?\]: but I didn't follow up on it
+sartak [16k\]: well there's not much you could do at this point
+sartak [16k\]: since I'll capture D2 before you can capture E3
+]
+;W[ci]
+;B[fi]
+;W[fh]C[mr0t [29k?\]: argh, I thought I could save that 
+]
+;B[gh]
+;W[di]
+(;B[gi]C[mr0t [29k?\]: so it probably would have been better to play G3 and establish myself better in the corner, where I lost out
+]
+;W[gg]
+;B[fg]
+;W[ec]C[mr0t [29k?\]: for sure
+]
+;B[db]
+;W[fe]C[mr0t [29k?\]: instead of playing F6
+]
+(;B[fd]C[sartak [16k\]: I would've went the other way
+sartak [16k\]: because
+mr0t [29k?\]: but after you extended
+sartak [16k\]: oh
+]
+;W[gf]
+;B[hf]
+;W[he]
+;B[ie]
+;W[hg]
+;B[if]
+;W[id]
+;B[hd]
+;W[ig]
+(;B[ab]C[mr0t [29k?\]: let's do one more
+sartak [16k\]: A8 wasn't so good
+sartak [16k\]: better to stop my invasion
+]
+;W[hc]
+;B[fc]
+;W[fb]
+;B[eb]
+;W[gb]
+;B[ga]
+;W[fa]
+;B[ea]
+;W[ca]
+;B[ba]
+;W[gc]C[sartak [16k\]: :D
+mr0t [29k?\]: was that unnecessary?
+sartak [16k\]: yes
+mr0t [29k?\]: thanks
+sartak [16k\]: I was about to say as much too
+sartak [16k\]: Passing is better than D9
+]
+(;B[hh]
+;W[]
+;B[ih]C[sartak [16k\]: ok
+sartak [16k\]: :)
+]
+(;W[ac]C[sartak [16k\]: now we passpass again
+]
+;B[]
+;W[]TW[ga][ha][ia][hb][ib][ic][ad][bd][ce][ie][af][df][ff][hf][if][ag][bg][dg][fg][ch][dh][gh][hh][ih][ai][bi][ei][fi][gi][hi][ii]TB[aa][ca][da]C[sartak [16k\]: ok
+sartak [16k\]: You did better that game
+sartak [16k\]: But so did I :)
+])
+(;W[]
+;B[]TW[aa][ba][ca][da][ea][ga][ha][ia][ab][bb][cb][db][eb][hb][ib][ac][dc][ec][fc][ic][ad][bd][ed][fd][gd][hd][ce][ee][ge][ie][af][df][ff][hf][if][ag][bg][dg][fg][ch][dh][gh][hh][ih][ai][bi][ei][fi][gi][hi][ii]C[sartak [16k\]: hrm
+sartak [16k\]: In this case we have to play
+sartak [16k\]: Since the software thinks B6 is connected to A8
+mr0t [29k?\]: are *all* of my stones dead?
+sartak [16k\]: no
+]))
+(;B[da]))
+(;B[ic]
+;W[ie]
+;B[hc]))
+(;B[gf]C[sartak [16k\]: If I capture E6
+sartak [16k\]: or
+sartak [16k\]: I extend
+]
+(;W[fd]C[sartak [16k\]: You capture G3
+]
+;B[hg]C[sartak [16k\]: and connect
+mr0t [29k?\]: hm
+])
+(;W[hg]
+(;B[fd]C[mr0t [29k?\]: I should have played J3
+sartak [16k\]: when?
+sartak [16k\]: This is probably the best outcome for black
+]
+;W[hf]
+;B[ge]
+;W[he]
+(;B[hd])
+(;B[id]
+;W[hd]
+;B[hc]
+;W[ie]
+;B[ic]
+;W[ac]TW[ad][bd][ce][af][df][if][ag][bg][dg][ig][ch][dh][gh][hh][ih][ai][bi][ei][fi][gi][hi][ii]C[mr0t [29k?\]: yeah
+]
+;AE[ec]AW[fb]TB[aa][ba][ca][da][ea][fa][ga][ha][ia][ab][eb][fb][gb][hb][ib][ac][bc][cc][ec][fc][gc][ad][cd][dd][ae][be][ce][de][fe][bf][cf][df][ef][bg][cg][dg][eg][ah][bh][ch][dh][eh][fh][ai][bi][ci][di]C[sartak [16k\]: heh, oh well
+]))
+(;B[ig]
+;W[hh]
+;B[ih]
+;W[hi]C[sartak [16k\]: shrug
+]))))
+(;B[fg]C[mr0t [29k?\]: fuck
+]
+;W[gi]C[mr0t [29k?\]: can I undo that one? I moved too quick
+sartak [16k\]: sure
+]))
+(;B[gg]C[mr0t [29k?\]: yeah, it was dumb of me to play along row 1 like that
+sartak [16k\]: sure
+sartak [16k\]: it's okay!
+sartak [16k\]: You learn by making mistakes :)
+]))
+(;B[be]TR[be][af]C[sartak [16k\]: yes
+sartak [16k\]: at least in the very beginning
+mr0t [29k?\]: ok
+mr0t [29k?\]: I can see that
+sartak [16k\]: Here's another tiger's mouth
+]))

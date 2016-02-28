@@ -1,0 +1,178 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[6.50]
+PW[sartak]PB[Dragnox]WR[17k]DT[2007-01-08]PC[The KGS Go Server at http://www.gokgs.com/]C[sartak [17k\]: ok hi
+Dragnox [?\]: Hi
+sartak [17k\]: You say you know the basics right?
+Dragnox [?\]: Yeah. I thinjk so.
+sartak [17k\]: ok well I'll just run through them
+sartak [17k\]: the object of the game is to surround as much territory as possible
+sartak [17k\]: I'll give you four free stones
+]RE[B+Resign]
+(;B[gc]C[sartak [17k\]: a stone has four liberties
+sartak [17k\]: well
+sartak [17k\]: This stone has four liberties
+sartak [17k\]: liberties = empty adjacent spaces
+]
+;W[]
+;B[gd]TR[gb][fc][hc][fd][hd][ge]C[sartak [17k\]: Stones of the same color can group together
+sartak [17k\]: increasing their liberties
+sartak [17k\]: So this group has six liberties
+sartak [17k\]: if white wanted to capture this group, he'd have to take all six liberties
+]
+;W[fc]
+;B[]
+;W[fd]
+;B[]
+;W[ge]C[Dragnox [?\]: Ooh. Triangles.
+]
+;B[]
+;W[hd]
+;B[]
+;W[hc]
+;B[]C[sartak [17k\]: black has one liberty here
+sartak [17k\]: this group is said to be in atari
+]
+;W[gb]C[Dragnox [?\]: The _eye_. The evil eye!
+sartak [17k\]: heh
+]
+;B[cf]
+;W[]
+;B[dg]
+;W[]
+;B[bg]
+;W[]
+;B[ch]TR[cg]C[sartak [17k\]: white cannot play at the triangle because that would be suicide
+sartak [17k\]: suicide is FORBIDDEN
+sartak [17k\]: however
+]
+;W[dh]
+;B[]
+;W[bh]
+;B[]
+;W[ci]
+;B[]C[sartak [17k\]: white can now play there because he's capturing a stone in the process
+]
+;W[cg]C[sartak [17k\]: now the last rule: ko
+sartak [17k\]: black would ordinarily be able to recapture by playing at the square (C2)
+sartak [17k\]: but the rule of ko forbids it
+sartak [17k\]: because otherwise
+]
+;B[]
+;W[]
+;B[ch]
+;W[]
+;B[]
+;W[cg]
+;B[]
+(;W[ch])
+(;W[]
+;B[ch]
+;W[]
+;B[]
+;W[cg]C[sartak [17k\]: they could just go back and forth forever
+Dragnox [?\]: rofl
+Dragnox [?\]: I read about that.
+sartak [17k\]: so in this situation black has to play somewhere else
+]
+;B[fe]C[sartak [17k\]: now white responds
+]
+;W[ee]C[sartak [17k\]: and black retakes the stone
+]
+;B[ch]C[sartak [17k\]: now white can't play there again
+]
+;W[ff]
+;B[ef]
+;W[cg]C[Dragnox [?\]: I'm not sure I get it.
+sartak [17k\]: Ko just forbids the repetition of board state
+sartak [17k\]: because otherwise you could just keep going through it forever
+Dragnox [?\]: Uh-huh...
+sartak [17k\]: So what don't you get? :)
+Dragnox [?\]: Hmm
+]
+;B[eh]
+;W[eg]C[Dragnox [?\]: So if black goes to C2 it's okay if he waits a turn?
+sartak [17k\]: yeah
+sartak [17k\]: But usually white will play something black _has_ to respond to
+sartak [17k\]: so black will spend his turn responding instead of recapturing that one stone
+sartak [17k\]: Such a move by white is called a ko threat
+Dragnox [?\]: But white can't go back to C3 without waiting a turn?
+]
+;B[ch]C[Dragnox [?\]: Because you don't want to encourage doing the same shit repeatedly?
+sartak [17k\]: yeah
+Dragnox [?\]: kk
+sartak [17k\]: Because otherwise if it's a close game the players might be in dispute about this one stone forever
+sartak [17k\]: so ko solves that
+amni [1k\]: without the ko rule a _lot_ of games would end with that
+sartak [17k\]: it also adds strategery
+sartak [17k\]: with ko threats
+sartak [17k\]: so yeah
+sartak [17k\]: Let's try playing
+]))
+(;AB[cc][gc][cg][gg]
+;B[]
+;W[ee]C[sartak [17k\]: ok now your turn
+]
+;B[ge]
+;W[ec]
+;B[ce]
+;W[eg]
+;B[ff]C[sartak [17k\]: is this your first game?
+Dragnox [?\]: No
+sartak [17k\]: ok
+Dragnox [?\]: I haven't played much, though.
+]
+;W[fe]C[sartak [17k\]: nod
+]
+;B[fd]C[sartak [17k\]: I ask because those were good moves
+]
+;W[ef]C[Dragnox [?\]: Hmm... cool.
+]
+;B[eh]
+;W[fg]C[Dragnox [?\]: Maybe I'm just a genius.
+]
+;B[fh]C[sartak [17k\]: probably
+]
+;W[gf]
+;B[hf]
+;W[gd]C[sartak [17k\]: heh
+Dragnox [?\]: Hmm
+]
+;B[hd]
+;W[gh]
+;B[hg]
+;W[hh]
+;B[ig]C[sartak [17k\]: the nice thing about go is you don't have to be a genius to play
+sartak [17k\]: just have large breasts
+]
+;W[ih]C[amni [1k\]: it's true, i've seen it
+Dragnox [?\]: My girlfriend has large breasts.
+Dragnox [?\]: I should encourage her to play.
+]
+;B[fi]C[sartak [17k\]: yeah
+]
+;W[dh]
+;B[ch]
+;W[di]
+;B[ci]
+;W[ei]C[sartak [17k\]: bleh
+]
+;B[dg]C[sartak [17k\]: yeah
+sartak [17k\]: shoulda played G1
+sartak [17k\]: (me)
+sartak [17k\]: OK now you and jason play
+Dragnox [?\]: kk
+sartak [17k\]: should be a good match
+sartak [17k\]: jason: Dragnox has played Go before
+Dragnox [?\]: How do I get numbers in my brackets?
+sartak [17k\]: You have to play rated games
+Dragnox [?\]: Pwning nubs?
+Dragnox [?\]: Oh, kk.
+jasonmay [?\]: heh
+jasonmay [?\]: I'm as nub as it gets, but I don't want to play a ranked game
+sartak [17k\]: Just play a 9x9
+jasonmay [?\]: k
+jasonmay [?\]: Dragnox, should I make it?
+sartak [17k\]: yes
+Dragnox [?\]: Yes
+sartak [17k\]: ok see you on the otha side!
+]))

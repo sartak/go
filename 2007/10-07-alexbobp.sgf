@@ -1,0 +1,187 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[6.50]
+PW[sartak]PB[alexbobp]DT[2007-10-07]PC[The KGS Go Server at http://www.gokgs.com/]C[sartak [?\]: yo
+alexbobp [?\]: fuck
+alexbobp [?\]: I clicked by accident
+sartak [?\]: heh
+]RE[B+Resign]
+(;B[gc]
+;W[cg]
+;B[fg]
+;W[cc]
+;B[fe]
+;W[de]
+;B[ed]
+;W[ec]
+;B[eb]C[alexbobp [?\]: Alright, I have to say goodbye to the Internet now.
+]
+;W[dc]C[alexbobp [?\]: So you're Stephen Colbert>
+sartak [?\]: I am
+alexbobp [?\]: I wouldn't have thought he'd know perl
+]
+;B[dd]
+;W[ee]
+;B[fd]C[alexbobp [?\]: see you when I get home
+]
+;W[eg]
+;B[eh]
+;W[dh]
+;B[ef]C[jilles [3k?\]: ok
+]
+;W[df]
+;B[dg]C[jilles [3k?\]: hmm, partly it's because he had the first move..
+sartak [?\]: hehe
+jilles [3k?\]: and stuff like this looks large but is too fragile
+jilles [3k?\]: otoh
+]
+;W[fb]
+(;B[ch]C[jilles [3k?\]: hmmz aggressive :P
+sartak [?\]: yeah
+]
+;W[eg]
+;B[fc]C[sartak [?\]: I just have more experience, so I was able to sneak in and steal a lot of territory
+jilles [3k?\]: yeah
+]
+;W[ff]C[jilles [3k?\]: ko fight not well played by black
+]
+;B[gf]
+;W[ef]C[alexbobp [?\]: damnit
+]
+;B[di]
+;W[dg]
+;B[cd]
+(;W[db]
+;B[fh]C[sartak [?\]: I was going to do that, but I had bigger fish to fry, hehe
+]
+;W[bh]C[jilles [3k?\]: true
+]
+;B[ci]
+;W[bi]
+;B[ei]
+;W[gg]
+;B[bg]
+(;W[bf]
+(;B[ag]C[sartak [?\]: I guess I was worried he'd connect
+]
+;W[af]
+;B[ce]
+;W[ah]
+;B[cf]
+;W[bg]
+;B[be]
+;W[gh]
+(;B[ge]
+;W[ae]
+;B[gb]
+;W[ea]C[jilles [3k?\]: good
+]
+;B[ga]
+;W[hf]
+;B[fa]
+;W[eb]
+;B[bc]
+;W[bb]C[sartak [?\]: bad shape for white
+]
+;B[ab]C[jilles [3k?\]: yeah
+jilles [3k?\]: the last two B moves look good
+sartak [?\]: yep
+jilles [3k?\]: although h4 could cause trouble
+sartak [?\]: yeah :)
+jilles [3k?\]: it's not well connected though so no monkey jump
+]
+;W[ad]C[sartak [?\]: I'd have to threaten G9
+]
+(;B[bd]
+;W[ac]
+;B[ba]
+;W[aa]
+;B[hh]
+;W[hg]
+(;B[gi]
+;W[fi]
+;B[ie]
+;W[he]
+;B[hd]
+(;W[if]
+;B[id]
+;W[ca]
+;B[ih]
+;W[hc]C[sartak [?\]: hm
+]
+;B[ic]C[sartak [?\]: stupid move, ah well
+sartak [?\]: he shoulda played H8
+jilles [3k?\]: this works too
+]
+;W[hb]
+;B[ib]
+;W[]C[alexbobp [?\]: where did you move?
+sartak [?\]: I passed
+alexbobp [?\]: oh
+]
+;B[ha]C[jilles [3k?\]: waste of a point
+sartak [?\]: yep
+]
+;W[]
+;B[fh]
+;W[]
+;B[ei]
+;W[]C[alexbobp [?\]: are you just taunting me now?
+]
+;B[fg]C[sartak [?\]: crap
+sartak [?\]: crap crap crap :)
+jilles [3k?\]: hmm
+jilles [3k?\]: can you review game and give me control?
+]
+;W[di]TW[ba][da][ab][cb][ag][ch][ai][ci]TB[ia][hb][hc][gd][he][hf][if][gg][hg][ig][gh][fi][hi][ii]C[sartak [?\]: hm
+jilles [3k?\]: white still wins :p
+sartak [?\]: ah well :D
+jilles [3k?\]: don't resign unless you're really sure
+alexbobp [?\]: heh
+jilles [3k?\]: ok that's it
+sartak [?\]: nod
+sartak [?\]: thanks
+sartak [?\]: the early game
+sartak [?\]: he obviously had the upper hand
+sartak [?\]: any insight into that?
+])
+(;W[ca]))
+(;B[ab]C[jilles [3k?\]: ->alexbobp : look up "ko" in a book or senseis library
+sartak [?\]: hehe
+]))
+(;B[ba]C[sartak [?\]: B6 was a mistake, yeah
+sartak [?\]: too slow
+]
+;W[ca]
+;B[cb]C[jilles [3k?\]: ko
+])
+(;B[ca]
+;W[ac]
+;B[cb]
+;W[bd]
+;B[ba]C[jilles [3k?\]: nice thing about A6 is that this won't work
+]))
+(;B[hf]))
+(;B[gh]
+;W[hg]
+;B[hh]
+;W[hf]
+;B[ge]C[sartak [?\]: heh
+sartak [?\]: yeah I should've been punished
+]))
+(;W[gh]C[sartak [?\]: probably irrational
+]
+;B[cf]
+;W[fi]
+(;B[ce])
+(;B[be]C[sartak [?\]: right
+])))
+(;W[fh]C[sartak [?\]: he probably doesn't even know the term ko fight
+sartak [?\]: yeah
+]))
+(;B[cd]C[jilles [3k?\]: allowing such a cut can be bad
+sartak [?\]: yes
+sartak [?\]: ook :)
+sartak [?\]: see ya
+]))
+(;B[fb]
+;W[cg]))

@@ -1,0 +1,837 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[6.50]
+PW[sartak]PB[Kitsy]DT[2007-10-09]PC[The KGS Go Server at http://www.gokgs.com/]C[sartak [?\]: hello hello
+Kitsy [?\]: ^_^
+sartak [?\]: so I'll just start from the first rule, let me know if I'm going too slow or fast
+Kitsy [?\]: Ok =D
+Kitsy [?\]: All I've seen is one board, one day, and that's pretty much it haha
+sartak [?\]: so Go is a game played between two players. they take turns putting stones onto the intersections of the board
+sartak [?\]: hm
+sartak [?\]: so. stones may be captured
+sartak [?\]: you can do this by surrounding them
+sartak [?\]: stones can also form an indivisible unit
+Kitsy [?\]: Uhh ok =P
+Kitsy [?\]: Aah
+sartak [?\]: just to make sure you're solid on stones making groups, and how capture works
+sartak [?\]: so one rule is
+Kitsy [?\]: Ok
+sartak [?\]: you cannot put a stone down if it would be immediately captured
+sartak [?\]: so there are some interesting patterns that arise because of the rules you know so far
+Kitsy [?\]: Oh I capture your stuff before? o_o
+sartak [?\]: hmm?
+sartak [?\]: so to solidify the rule of capture:
+sartak [?\]: a group is captured if it has zero liberties
+sartak [?\]: a group with one liberty is said to be in atari
+sartak [?\]: let's play again :)
+Kitsy [?\]: That means danger I guess?
+sartak [?\]: this time we won't stop after a capture
+sartak [?\]: yep
+Kitsy [?\]: Or something like that
+sartak [?\]: not sure of what the actual word means though
+sartak [?\]: (I guess that's what you were actually asking)
+sartak [?\]: ok. you're up :)
+Kitsy [?\]: Has to mean ''watch out I'm going to get ya''
+sartak [?\]: so let me show you some interesting shapes
+Kitsy [?\]: Ook ^^
+sartak [?\]: you've seen the ladder
+sartak [?\]: :)
+sartak [?\]: sorry, trying to phrase it as a problem
+Kitsy [?\]: Haa ok =P
+Kitsy [?\]: Ok I guess there's one called the dog that fetches the dinosaur bone or something? =D
+sartak [?\]: haha
+sartak [?\]: not that I know of :)
+Kitsy [?\]: Ain't H4 to H1 vulnerable?
+sartak [?\]: yes
+sartak [?\]: those were just there to demonstrate the seki
+Kitsy [?\]: Aah ok
+sartak [?\]: hmmmm
+Kitsy [?\]: So best move would be E6
+sartak [?\]: yeah :)
+Kitsy [?\]: For white
+Kitsy [?\]: And E6 for black, for that matter
+sartak [?\]: or something else entirely
+stumbly [?\]: yes, but where does B play next
+Kitsy [?\]: How about we play one more? xD
+sartak [?\]: first of all, play more. :) it's never a bad thing to learn by playing
+sartak [?\]: ok! sure
+sartak [?\]: maybe I ought to get a handicap :D
+sartak [?\]: I played better
+sartak [?\]: :)
+Kitsy [?\]: =P
+Kitsy [?\]: I like that game! =O
+sartak [?\]: yes! it's the best game ever :)
+sartak [?\]: wait til you try 19x19
+Kitsy [?\]: Gaah I'll die on those x_x
+sartak [?\]: alas it's 2am here and I have work tomorrow, so I can't play much more tonight
+Kitsy [?\]: 2 am here too =X
+sartak [?\]: hehe
+Kitsy [?\]: Quebec powa xD
+sartak [?\]: Massachusetts \\o/
+sartak [?\]: (though America is going down the shitter..)
+Kitsy [?\]: Bit farther =P
+sartak [?\]: anyway, back to what matters most :)
+sartak [?\]: there are some very good Go websites
+sartak [?\]: 1) senseis.xmp.net - Sensei's Library
+sartak [?\]: a very good Go wiki
+sartak [?\]: 2) goproblems.com
+sartak [?\]: self-explanatory. do time trials. very very helpful
+Kitsy [?\]: ^_^
+sartak [?\]: 3) playgo.to/interactive - a site to teach you the basics of Go. you've graduated beyond this, but you might want to go through it anyway
+sartak [?\]: I might have missed little things
+Kitsy [?\]: =P
+sartak [?\]: so Go also has a natural rating syste
+sartak [?\]: system
+sartak [?\]: players start at 30 ky
+sartak [?\]: kyu
+Kitsy [?\]: Ok
+sartak [?\]: a player who you can beat half the time with a 2 stone handicap is a 28 kyu
+sartak [?\]: basically, the ratings are defined in terms of handicap
+Kitsy [?\]: ^_^
+sartak [?\]: (in fact, the difference in rating is often expressed as a number of stones)
+sartak [?\]: "he's 4 stones stronger"
+Kitsy [?\]: So, let's say I'm 25kyu and someone beats me half the time at 8 handicap, he's 17?
+sartak [?\]: yep
+sartak [?\]: this is on 19x19
+Kitsy [?\]: Ho ok
+sartak [?\]: (on 9x9, handicap is more powerful)
+sartak [?\]: I've been told I'm about 15 kyu
+sartak [?\]: that doesn't necessarily mean I can beat a 1 kyu half the time with 14 stones :)
+Kitsy [?\]: =
+Kitsy [?\]: =P
+sartak [?\]: (handicap works less well the bigger the difference)
+sartak [?\]: so after 1 kyu is 1 dan
+sartak [?\]: and then it goes back up
+Kitsy [?\]: ^^
+sartak [?\]: to confuse matters further
+Kitsy [?\]: 30 to 1, and 1 to 30?
+sartak [?\]: well, no, dan doesn't go that high really
+sartak [?\]: it's closer to 6 or 7 max
+Kitsy [?\]: Ah-ha =P
+sartak [?\]: (though brilliant players can go beyond that)
+Kitsy [?\]: o_o
+sartak [?\]: the best player who has ever lived, who lived in the 1700s
+sartak [?\]: has been called a 13 dan
+Kitsy [?\]: Waaa o_o
+sartak [?\]: which means that the next best players would need a few stones to beat him
+sartak [?\]: so to confuse matters further, there's ANOTHER set of dan levels
+sartak [?\]: reserved for professionals
+Kitsy [?\]: That's silly xD
+sartak [?\]: yes
+sartak [?\]: nowadays the professional dans are called pings
+sartak [?\]: to differentiate
+Kitsy [?\]: Why not go from 1 to 50 upwards haha
+sartak [?\]: :)
+sartak [?\]: dunno
+Kitsy [?\]: Cuz japanese folks like complicated stuff? =D
+Kitsy [?\]: Or chinese?
+sartak [?\]: hehe
+Kitsy [?\]: Or whoever invented it
+sartak [?\]: Go is originally from China
+sartak [?\]: but I dunno where ratings came from
+sartak [?\]: well, that's about it I guess :)
+Kitsy [?\]: ^_^!
+Kitsy [?\]: Well that's a nice game hehe
+sartak [?\]: I'd like to play a 19x19 with you, soon
+sartak [?\]: preferably before you get much stronger than you already are
+sartak [?\]: :)
+Kitsy [?\]: Weeeell I'm on a one-week school break =P
+Kitsy [?\]: So I'll most likely be here tomorrow hehe
+sartak [?\]: cool
+Kitsy [?\]: Well, later today actually haha
+sartak [?\]: KGS has a buddy list system, in the menu under User
+sartak [?\]: I'm going to head to bed
+sartak [?\]: good night. :) hope you enjoy the game
+Kitsy [?\]: Ya ^^
+Kitsy [?\]: Added you in friends =P
+sartak [?\]: :)
+sartak [?\]: bye
+Kitsy [?\]: G'night to you too =D
+]RE[B+Resign]
+(;B[cc]
+;W[gg]
+;B[cg]
+;W[gc]
+;B[ce]
+;W[ge]
+;B[ec]
+;W[eg]
+;B[gb]
+;W[fb]
+;B[eb]
+;W[fc]
+;B[fd]
+;W[gd]
+;B[ff]
+;W[fe]
+;B[ed]
+;W[ef]C[Kitsy [?\]: Net thingy.
+sartak [?\]: yeah hehe
+]
+;B[ee]
+;W[ea]
+;B[da]
+;W[fa]
+;B[df]
+;W[db]C[sartak [?\]: caught you!
+sartak [?\]: people forgot to connect that way all the time
+Kitsy [?\]: Baaah
+]
+;B[fg]
+;W[fh]C[sartak [?\]: a mov e like F3 is also bad
+Kitsy [?\]: Aww played in the wrong order xD
+sartak [?\]: because it just makes me stronger
+sartak [?\]: hehe
+sartak [?\]: well if you played D3 I woud've played F3
+Kitsy [?\]: Ya I guessed so =P
+Kitsy [?\]: So that was a bad move >_<
+sartak [?\]: it's ok
+]
+;B[eh]
+;W[gf]C[sartak [?\]: E2 makes up for it
+Kitsy [?\]: Hm
+]
+;B[dh]C[sartak [?\]: great
+sartak [?\]: now how do I want to play this..
+sartak [?\]: I've got a foothold into your territory
+sartak [?\]: I should probably play cautiously
+]
+;W[dc]
+;B[dd]
+;W[cb]
+;B[bb]
+;W[ca]
+;B[ba]
+;W[da]
+;B[bc]C[sartak [?\]: :D
+]
+;W[ei]
+;B[di]
+;W[fi]C[Kitsy [?\]: Uh...
+Kitsy [?\]: No useful moves x_X
+]
+;B[hb]C[sartak [?\]: ok
+sartak [?\]: a move like that is bad
+sartak [?\]: like you said, "No useful moves"
+sartak [?\]: instead just pass
+sartak [?\]: but!
+]
+;W[dg]C[Kitsy [?\]: Awws
+]
+;B[ch]C[sartak [?\]: :D:D
+]
+;W[]C[sartak [?\]: if I had played C2 I would've captured the D2 group
+sartak [?\]: which was why D3 was important and not "just" dame
+Kitsy [?\]: Hey uh, if I play more in your territory, won't you need more stones than I used to capture em? o_O
+sartak [?\]: usually not
+sartak [?\]: since you have to actually make life
+]
+;B[]TW[ga][ha][ia][gb][hb][ib][hc][ic][hd][id][he][ie][ff][hf][if][fg][hg][ig][gh][hh][ih][gi][hi][ii]TB[aa][ab][ac][ad][bd][cd][ae][be][de][af][bf][cf][ag][bg][ah][bh][ai][bi][ci]C[sartak [?\]: now
+sartak [?\]: the KGS software does something weird here
+sartak [?\]: since we already played a complete game here
+sartak [?\]: it still shows me the results of the first game
+Kitsy [?\]: Blech
+Kitsy [?\]: x)
+sartak [?\]: I'm pretty sure I won though
+Kitsy [?\]: Ya
+Kitsy [?\]: 19 to 24
+sartak [?\]: I also get komi
+Kitsy [?\]: to26
+sartak [?\]: and whatever captures
+Kitsy [?\]: to 32.5 xD
+sartak [?\]: looks like 35.5 to 19 :)
+sartak [?\]: (probably captures)
+Kitsy [?\]: Awws x)
+])
+(;B[ee]C[sartak [?\]: yeah
+]
+;W[gc]
+;B[ec]
+;W[gg]
+;B[ge]
+;W[cg]
+;B[cc]
+;W[ce]C[sartak [?\]: out of curiosity, how old are you?
+Kitsy [?\]: 18 ^^
+]
+;B[eg]C[sartak [?\]: nod, 20 here
+Kitsy [?\]: hehe
+Kitsy [?\]: Ok so we covered all the black dots x_x
+sartak [?\]: yes :) those are called star points, or hoshi
+Kitsy [?\]: Uh ok
+sartak [?\]: (actually, maybe it's just the corner ones called hoshi)
+]
+;W[bc]C[Kitsy [?\]: Ok so hoshi are the black dots, do they do something special
+Kitsy [?\]: ?
+]
+;B[cd]
+;W[bd]C[sartak [?\]: they don't have any in-game meaning, no
+sartak [?\]: but they do help you visualize the Go board better
+Kitsy [?\]: Ok so I won't play in B5 cuz then you could capture me =P
+]
+;B[bb]C[Kitsy [?\]: Wow it's a visualization game xD
+sartak [?\]: they also serve as markers for where handicap stones go
+Kitsy [?\]: Handicap stones?
+sartak [?\]: so Go has an elegant and natural handicap system (unlike, say, chess)
+Kitsy [?\]: There's an handicap system at chess? xD
+sartak [?\]: basically the weaker player gets free turns
+sartak [?\]: yeah, you can remove pieces from the starting setup
+Kitsy [?\]: Didn't know that haha
+sartak [?\]: that changes the game though
+]
+;W[eb]C[Kitsy [?\]: Gee that can almost help the handicapped x_X
+]
+;B[fb]
+;W[db]
+;B[fc]C[sartak [?\]: you're playing well. not really making the typical newbie mistakes
+]
+;W[cb]C[Kitsy [?\]: Uh crap, B8 is screwed xD
+sartak [?\]: :)
+]
+;B[gd]C[sartak [?\]: one of the lessons you'll end up learning is that it's OK if some stones die
+sartak [?\]: it's a give and take game, you can't have everything
+]
+;W[dd]
+;B[dc]
+;W[de]
+;B[ef]
+;W[eh]
+;B[fh]
+;W[dh]
+;B[gh]
+;W[fg]C[Kitsy [?\]: Yeah but we play stones and all, but I still don't know the goal of the game xD
+]
+;B[hg]C[sartak [?\]: the winner is the player with more territory
+Kitsy [?\]: Most stones on the board?
+sartak [?\]: nope! :)
+Kitsy [?\]: Blech
+sartak [?\]: the one with the most surrounded empty points
+]
+;W[fi]
+;B[gf]
+;W[gi]C[Kitsy [?\]: Eeh I won't let ya take em >_<
+]
+;B[ff]C[sartak [?\]: hehe
+]
+;W[fa]
+;B[ga]
+;W[ea]C[Kitsy [?\]: Is G8 a good answer?
+sartak [?\]: fyi I'm not a very strong player at all
+sartak [?\]: G8 is OK
+Kitsy [?\]: Weeeell you can still show me how to play haha
+sartak [?\]: but there's a much better move
+]
+(;B[ca]C[Kitsy [?\]: =D
+sartak [?\]: perfect
+]
+;W[ab]
+;B[da]C[Kitsy [?\]: Yea =D
+sartak [?\]: now I'm really in a bad place :)
+]
+;W[ac]C[Kitsy [?\]: Bet ya can't do that this well with a real board x)
+sartak [?\]: I just want to back up to a state where I actually have territory so I can show how that works
+sartak [?\]: yeah :)
+]
+;B[hi]
+;W[ei]C[Kitsy [?\]: Ooh cuz if you play H2 I just capture gaah
+sartak [?\]: exactly
+sartak [?\]: you're quick :)
+Kitsy [?\]: Then I call undo x)
+sartak [?\]: hehe
+]
+(;B[dg]
+(;W[df]C[sartak [?\]: hmmm :)
+Kitsy [?\]: Hey you just gave me one o_o
+]
+;B[ch]C[sartak [?\]: yep
+]
+;W[bh]
+;B[di]
+;W[bi]
+;B[ed]
+;W[ci]
+;B[cf]C[Kitsy [?\]: Uh no
+]
+;W[be]C[Kitsy [?\]: That was silly haha
+Kitsy [?\]: Played too fast =P
+Kitsy [?\]: Oh well
+sartak [?\]: it was fine
+]
+;B[bg]
+;W[ag]
+;B[af]C[sartak [?\]: :D
+Kitsy [?\]: Mine mine mine =D
+]
+;W[bf]
+;B[ah]
+;W[cg]C[sartak [?\]: that square
+sartak [?\]: signifies the only rule I haven't taught you
+sartak [?\]: I'll talk about it after the game
+Kitsy [?\]: Infinite loop =D
+sartak [?\]: cripes :)
+sartak [?\]: I don't believe this is your first game sir!
+Kitsy [?\]: Wow they really thought up everything o_O
+Kitsy [?\]: Heeeey meanie >_<
+sartak [?\]: it's a compliment
+Kitsy [?\]: It's just obvious that it's an infinite loop >_<
+Kitsy [?\]: =P
+Kitsy [?\]: C4 C3 C4 C3 capture capture capture capture x_x
+sartak [?\]: yup
+Kitsy [?\]: But can I play on it sometime?
+sartak [?\]: so the rule that forbids this infinite loop is called the rule of ko
+sartak [?\]: yes
+sartak [?\]: the rule of ko forbids the repetition of the same board state
+sartak [?\]: so if you play somewhere else, then I play somewhere else, you can recapture
+Kitsy [?\]: Ah nice
+sartak [?\]: (and then ko forbids me from immediately recapturing)
+Kitsy [?\]: hehe
+sartak [?\]: ko adds a very interesting dimension to the game: the ko fight
+sartak [?\]: so here you want to play what is called a ko threat
+sartak [?\]: a move that I must respond to
+sartak [?\]: and then you recapture the ko
+Kitsy [?\]: Well I don't want you to take B3, so I'll play A1 haha
+sartak [?\]: then I play a ko threat, etc
+]
+;B[ai]C[sartak [?\]: eventually the ko threats become less valuable than the ko itself, so someone will fill it in
+]
+;W[ae]C[Kitsy [?\]: Waaaait a minute...
+sartak [?\]: yes? :)
+Kitsy [?\]: I bet I can take that big group o_o'
+sartak [?\]: sure can
+sartak [?\]: it only has one "eye"
+]
+;B[ba]
+;W[ag]
+;B[cf]
+;W[bh]C[Kitsy [?\]: It has 2 now >_<
+sartak [?\]: nop
+sartak [?\]: A4 looks like an eye
+sartak [?\]: but it isn't because you can capture A3
+Kitsy [?\]: Ohhh nice o_o
+]
+;B[af]
+;W[cg]C[Kitsy [?\]: Ah crap ko thingy.
+sartak [?\]: hehe
+]
+;B[bi]
+;W[ag]
+;B[cf]C[sartak [?\]: hmmm
+Kitsy [?\]: Supah loop xD
+sartak [?\]: do I have any ko threats..
+sartak [?\]: not really x_x
+sartak [?\]: C1 and B2 would be ko threats -- if they weren't suicide :)
+Kitsy [?\]: hehe
+Kitsy [?\]: Awws
+sartak [?\]: I am very impressed
+Kitsy [?\]: Eeh o_o
+sartak [?\]: I suspect you'll do very well :)
+sartak [?\]: hmm
+Kitsy [?\]: Really? o.o
+sartak [?\]: yeah
+sartak [?\]: you're practically already stronger than me
+Kitsy [?\]: o_O
+Kitsy [?\]: But it's my first game? x_X
+sartak [?\]: the only way I can beat you is just through experience
+sartak [?\]: well yes, you have a lot of talent
+sartak [?\]: so let's back up a bit
+Kitsy [?\]: Ook =P
+sartak [?\]: the KGS software is very nice :)
+])
+(;W[ch]C[Kitsy [?\]: Ya you should have played that o.o
+sartak [?\]: yep
+]
+;B[ed]
+;W[be]
+;B[df]
+;W[cf]
+;B[ba]TW[ad][ae][af][bf][ag][bg][ah][bh][ai][bi][ci][di]TB[ea][fa][ha][ia][cb][db][eb][gb][hb][ib][gc][hc][ic][fd][hd][id][fe][he][ie][hf][if][fg][gg][ig][hh][ih][ii]C[sartak [?\]: ok
+sartak [?\]: so here's how it should have played out, if I wasn't terrible :D
+Kitsy [?\]: Waa that's like a total lockdown x_x
+sartak [?\]: yeah
+sartak [?\]: this way it's clear who owns what territory
+sartak [?\]: so if neither player resigns
+sartak [?\]: the game ends when both players pass
+Kitsy [?\]: But I still got the right =D
+sartak [?\]: and then KGS changes to this display
+Kitsy [?\]: The tiny-dot display?
+sartak [?\]: yep, this is scoring mode
+sartak [?\]: the tiny dots indicate territory
+sartak [?\]: each tiny dot is worth a point
+Kitsy [?\]: Then why don't they give me the right part? o_o
+sartak [?\]: because KGS doesn't know that this triangle group is dead
+sartak [?\]: so we tell it it's dead by clicking on it
+Kitsy [?\]: Ooh
+sartak [?\]: now it looks better :)
+sartak [?\]: so you have a lot of territory
+Kitsy [?\]: And what about a9?
+sartak [?\]: :) so quick
+sartak [?\]: so
+sartak [?\]: A9 is owned by neither player
+sartak [?\]: it's called "dame"
+sartak [?\]: filling it in would just be a waste of a turn, more or less
+sartak [?\]: let's say black plays H2
+Kitsy [?\]: Ah I guess
+sartak [?\]: that would cost him a point
+sartak [?\]: because you don't get points for the stones you have on the board
+Kitsy [?\]: Aah yeah, uh, about those, won't it change anything? o_o
+Kitsy [?\]: Uh be back in 30 seconds x_
+sartak [?\]: I don't understand what you're asking
+sartak [?\]: ok
+Kitsy [?\]: x_x
+Kitsy [?\]: Back
+sartak [?\]: ok
+sartak [?\]: so you don't get points just for the stones you have on the board
+Kitsy [?\]: Ok uh, the captures and all, and the 7 I got?
+sartak [?\]: ok, captures are each a point, yes
+sartak [?\]: the last component of score is komi
+Kitsy [?\]: Ooh so it adds up to my territory?
+sartak [?\]: your score is territory + captures + komi
+sartak [?\]: komi is a bonus for being white (that is, going second)
+sartak [?\]: because otherwise black would have an advantage
+sartak [?\]: komi is usually 6.5 points
+Kitsy [?\]: Wasn't that the 6.5 thingie number at the beginning when you created the game? o_O
+sartak [?\]: the .5 means no games end in a draw :)
+sartak [?\]: yes it wa
+Kitsy [?\]: Oh so on a tie white wins =D
+sartak [?\]: mmhmm
+]))
+(;B[hh]C[sartak [?\]: that's an example of a move that doesn't help you
+Kitsy [?\]: Wow it really is a visualization game, I like this =P
+Kitsy [?\]: Ah?
+Kitsy [?\]: If H3 wasn't there, it would have been ok?
+sartak [?\]: yep!
+Kitsy [?\]: =)
+]))
+(;B[hc]C[sartak [?\]: that wasn't it :)
+sartak [?\]: what groups have few liberties?
+Kitsy [?\]: Ooooh I know
+Kitsy [?\]: I wanna undo >_<
+sartak [?\]: press the undo button :)
+Kitsy [?\]: Uh, where o_o
+]))
+(;B[ee]
+;W[fe]
+;B[fd]
+;W[ff]
+;B[ed]C[sartak [?\]: good :)
+]
+;W[eg]C[Kitsy [?\]: I guess I don't want a kind of double attack x)
+]
+;B[ef]
+;W[fg]
+;B[dg]C[sartak [?\]: yep. such an attack is called a "cut"
+]
+;W[df]
+;B[cf]
+;W[de]C[Kitsy [?\]: Um...
+Kitsy [?\]: I think I see a pattern there.
+]
+;B[dd]
+;W[ce]
+;B[be]C[sartak [?\]: hmm.. :)
+sartak [?\]: this is your first time playing?
+]
+;W[cd]C[Kitsy [?\]: Ooh ya yer going to the edge xD
+]
+;B[cc]
+;W[bd]C[Kitsy [?\]: Ya but I'm good at games like this =D
+]
+;B[ad]C[Kitsy [?\]: Well, most of the time.
+sartak [?\]: cool
+]
+;W[bc]
+;B[bb]
+;W[ac]
+;B[ab]C[sartak [?\]: hehe
+sartak [?\]: nice work!
+Kitsy [?\]: Well that's an easy-to-see pattern haha
+sartak [?\]: yep. it's called a ladder
+sartak [?\]: Go has names for just about everything :)
+Kitsy [?\]: But uh you gotta capture stuff to win?
+sartak [?\]: nope! this is a simpler variant
+])
+(;B[ec]
+;W[ge]
+;B[eg]
+;W[cg]
+;B[cc])
+(;B[ee]
+;W[ef]
+;B[hc]
+;AE[hc][ee]AB[ed][de][fe][ef]C[sartak [?\]: so here I can play at E4 and capture the white stone
+Kitsy [?\]: Ok so if black plays e4 he captures?
+sartak [?\]: note that diagonals don't count
+sartak [?\]: yep
+Kitsy [?\]: Nice =P
+])
+(;CR[eg]AW[ee][ef]AB[ed][de][fe][df][ff]C[sartak [?\]: if you capture one, you capture the other
+sartak [?\]: you can't play on top of another stone, of course
+Kitsy [?\]: Ok so you can capture more than one ^^
+sartak [?\]: yup!
+]
+;B[eg]C[sartak [?\]: the little circle in a stone just means "this was the last move played"
+Kitsy [?\]: Ok for reference I guess
+sartak [?\]: ok, so let's try actually playing a simpler version of Go
+sartak [?\]: the first one to capture a stone wins
+])
+(;AB[ec][dd][fd][ee]TR[ed]C[Kitsy [?\]: Well that'd be suicide x)
+sartak [?\]: so white cannot play on the triangle
+sartak [?\]: yup
+])
+(;B[if]
+;W[cc]
+;B[hf]
+;W[cd]
+;B[hg]
+;W[ce]
+;B[hh]
+;W[cf]
+;B[hi]
+;W[dd]
+;B[ih]C[sartak [?\]: this black group
+sartak [?\]: anything jump out at you about it?
+sartak [?\]: hi stumbly
+Kitsy [?\]: Uhh...
+Kitsy [?\]: Do I have to play in J1 and J3 too to capture?
+Kitsy [?\]: I mean I can't just surround it by the outside?
+Kitsy [?\]: Uh, play in J3 again
+sartak [?\]: I can't
+sartak [?\]: oh
+sartak [?\]: black playing in J3
+]
+(;AE[hf][if][hg][hh][ih][hi]AW[ge][he][ie][gf][gg][gh][gi][ii]C[sartak [?\]: you have to actually fill in all the empty intersections
+Kitsy [?\]: Baah then I can't take it >_<
+sartak [?\]: correct
+sartak [?\]: the black group is said to be "alive"
+sartak [?\]: it will never be captured, except by a serious blunder by black (such as black playing J3 or J1)
+])
+(;AW[he][ie][gf][gg][gh][gi]
+;W[]
+;B[ig]C[Kitsy [?\]: If I play in J1 I'm not captured? o_o
+sartak [?\]: if black plays in J1 that's suicide
+sartak [?\]: if white plays in J1, the black group is capture
+Kitsy [?\]: Uh-huh, cuz it's all surrounded then
+sartak [?\]: d
+sartak [?\]: yep
+Kitsy [?\]: Oh, so it's sort of an initiative thing
+sartak [?\]: I suppose
+sartak [?\]: so the empty intersections next to a group have a name
+sartak [?\]: each is a liberty
+Kitsy [?\]: Ok, I just thought it was suicide for white =P
+sartak [?\]: ahhh I'm sorry
+sartak [?\]: I misunderstood
+sartak [?\]: yes. white can play at J1
+sartak [?\]: it does look like suicide
+sartak [?\]: but it's OK because he's capturing while being played
+]
+;W[ii]C[Kitsy [?\]: But if a suicide would make a capture then the capture is made instead?
+sartak [?\]: yep!
+sartak [?\]: sorry, I did muddy that up a bit :)
+Kitsy [?\]: Nice ^^
+Kitsy [?\]: s'ok =P
+sartak [?\]: so
+Kitsy [?\]: Ok, so empty intersections next to a group are liberties
+sartak [?\]: how many white groups are on the board?
+sartak [?\]: yep
+Kitsy [?\]: Um... 4?
+sartak [?\]: right
+sartak [?\]: how many liberties does each have?
+sartak [?\]: (it's a bit of counting, yes :))
+Kitsy [?\]: The 5-group has 10, 4 has 9, 2 has 5 and 1 has 2
+sartak [?\]: all correct
+sartak [?\]: very good :)
+]))
+(;B[hf]C[Kitsy [?\]: Yupyup
+]
+;CR[gg]AW[ee][gg]AB[hg][fh][gh]C[sartak [?\]: black wants to capture the circled stone
+Kitsy [?\]: Ya
+]
+;W[]C[sartak [?\]: let's see if you can do it on the first try. wouldn't surprise me :)
+Kitsy [?\]: Um...
+Kitsy [?\]: *thinking*
+sartak [?\]: nod, take your time
+Kitsy [?\]: Ok, so I can't do a stairs thingy.
+sartak [?\]: ladder :)
+Kitsy [?\]: Ladder xD
+sartak [?\]: stairs is a better name
+sartak [?\]: but we're stuck with ladder :)
+Kitsy [?\]: Well that leaves that
+]
+;B[ff]C[Kitsy [?\]: =D
+sartak [?\]: it takes away future liberties
+sartak [?\]: :)
+Kitsy [?\]: =D
+]
+;W[fg]
+;B[eg]
+;W[gf]
+;B[ge]C[Kitsy [?\]: Mwahaha
+sartak [?\]: great!
+sartak [?\]: this is called a net
+sartak [?\]: specifically F4
+])
+(;B[ge]
+(;AW[df][ef][ff]AB[ce][cf][gf][dg][eg][fg])
+(;AW[ce][ge][cf][gf][dg][eg][fg]AB[df][ef][ff]
+;W[bh]C[sartak [?\]: ok
+sartak [?\]: actually.. hrm
+Kitsy [?\]: What do I do here o_o?
+]))
+(;AW[dg][eg][fg]AB[cf][gf][cg][gg][dh][eh][fh]C[Kitsy [?\]: Take your time =D
+sartak [?\]: could you please pass?
+]
+;B[]C[sartak [?\]: thanks
+sartak [?\]: ok
+sartak [?\]: you're still black :)
+sartak [?\]: now you want to capture these three white stones
+]
+;W[ee]C[Kitsy [?\]: That's supposed to be possible? o_O
+sartak [?\]: :)
+Kitsy [?\]: Ook...
+Kitsy [?\]: So no E4...
+sartak [?\]: ah ha! you are mortal
+Kitsy [?\]: I wouldn't play E4 =/
+sartak [?\]: nod
+sartak [?\]: I would 8)
+sartak [?\]: (you didn't read far enough head)
+sartak [?\]: ahead
+Kitsy [?\]: Yeah uh I'm thinking haha
+sartak [?\]: k
+Kitsy [?\]: Hm.
+Kitsy [?\]: That's a meanie puzzle x_x
+sartak [?\]: that was the idea! this is a beginner pattern though
+sartak [?\]: (of course, you're not expected to get it right the first time)
+Kitsy [?\]: Wow toughie hehe
+sartak [?\]: want a hint?
+Kitsy [?\]: Naah not yet xD
+sartak [?\]: :)
+Kitsy [?\]: E4 - F4 - D4 - F5
+sartak [?\]: let's play it out
+]
+(;B[ef]
+;W[ff]
+;B[fe]
+;W[df]
+;B[de]C[sartak [?\]: ok so this here
+Kitsy [?\]: ^_^
+sartak [?\]: this is called oitoshi
+sartak [?\]: or in English, connect and die
+sartak [?\]: even if white connects at E4, he's still in atari
+Kitsy [?\]: Playing E4 kills 2 more =D
+sartak [?\]: right
+]
+;W[ed]C[Kitsy [?\]: o_O
+sartak [?\]: yep. often your best move is your opponent's best move
+Kitsy [?\]: ^^
+]
+;B[ef]C[sartak [?\]: great!
+Kitsy [?\]: Waa didn't read that far the first time x_
+sartak [?\]: this is called the "crane in the nest"
+Kitsy [?\]: x_x
+sartak [?\]: hehe yeah
+])
+(;B[fd]
+;W[de]C[Kitsy [?\]: Yay, neither that.
+])
+(;B[ed]
+;W[de]C[Kitsy [?\]: Neither!
+sartak [?\]: :D
+sartak [?\]: (this is another pattern I'll get into later)
+])
+(;B[de]C[Kitsy [?\]: But ain't the normal board bigger than that? o_o
+sartak [?\]: yep
+sartak [?\]: the normal board is 19x19, this is 9x9
+Kitsy [?\]: 19x19 x_X
+sartak [?\]: yeah it's daunting at first
+sartak [?\]: but it really is the ideal board size
+sartak [?\]: 9x9 is all tactics. local effects
+sartak [?\]: 19x19 is a good blend of strategy (global effects) and tactics
+]
+(;W[ef]
+;B[ed]
+;W[fe]C[Kitsy [?\]: Nope, won't work.
+])
+(;AW[ef])))
+(;CR[ee][ge][ef][gf]AW[gb][hb][ib][ic][id][ce][ee][ge][ie][cf][ef][gf][if][ig][gh][hh][ih]AB[bd][cd][dd][ed][fd][gd][hd][be][bf][bg][cg][dg][eg][fg][gg][hg]TR[gb][ce]SQ[fe][ff]C[Kitsy [?\]: I hope so x_x
+sartak [?\]: can the two white stones connect?
+sartak [?\]: er, the two triangle stones
+Kitsy [?\]: Uh ya
+sartak [?\]: the four circled stones
+sartak [?\]: are a pattern called "bamboo joints"
+sartak [?\]: the two groups are virtually connected
+sartak [?\]: technically not connected, but definitely connectable under duress
+Kitsy [?\]: Ya, black blocks one, white plays the other =D
+Kitsy [?\]: ^_^
+sartak [?\]: another Go term: miai
+sartak [?\]: the two squared points are miai
+sartak [?\]: if one player plays one, the other player plays the other
+stumbly [?\]: like a fork in chess, sort of
+Kitsy [?\]: ^^
+sartak [?\]: hmmm
+]
+;B[de]
+;W[df]
+;B[ff]
+;W[fe]
+;B[he]
+;W[hf]C[sartak [?\]: right :)
+Kitsy [?\]: That's what I had in mind =P
+])
+(;AW[eb][fb][gb][dc][hc][dd][hd][de][he][df][gf][eg][fg][gg][eh][gh][ei][fi][gi]AB[ec][fc][gc][ed][gd][ee][fe][ge][ef][hf][dg][hg][dh][hh][di][hi]C[sartak [?\]: anything interesting about this?
+sartak [?\]: (hint: yes :))
+Kitsy [?\]: Well it's sort of symmetrical
+sartak [?\]: yep
+sartak [?\]: keep going :)
+Kitsy [?\]: Uh, F4 is a dame, like you called it...
+Kitsy [?\]: But uh otherwise I don't see anything haha
+sartak [?\]: technically not dame, but that's ok
+sartak [?\]: let me add more stones :)
+sartak [?\]: how about now?
+Kitsy [?\]: Eeh, it's sort of alive as long as no one plays F 6 4 2
+sartak [?\]: yep
+sartak [?\]: these two groups share an eye
+sartak [?\]: so both are alive
+Kitsy [?\]: =D
+sartak [?\]: this is called "seki"
+sartak [?\]: if black plays F4, then white plays F6 and captures
+sartak [?\]: if white plays F4, then black plays F2 and captures
+Kitsy [?\]: So no one'll play there =P
+sartak [?\]: right
+])
+(;AW[ee][fe][ge][ef][gf]AB[dd][ed][fd][gd][hd][de][he][df][hf][dg][eg][gg][hg]C[sartak [?\]: hrm
+])
+(;AW[de][ee][fe][df][ef][ff]AB[cc][dc][ec][fc][gc][cd][gd][ce][ge][cf][gf][cg][dg][fg][gg]C[sartak [?\]: I always forget how to set this next example up
+])
+(;AW[dd][ed][fd][fe]AB[cc][dc][ec][fc][gc][cd][gd][ce][ge][cf][df][ff][gf]C[Kitsy [?\]: S'ok ^^
+])
+(;AW[db][eb][fb][dc][gc][gd][fe][ge]AB[cb][cc][ec][fc][dd][de][ee][df][ff][gf]C[sartak [?\]: here we go
+]
+;B[]
+;W[ed]C[sartak [?\]: white plays here
+sartak [?\]: what is black's move?
+Kitsy [?\]: F6?
+]
+;B[fd]C[Kitsy [?\]: Oh no
+]
+;W[ed]C[sartak [?\]: :D
+sartak [?\]: this is called snapback
+sartak [?\]: notice how it's not the same as ko
+sartak [?\]: since the board state isn't being repeated: there are definitely fewer stones on the board
+Kitsy [?\]: Not the same state of board ^^
+sartak [?\]: but yeah. snapback is really cool
+Kitsy [?\]: Convenient =P
+]
+(;B[cd]C[sartak [?\]: shrug
+stumbly [?\]: (depends on more than that board alone
+Kitsy [?\]: Ya I guess
+stumbly [?\]: not gonna eye steal?
+])
+(;B[fc]C[stumbly [?\]: ie depends on outer situation
+]
+;W[ec]
+;B[cd]
+;W[fd]C[sartak [?\]: right
+stumbly [?\]: w is not yet alive
+sartak [?\]: ok so let's talk about what you learn next
+sartak [?\]: since I'm running out of neat things to show you
+stumbly [?\]: if black doesnt do that, white lives
+])))

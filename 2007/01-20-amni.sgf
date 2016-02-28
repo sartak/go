@@ -1,0 +1,689 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]HA[9]KM[0.50]
+PW[amni]PB[sartak]WR[1k]BR[16k]DT[2007-01-20]PC[The KGS Go Server at http://www.gokgs.com/]AB[dd][jd][pd][dj][jj][pj][dp][jp][pp]C[amni [1k\]: hi, have fun
+amni [1k\]: and gl
+sartak [16k\]: at least with 9H
+amni [1k\]: i wish i could remember a joseki with one of those
+amni [1k\]: but i can't 
+sartak [16k\]: :)
+sartak [16k\]: stumbly: ready d00d?
+sartak [16k\]: er
+sartak [16k\]: first thing's first
+sartak [16k\]: amni: thanks!! :)
+amni [1k\]: np
+sartak [16k\]: I'll keep chugging away at goproblems
+amni [1k\]: that's one way
+sartak [16k\]: I still haven't really played strangers
+sartak [16k\]: I think that every time I have, I've lost
+sartak [16k\]: :)
+amni [1k\]: they play unfair
+amni [1k\]: dirty unfair strangers
+sartak [16k\]: yeah those damn 7ds
+sartak [16k\]: whatever _that_ means
+amni [1k\]: overplays of all kinds
+stumbly [17k\]: means wish they were 8
+amni [1k\]: you have to learn how to deal with overplays
+sartak [16k\]: :)
+amni [1k\]: i try not to do that
+amni [1k\]: it's bs in a teaching game
+sartak [16k\]: shrug
+sartak [16k\]: I'll have to watch one of your rated games.
+amni [1k\]: heh
+amni [1k\]: well they're all archived
+sartak [16k\]: yeah, but I mean in realtime!
+amni [1k\]: but i don't like to play those
+amni [1k\]: so much pressure
+sartak [16k\]: nod
+amni [1k\]: makes me jittery.
+sartak [16k\]: but it'd be nice to break to the dan threshold no?
+sartak [16k\]: er, break the kyu threshold, whatever
+amni [1k\]: 1k is the best of the kyus
+amni [1k\]: 1d is the worst of the dans
+sartak [16k\]: :)
+sartak [16k\]: sure when you put it that way..
+amni [1k\]: :)
+amni [1k\]: anyway i am fundamentally unprepared for 1d
+amni [1k\]: i mean at some very basic level there are too many things i don't get
+sartak [16k\]: riiight :)
+sartak [16k\]: ok well I guess I'll make the game and try to lure stumbly in
+amni [1k\]: is stumbly afk?
+sartak [16k\]: thanks again
+sartak [16k\]: :)
+sartak [16k\]: shrug!
+]RE[W+Resign]
+;W[nc]C[sartak [16k\]: OH I WILL
+sartak [16k\]: :)
+amni [1k\]: heh
+sartak [16k\]: but I'm not good enough to really own yet
+amni [1k\]: i try to play as relaxed as possible
+amni [1k\]: not at all how i play rated games
+sartak [16k\]: :)
+]
+;B[qf]C[mr0t [29k?\]: do yall see if I type?
+]
+;W[fc]C[sartak [16k\]: yeah
+]
+;B[cf]C[amni [1k\]: certainly
+amni [1k\]: you started out well
+]
+;W[gp]C[sartak [16k\]: I mean no
+mr0t [29k?\]: heh
+sartak [16k\]: yeah I remembered what you told me last time
+amni [1k\]: but g5 is weird, and this sequence ended up being a loss for you
+]
+;B[go]
+;W[fp]C[sartak [16k\]: yes :)
+amni [1k\]: but f4 is also bad
+mr0t [29k?\]: its so boggling to me on 19x19
+amni [1k\]: i realized it after i played it
+sartak [16k\]: how does black punish it?
+sartak [16k\]: mr0t: nod
+amni [1k\]: i dunno
+sartak [16k\]: amni: ok :)
+amni [1k\]: it just looks like i could have done bigger and lighter
+amni [1k\]: but e4 would have been worse
+amni [1k\]: since it hurts corner prospects
+]
+;B[hp]
+;W[hq]
+(;B[io]C[amni [1k\]: you played this
+sartak [16k\]: ah
+]
+;W[iq]C[sartak [16k\]: you can continue with your variation, I was just curious
+amni [1k\]: now you should play f5 to connect
+amni [1k\]: nah, it's not so interesting
+]
+(;B[gq]C[sartak [16k\]: so soon?
+]
+;W[fq]
+(;B[jr]C[amni [1k\]: k3 would be better if you want to play on this side
+sartak [16k\]: see
+sartak [16k\]: I would worry that K3 is inefficient :D
+sartak [16k\]: but no, it takes a liberty
+amni [1k\]: k2 also takes a liberty...... in a sense
+sartak [16k\]: nod
+amni [1k\]: but yeah, k3 takes an immediate liberty
+amni [1k\]: not a future one
+sartak [16k\]: OK I play K3
+sartak [16k\]: You play K2?
+amni [1k\]: and this way leaves a weakness
+]
+(;W[dn]C[amni [1k\]: i wasn't sure high or low
+amni [1k\]: in retrospect low is better
+sartak [16k\]: :)
+amni [1k\]: "play away from thickness"
+amni [1k\]: d6 is too close to f4
+]
+;B[en]
+;W[em]TR[dn][fp]C[amni [1k\]: this is pretty abstract, but it's there
+amni [1k\]: unformed 
+amni [1k\]: except
+sartak [16k\]: hah
+amni [1k\]: white occupies the shape point at f4
+amni [1k\]: so that signals bad shape for black.
+sartak [16k\]: ohh yeah this shape
+sartak [16k\]: the netty shape
+amni [1k\]: right, exactly
+sartak [16k\]: so white presciently played the eye-stealing move
+amni [1k\]: right, it's the shape point because it takes away a future eye
+amni [1k\]: but also because it threatens cuts
+]
+(;B[fm]C[amni [1k\]: wait, i'll brb in 1 min, ok?
+sartak [16k\]: yeah
+]
+;W[eo]TR[eo]SQ[ep][fp][fq]C[amni [1k\]: so this move is awkward to play
+sartak [16k\]: how so?
+sartak [16k\]: Unusual shape?
+amni [1k\]: this shape is bad
+sartak [16k\]: ah
+amni [1k\]: it's the result of d6 being played on the 4th line instead of third
+amni [1k\]: i had to play an awkward cut
+amni [1k\]: but also, intrinsically, you could say that it's bad because there is an implicit empty triangle
+amni [1k\]: that would be true no matter where it occurs
+sartak [16k\]: :)
+amni [1k\]: there's no way to punish it here, because black is too thin
+]
+;B[fn]
+;W[dm]
+;B[do]C[amni [1k\]: see, 
+amni [1k\]: it's a bad shape partly because of the shortage of liberties
+sartak [16k\]: nod
+amni [1k\]: which you took advantage of
+amni [1k\]: you should be proud for having seen that
+sartak [16k\]: nod :) I was kinda proud of that
+sartak [16k\]: XD
+sartak [16k\]: nod
+]
+(;W[dr]C[amni [1k\]: so you can connect out, but in gote
+]
+;B[eq]
+(;W[er]
+;B[ep]
+;W[ek]C[amni [1k\]: you wouldn't call e10 a pincer, just basic instinct
+amni [1k\]: block on a side that makes territory.
+]
+(;B[dl]
+;W[dk]
+;B[ck]
+;W[cl]
+;B[cm]
+;W[bl]
+;B[cn]
+;W[el]TR[ej][fk][dl][fl]C[amni [1k\]: here, this string had 4 liberties
+amni [1k\]: so i didn't even bother to read out anything
+amni [1k\]: i just felt intuitively that it would be safe
+]
+;B[bk]
+;W[cj]C[amni [1k\]: this cut is a bit of a safety play
+]
+(;B[ak]C[sartak [16k\]: hmm
+sartak [16k\]: A9 should've been A8 :)
+]
+;W[ci]C[amni [1k\]: now this stone should be sacrificed, it's not a cutting stone since a9 is captured
+amni [1k\]: d10 i mean
+amni [1k\]: so it has no worth
+sartak [16k\]: :)
+]
+;B[di]C[amni [1k\]: a8 doesn't help matters so much
+amni [1k\]: because the cut at c5 works for white anyway
+]
+;W[dh]
+;B[ei]
+;W[eh]C[amni [1k\]: the act of trying to save it gives white useful moves
+sartak [16k\]: hmm, good point!@
+amni [1k\]: each time you add another stone to a string, you increase your commitment to saving that string
+sartak [16k\]: nod, isn't that what heaviness is?
+amni [1k\]: when stones are connected solidly they either all live or all die, there is never a way to unconnect thing
+amni [1k\]: yes
+amni [1k\]: s
+amni [1k\]: things.
+sartak [16k\]: heh
+]
+;B[fi]
+;W[cg]C[mr0t [29k?\]: hmm
+]
+;B[fh]TR[ej][fk][dl][fl]
+;W[fg]
+(;B[eg]
+;W[ef]
+;B[gg]
+;W[ff]C[amni [1k\]: see, if you want to cut like that you should just play the cut move
+amni [1k\]: and not play E15 first
+]
+(;B[ee]
+;W[fe]C[sartak [16k\]: nod
+amni [1k\]: but if you exchange these two stones, then f16 isn't as good a cut
+]
+;B[fd]
+;W[gd]
+(;B[hd]
+;W[ed]
+;B[de]
+;W[dc]C[amni [1k\]: d14 is a mistake you made two other times
+]
+(;B[df]C[amni [1k\]: actually this move killed you
+amni [1k\]: suicide :(
+sartak [16k\]: heh
+amni [1k\]: it was the last crucial liberty
+]
+;W[dg]C[sartak [16k\]: sigh he just totally outclasses me :)
+amni [1k\]: still not hopeless for black
+]
+(;B[qn]C[amni [1k\]: anyway, that's a very good move and black is still in the lead
+amni [1k\]: r6
+]
+;W[pb]
+;B[oc]
+;W[ob]
+(;B[lc]
+;W[ne]C[amni [1k\]: white pierces part of black's framework, which loses a lot of points in the long run
+]
+;B[ng]
+;W[qd]
+;B[qc]
+;W[pc]
+;B[od]
+;W[pe]C[sartak [16k\]: I guess it's good that I'm reading your moves correctly
+]
+;B[qe]
+(;W[rd]
+(;B[rc]
+;W[oe]
+;B[re]
+;W[sd]C[sartak [16k\]: bah :)
+sartak [16k\]: that's good though
+sartak [16k\]: nod
+amni [1k\]: if you wanted to play there you have to do something like this
+]
+(;B[le]C[amni [1k\]: q15 didn't capture, it was just a squeeze type move
+sartak [16k\]: I'm not sure when q15 was played but I can look at it later
+amni [1k\]: this stone leaves a space at N14...
+]
+(;W[op]C[amni [1k\]: yeah, so starts the attempt to keep you from making a 160 point territory
+sartak [16k\]: :D
+sartak [16k\]: oh
+amni [1k\]: is a sabaki sequence
+]
+;B[oq]C[amni [1k\]: if you're ever in a situation like that, remember to sacrifice everything
+]
+;W[pq]C[amni [1k\]: i didn't do as well as i could have, but the idea is right
+]
+;B[qq]
+;W[po]
+;B[pr]
+;W[qp]
+;B[qo]C[amni [1k\]: good response
+]
+(;W[nq]
+(;B[rp]C[sartak [16k\]: wb stum :)
+amni [1k\]: this avoids a ko, but you could also play ko
+]
+;W[kq]C[sartak [16k\]: neat
+]
+;B[jq]C[amni [1k\]: so i played l3, giving up h3 voluntarily
+amni [1k\]: it seemed like an important trade
+]
+(;W[mm]C[amni [1k\]: so you have to play far away
+]
+;B[oo]
+;W[km]C[stumbly [17k\]: stupid laptop
+stumbly [17k\]: :\\
+]
+(;B[mn]C[amni [1k\]: but this move lets white start to develop a good shape
+]
+;W[nn]
+;B[no]
+;W[mo]
+;B[ln]
+;W[np]
+;B[pn]
+;W[ko]
+;B[mp]
+;W[lo]
+;B[mq]
+;W[om]C[sartak [16k\]: damn
+amni [1k\]: so that is what sabaki is
+amni [1k\]: maybe not the best example, but it is sabaki!
+sartak [16k\]: What is sabaki?
+mr0t [29k?\]: what is sabaki?
+sartak [16k\]: I do recognize that P7 was a good move
+mr0t [29k?\]: heh
+amni [1k\]: no, i mean,
+amni [1k\]: the whole sequence starting with P4
+sartak [16k\]: we don't know what sabaki means though
+amni [1k\]: yeah, i don't know the definition
+amni [1k\]: hehe
+sartak [16k\]: :D
+amni [1k\]: it's playing to achieve a useful result
+sartak [16k\]: wonder if it's anything like a tanooki sequence
+amni [1k\]: in a place where your opponent is overwhelmingly stronger than you are
+amni [1k\]: so that in order to do anything useful you need to sacrifice a lot
+amni [1k\]: or make kos
+amni [1k\]: or do ridiculous things
+amni [1k\]: sabaki = alchemy
+sartak [16k\]: :)
+amni [1k\]: according to c. matthews
+amni [1k\]: but no kyu can do it
+amni [1k\]: high dans do it and it looks like magic
+]
+;B[kp]
+;W[ok]C[sartak [16k\]: You need to knock it off good sir ;)
+amni [1k\]: :)
+]
+;B[pl]
+;W[pk]
+;B[ol]
+;W[nl]
+;B[on]
+;W[nm]
+;B[pm]
+;W[nk]
+;B[qk]
+;W[qh]
+;B[li]C[stumbly [17k\]: lead into gold, makes sense
+]
+;W[qj]
+;B[qi]C[amni [1k\]: indeed
+amni [1k\]: it's not the literal translation
+sartak [16k\]: metafor
+amni [1k\]: the literal translation is ... something to do with fighting
+amni [1k\]: like martial arts
+]
+;W[rj]
+;B[ri]
+;W[pi]
+;B[sj]
+;W[rk]C[sartak [16k\]: you are a very.. bad person peter
+]
+;B[ql]
+;W[rh]
+;B[ig]
+;W[gr]
+;B[fo]
+;W[gk]
+;B[fl]
+;W[fk]C[amni [1k\]: actually there again
+amni [1k\]: is a move where you fill your own liberty
+]
+;B[hi]
+;W[ip]
+;B[ho]
+;W[jo]C[amni [1k\]: ho ho ho snip snip
+mr0t [29k?\]: i cant believe how well white is doing despite the handicap
+stumbly [17k\]: he cheats obviously
+sartak [16k\]: mr0t: The difference between 1k and 16k is WAAAAY larger than the difference between 16k and 29k? :)
+amni [1k\]: :)
+]
+;B[ir]
+;W[hr]
+;B[hs]
+;W[il]C[mr0t [29k?\]: heh
+sartak [16k\]: interesting
+]
+(;B[fs]
+;W[gs]TR[lp][kr][is][js]C[mr0t [29k?\]: how long have you been playing for amni?
+amni [1k\]: and j1 also fills a vital liberty
+amni [1k\]: remember the 4 liberty rule anyway
+amni [1k\]: "4 liberties for tactical stability"
+amni [1k\]: is a proverb
+sartak [16k\]: heh
+amni [1k\]: the reason is too hard for me to understand, but it has to do something with the fact that moves alternate
+amni [1k\]: but it is proved right again and again
+]
+;B[is]C[amni [1k\]: it was 2 years in november
+amni [1k\]: i remember because the first game i ever played was thanksgiving
+]
+;W[lp]C[sartak [16k\]: :)
+]
+;B[lq]
+;W[kr]C[sartak [16k\]: I started playing just after devnull
+]
+;B[lr]C[amni [1k\]: i think it's like in martial arts where a 100 lb woman can beat the crap out of a huge muscular guy, using technique
+]
+;W[js]
+;B[nr]
+;W[cq]
+;B[bp]
+;W[hc]C[sartak [16k\]: The problem with a game like this
+sartak [16k\]: On 19x19 against aioli
+sartak [16k\]: It's like "why do I have to keep playing this out, I'm clearly fucked" :)
+]
+;B[bq]C[amni [1k\]: you can resign, i don't mind that at all
+]
+;W[br]
+;B[cp]
+;W[bm]C[stumbly [17k\]: the trick is seeing where it went bad
+sartak [16k\]: once he started playing sketchy moves
+sartak [16k\]: I kinda get the knight's move opening.. :)
+amni [1k\]: it's very very hard, since sometimes it's not one big mistake but 10 small ones
+]
+(;B[dq]C[amni [1k\]: here is one
+amni [1k\]: d3 just fills a liberty
+sartak [16k\]: aye
+]
+;W[cr]C[stumbly [17k\]: right, this was more death by a thousand cuts
+]
+;B[ar]
+;W[bn]
+;B[co]
+;W[lg]C[sartak [16k\]: I'm only trying to kill this lower group because I have plenty of liberties
+sartak [16k\]: hmm
+sartak [16k\]: I guess I can't
+sartak [16k\]: you knoqw
+sartak [16k\]: it's pretty difficult playing someone so much stronger than you!
+sartak [16k\]: :)
+amni [1k\]: yeah, tis
+stumbly [17k\]: i has looking at h2 here
+amni [1k\]: but you did really well
+amni [1k\]: you did a lot better than last time
+stumbly [17k\]: not h2
+stumbly [17k\]: h7
+]
+(;B[hl]C[stumbly [17k\]: eye stealing move
+amni [1k\]: though in this case i would look at this move first
+amni [1k\]: to see if it works
+stumbly [17k\]: i thot if black could connect to the center, could save a lot
+amni [1k\]: right
+amni [1k\]: but i don't think black can connect
+sartak [16k\]: I didn't expect to survive here
+]
+;W[hk]C[sartak [16k\]: white's got a good stranglehold
+amni [1k\]: yeah :(
+]
+;B[ik]
+;W[mf]
+;B[lf]
+;W[mg]
+;B[kg]
+;W[mi]
+;B[mh]
+;W[lh]
+;B[nh]
+;W[kh]
+;B[mj]
+;W[jg]
+;B[ni]
+;W[ki]
+;B[kj]
+;W[lk]
+;B[jh]
+;W[kf]
+;B[jf]
+;W[ji]
+(;B[ih]
+;W[kg]
+;B[md]C[sartak [16k\]: I wonder why I never played K8
+]
+;W[nd]
+;B[me]C[amni [1k\]: there's the other
+sartak [16k\]: It was a half-assed cut!
+sartak [16k\]: :)
+]
+;W[nf]
+;B[ii]C[sartak [16k\]: When I play teaching games I really try to beat the other guy
+]
+;W[hf]C[sartak [16k\]: ok enough of this farce :)
+sartak [16k\]: thank you for the game sir
+amni [1k\]: thank you very much
+sartak [16k\]: one day I'll be a good match for you
+amni [1k\]: true
+])
+(;B[jl]C[amni [1k\]: hm
+]
+;W[jm]
+;B[im]
+(;W[ii]C[amni [1k\]: gets down to issues of whether the whole dragon is alive or not
+]
+;B[kk]C[amni [1k\]: this would live
+])
+(;W[ij]
+;B[kl]
+;W[kk]C[amni [1k\]: i think it can all be killed
+amni [1k\]: unless you can do something useful around q12
+sartak [16k\]: probably
+]
+;B[oj])))
+(;B[hm]TR[hm][go][ho][io]C[amni [1k\]: yeah, h7 is the shape point 
+amni [1k\]: but it's just one eye
+sartak [16k\]: white can still surround though
+sartak [16k\]: mesa!
+amni [1k\]: it's the table shape i showed you the other time
+amni [1k\]: yeah
+amni [1k\]: two of them superimposed
+sartak [16k\]: also the thing with jumping one point away from a line of three
+stumbly [17k\]: if w gets it
+sartak [16k\]: in the middle
+amni [1k\]: right, exactly
+]))
+(;B[bn]C[amni [1k\]: but it doesn't work, black is dead
+]))
+(;B[hl]))
+(;B[ll]C[amni [1k\]: you can still try to kill the whole thing ;)
+]))
+(;W[no]C[amni [1k\]: other moves, like this, are too heavy
+]
+;B[mp]
+;W[np]
+;B[on]
+;W[oo]C[sartak [16k\]: :D
+]))
+(;B[oo]
+;W[pq]C[amni [1k\]: (ko)
+sartak [16k\]: nod
+amni [1k\]: it's very big though
+amni [1k\]: white would ignore almost any threat and capture at p2
+sartak [16k\]: I probably would've played F2
+amni [1k\]: yeah, white has no threats really, except local ones
+amni [1k\]: oh, f2 is bad
+amni [1k\]: g2
+amni [1k\]: is the right shape for you
+]
+(;B[or])
+(;B[md]C[sartak [16k\]: I have a few ko threats too
+]
+;W[or]
+;B[nd]C[amni [1k\]: well ok
+sartak [16k\]: heh
+amni [1k\]: wouldn't ignore that threat
+])
+(;B[fr]
+;W[gr]C[amni [1k\]: this ko threat loses points
+])
+(;B[gr]C[amni [1k\]: but these stones retain aji even if white answers
+]
+;W[fr]
+;B[hr]C[amni [1k\]: (h2 aji
+amni [1k\]: which prevents white from playing L3)
+]
+;W[kq]
+;B[jq]C[sartak [16k\]: nod
+])))
+(;W[pq]
+;B[rp]
+;W[pp]
+;B[qr]C[sartak [16k\]: bad shape for white :)
+amni [1k\]: yeah
+amni [1k\]: this would be no good
+amni [1k\]: white has no eyeshape  or anything.
+]))
+(;W[mf]C[amni [1k\]: so it's slack
+])
+(;W[nq]C[amni [1k\]: a stone like o3 would just die
+]
+;B[pr]))
+(;B[gk]C[amni [1k\]: i think here is more impotant
+amni [1k\]: connects everything in a line
+])
+(;B[lf]TR[ke]C[amni [1k\]: but there's no way to do it without leaving some weakness.
+]))
+(;B[oe]C[amni [1k\]: i expected this
+]
+;W[of]
+;B[pf]
+;W[nd]
+;B[pe]
+;W[nf]
+;B[og]))
+(;W[oe]C[amni [1k\]: this is gote, but might be better.
+amni [1k\]: black would ignore the three stones
+]
+;B[gk]))
+(;B[nd]TR[jd][nd][pd][qf][jj][pj][jp][pp]C[amni [1k\]: for consistency
+amni [1k\]: black's strategy has to be center oriented now
+sartak [16k\]: nodnod
+amni [1k\]: the side territory at the top is small in comparison
+]))
+(;B[cc]C[amni [1k\]: the best try to live
+]
+;W[db]
+;B[cb]
+;W[bf]C[amni [1k\]: black would like to play B15 
+amni [1k\]: but there's not enough liberties now
+]
+;B[be]
+;W[cd]
+;B[ce]
+;W[bd]))
+(;B[cc]
+;W[db]
+;B[cb]
+;W[bf]
+;B[be]C[amni [1k\]: but here, there is.
+amni [1k\]: so be really careful about playing dame. :)
+sartak [16k\]: nod
+]))
+(;B[ed]C[sartak [16k\]: :)
+]
+(;W[he]
+;B[gc]
+;W[hc]
+;B[gb]
+;W[hb]
+;B[fb]C[sartak [16k\]: I didn't bother with E16 because I figured they were dead anyway
+amni [1k\]: i think this would be ok
+amni [1k\]: then K16 suffers, but that's life
+])
+(;W[gc]C[amni [1k\]: this move, trying to keep it alll, seems too greedy
+])))
+(;B[dc]C[amni [1k\]: d17 or maybe c17 would save
+])
+(;B[df]
+;W[dg]
+;B[dc]
+;W[bf]
+;B[bd])
+(;B[fd]
+;W[gd]C[amni [1k\]: then at least this move isn't atari
+]))
+(;B[dc]C[amni [1k\]: the corner is in danger, sort of...
+]))
+(;B[al]
+(;W[co]C[amni [1k\]: i could have tried something like that
+]
+;B[bm]
+;W[dl]
+;B[cp]
+;W[bo])
+(;W[bj]
+;B[bm]
+;W[ak]C[amni [1k\]: here it's gote since you still have the c5 cut
+])))
+(;B[ej]TR[cf][dj][ej]C[sartak [16k\]: pincer?
+sartak [16k\]: ok, yeah
+]))
+(;W[fr]C[amni [1k\]: there was also this try
+]
+;B[er]
+;W[es]C[amni [1k\]: but then white doesn't have a living shape anymore, so i don't know about that
+]))
+(;W[er]C[amni [1k\]: here i thought this would be too wimpy
+]
+;B[dr]))
+(;B[eo]C[sartak [16k\]: nod
+amni [1k\]: that's a pretty usual shape, the attach and then connect back
+]
+;W[dl]))
+(;W[cn]))
+(;B[jq]
+;W[cn]C[amni [1k\]: i would attack the corner right away
+]))
+(;B[fo]C[sartak [16k\]: oh, F5
+sartak [16k\]: I thought you meant H5 :D
+amni [1k\]: this is a very, very, very big move
+])
+(;B[jq]C[amni [1k\]: this side isn't as big
+]
+;W[fo]C[amni [1k\]: compare white f5 versus black f5
+sartak [16k\]: nod nod
+]))
+(;B[iq]C[sartak [16k\]: I'm still not certain on such terminology as heavy, light, thick, thin
+sartak [16k\]: huh, what did I play instead of J3?
+amni [1k\]: "light" was the shenanigans I did in the lower right
+stumbly [17k\]: concentrated vs getting territory
+amni [1k\]: sacrificing things left and right
+sartak [16k\]: probably H5 I guess
+amni [1k\]: in order to get a passable result
+]
+;W[ho]
+;B[ip]C[amni [1k\]: yes
+]))

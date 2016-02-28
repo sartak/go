@@ -1,0 +1,316 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[sartak]PB[jasonmay]WR[18k]DT[2007-01-06]PC[The KGS Go Server at http://www.gokgs.com/]C[sartak [18k\]: hallo!
+sartak [18k\]: Feel free to resize any subwindow
+jasonmay: I couldn't find where to register
+sartak [18k\]: eh it's okay
+sartak [18k\]: We're not playing for real yet so it's no big deal
+jasonmay: right'
+sartak [18k\]: So in Go two players take turns putting stones onto the board, at intersections
+sartak [18k\]: Hmm
+jasonmay: ok
+sartak [18k\]: Alrighty, you're up first
+jasonmay: how many times can I go?
+jasonmay: just once?
+sartak [18k\]: Certain formations can't be captured
+sartak [18k\]: OK I want to show you two more things, two special formations
+sartak [18k\]: The other is called the crane's nest
+]RE[B+Resign]
+(;B[eo]C[sartak [18k\]: yeah
+]
+;W[fo]
+;B[gn]
+;W[en]
+;B[do]C[sartak [18k\]: :)
+]
+;W[dn]C[jasonmay: did I miss somethign?
+sartak [18k\]: no, you made a good move
+jasonmay: oh
+jasonmay: thansk
+sartak [18k\]: well, you saw ahead anyway
+jasonmay: I fucked up my offense already
+]
+;B[ep]C[sartak [18k\]: :)
+]
+;W[fp]C[sartak [18k\]: How about this
+sartak [18k\]: First one to have a stone captured loses
+jasonmay: ok
+]
+;B[fq]
+;W[fn]
+;B[cn]
+;W[co]
+;B[bn]
+;W[bm]
+;B[dm]
+;W[cm]
+;B[bo]
+;W[cp]
+;B[em]
+;W[eq]C[jasonmay: you got me
+sartak [18k\]: :)
+]
+;B[dp]
+;W[dq]C[sartak [18k\]: Ok good!
+sartak [18k\]: Now I want to show you about life
+])
+(;B[pd]
+;W[pe]
+;B[od]
+;W[oe]
+;B[of]
+;W[gn]
+;B[hf]
+;W[no]
+;B[cg]
+;W[hc]
+;B[ll]
+;W[gg]
+;B[fi]
+;W[hk]
+;B[oh]
+;W[sj]C[jasonmay: ok
+sartak [18k\]: The idea of the game is to surround as much territory as possible
+])
+(;B[ps]
+(;W[pr])
+(;W[]
+;B[pr]
+;W[]
+;B[qr]
+;W[]
+;B[rr]
+;W[]
+;B[sr]C[sartak [18k\]: So right here black has three points
+sartak [18k\]: because he surrounds three intersections
+jasonmay: ok
+]
+;W[jh]
+;B[ih]
+;W[]
+;B[jg]
+(;W[kh])
+(;W[]
+;B[kh]C[sartak [18k\]: The fun part of go is capturing stones
+sartak [18k\]: You do that by completely surrounding your opponent's stones
+sartak [18k\]: Reducing their "breathing spaces" (or liberties) to zero
+]
+;W[]
+;B[ji]C[sartak [18k\]: Now when two stones of the same color are adjacent, they share liberties
+]
+;AE[pr][qr][rr][sr][ps]AW[oq][pq][qq][rq][sq][or][os][qs][rs][ss]C[jasonmay: neat
+jasonmay: but what do you mean by sharing liberties?
+sartak [18k\]: OK
+])))
+(;AB[jj][jk]TR[ji][ij][kj][ik][kk][jl]C[sartak [18k\]: A single stone has four liberties
+sartak [18k\]: N S E W
+sartak [18k\]: (less if on a side or corner)
+sartak [18k\]: These two stones now share liberties, so they have a total of six
+sartak [18k\]: For white to capture this group he'd have to occupy all the triangles
+jasonmay: oh ok
+])
+(;B[jk]
+;W[kk])
+(;B[ss]
+;W[rs]
+;B[sr]
+;W[rr]
+;B[sq]
+;W[rq]
+;B[sp]
+;W[rp]
+;B[so]
+;W[ro]
+;B[sn]
+;W[rn]
+;B[ei]C[sartak [18k\]: The black group only has one liberty
+sartak [18k\]: So white can play on that liberty to capture the entire group
+sartak [18k\]: When a group has only one liberty, it's said to be in atari
+]
+;W[sm]
+;B[ej]
+;W[rm]
+;B[fj]
+;W[so]TR[sn]C[sartak [18k\]: You can't play a stone if it would immediately die
+sartak [18k\]: So black can't play at the triangle
+jasonmay: ok
+sartak [18k\]: however
+])
+(;AB[gi][hi][ii][ji][ki][gj][kj][gk][ik][kk][gl][kl][gm][hm][im][jm][km][sq][rr][qs][ss]C[sartak [18k\]: It's black's turn to play
+jasonmay: I might know what happens
+sartak [18k\]: :)
+sartak [18k\]: You *can* play a stone that would die IF it captures
+jasonmay: I see
+sartak [18k\]: Note that diagonals don't directly matter in Go
+sartak [18k\]: So the bottom four stones aren't actually connected (yet)
+sartak [18k\]: There's only one other rule
+])
+(;AW[ij][kj][jk]AB[jh][ii][ki][jj]C[sartak [18k\]: This is called the ko rule
+]
+;B[]C[sartak [18k\]: White plays to capture the black stone
+]
+;W[ji]C[sartak [18k\]: Black can't immediately recapture
+sartak [18k\]: because otherwise the game could go on infinitely with just these two turns
+jasonmay: right
+sartak [18k\]: So black has to play somewhere else first
+]
+;B[qd]C[sartak [18k\]: White responds
+]
+;W[qe]
+;B[jj]C[sartak [18k\]: Black recaptures
+sartak [18k\]: now
+]
+;W[pd]
+;B[ji]C[sartak [18k\]: Hmm
+sartak [18k\]: I should've made this a 9x9 :)
+sartak [18k\]: We'll try playing a little anyway
+])
+(;B[rs]
+(;W[rr])
+(;AW[he][el][dm][fm][cn][en][gn][co][go][qo][ro][so][cp][ep][gp][qp][cq][gq][qq][cr][dr][er][fr][qr][qs]AB[ie][je][hf][jf][hg][ig][jg][kg][lg][mg][ng][og][pg][hh][jh][hi][ii][ji][rp][sp][rq][rr][sr]TR[sq][ss]C[sartak [18k\]: Like this one
+jasonmay: because there are liberties yet
+sartak [18k\]: Right
+sartak [18k\]: White can't play at either of the two triangles because it'd be suicide
+sartak [18k\]: The holes like that are called eyes
+sartak [18k\]: Two eyes means life, since white can't fill in both eyes simultaneously
+sartak [18k\]: Same deal there, obviously
+sartak [18k\]: That group is not yet alive
+sartak [18k\]: Since white could capture like this
+jasonmay: ah
+sartak [18k\]: However, if black saw that white was doing that
+sartak [18k\]: He'd just connect
+sartak [18k\]: Now that group IS alive
+sartak [18k\]: The nice thing about life is that it has a way of affecting the entire board
+sartak [18k\]: white can't capture this arm at all
+sartak [18k\]: so the best he can do is stop its spread
+jasonmay: that's neat
+sartak [18k\]: :)
+jasonmay: and phalic
+jasonmay: but neat
+sartak [18k\]: That was unintentional, honest
+jasonmay: heh
+]))
+(;AW[mk][ml][nl][nm][om][on][pn][po][qo]AB[mj][nk][ll][ol][mm][pm][nn][qn][rn][oo][ro][pp][qp]C[sartak [18k\]: White wants to try to save that stone
+sartak [18k\]: This is called a ladder
+sartak [18k\]: If white stops at any time, black can capture the entire group
+sartak [18k\]: So do you think white will survive?
+jasonmay: hmm
+]
+;B[]C[jasonmay: I don't see any possibilities
+sartak [18k\]: yeah, white ends up dying
+]
+;W[lk]
+;B[kk]
+;W[lj]
+;B[li]
+;W[kj]
+;B[jj]
+;W[ki]
+;B[kh]
+;W[ji]
+;B[ii]
+;W[jh]
+;B[jg]
+;W[ih]
+;B[hh]
+;W[ig]
+;B[if]
+;W[hg]
+;B[gg]
+;W[hf]C[sartak [18k\]: Say white has a stone up here
+]
+(;B[he]
+;W[gf]
+;B[ff]
+;W[ge]
+;B[gd]
+;W[fe]
+;B[ee]C[jasonmay: unless he hits the corner!
+]
+;W[fd]
+;B[fc]
+;W[ed]C[jasonmay: not timed, but positioned
+]
+;B[dd]
+;W[ec]
+;B[eb]
+;W[dc]
+;B[cc]C[jasonmay: or edge
+]
+;W[db]
+;B[da]
+;W[cb]
+;B[bb]
+;W[ca]
+;B[ba]C[jasonmay: aww
+sartak [18k\]: nope :)
+sartak [18k\]: however!
+jasonmay: but if it's timedin a way, maybe he could
+])
+(;AW[fd]
+;B[he]
+;W[gf]
+;B[ff]
+;W[ge]
+;B[gd]
+;W[fe]C[sartak [18k\]: Now white's fine
+sartak [18k\]: and not only is white fine, but he can kick black's ass
+jasonmay: yeah
+sartak [18k\]: as such
+]
+;B[ee]
+;W[jf]
+;B[kg]
+;W[ie]
+;B[mi]
+;W[ok]
+;B[pl]
+;W[nj]
+;B[gh]
+;W[ij]
+;B[hi]
+;W[jk]
+;B[lm]
+;W[no]
+;B[op]
+;W[mn]C[jasonmay: cool
+sartak [18k\]: Each play by white puts black into double atari
+sartak [18k\]: Black can only save one stone, so white captures the other
+sartak [18k\]: all right, so that's the ladder
+sartak [18k\]: Try to read ahead if you're in that situation
+jasonmay: cool
+sartak [18k\]: Because a bad ladder can really screw you up
+]))
+(;AW[jf][ih][jh][kh]AB[hg][lg][hh][lh][hi][ii][ji][ki][li]C[sartak [18k\]: OK, does white survive? :)
+jasonmay: this is the last one, then I want to play a 9x9, then I'm gonna play one with Nukie
+sartak [18k\]: black's turn
+sartak [18k\]: sure
+jasonmay: hmm
+sartak [18k\]: actually
+sartak [18k\]: hmm
+sartak [18k\]: yeah black's turn
+jasonmay: I can't really tell
+sartak [18k\]: ok
+]
+;B[jg]C[jasonmay: looks like it can
+]
+(;W[ig]
+;B[if]
+;W[kg]
+;B[kf]
+;W[jg]
+;B[je]C[jasonmay: neat
+sartak [18k\]: ya
+jasonmay: or not
+jasonmay: or so
+sartak [18k\]: :)
+])
+(;AE[hg]C[sartak [18k\]: white could survive this by escaping out the side
+sartak [18k\]: so yeah, 9x9 now
+]
+;W[ig]C[jasonmay: ok
+]
+;B[if]
+;W[kg]
+;B[kf]
+;W[hg])))

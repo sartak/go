@@ -1,0 +1,503 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[6.50]
+PW[sartak]PB[LucasOman]DT[2007-10-03]PC[The KGS Go Server at http://www.gokgs.com/]C[sartak [?\]: ahh
+sartak [?\]: yay :)
+LucasOman: haha love the icon
+LucasOman: ok i'm a complete newb
+sartak [?\]: you can resize the window to get a bigger board
+LucasOman: don't even really know the rules
+sartak [?\]: yeah I like it too :)
+sartak [?\]: that's fine, I'm happy to teach them
+sartak [?\]: so it's a 2 player game with each player alternating
+sartak [?\]: each turn you place a stone on the board
+sartak [?\]: you're up first I think
+sartak [?\]: ok
+LucasOman: i guess it stands to reason that it's impossible (or completely unprofitable) to replace any of the pieces that were removed
+LucasOman: hehe ok
+sartak [?\]: so you know you can't put a stone into instadeath
+sartak [?\]: and you must rob a group of ALL of its liberties to capture it
+sartak [?\]: these two rules have an interesting and beautiful interaction
+sartak [?\]: ok. let's play actual Go
+LucasOman: ok
+]RE[W+87.50]
+(;B[ce]
+;W[gc]
+;B[ec]C[sartak [?\]: I'm not going to go easy on you, but you still have a good chance of winning
+sartak [?\]: because this is the first time I've played in months
+]
+;W[ed]C[sartak [?\]: I do love the game, I just could never find anyone else to play it with, so I frustratedly quit
+LucasOman: well that's sad
+sartak [?\]: yeah :)
+LucasOman: i'm entertained so far
+LucasOman: maybe i'll fill that void
+sartak [?\]: you ain't seen nothin yet!
+sartak [?\]: as I'm sure you know..
+sartak [?\]: chess has been effectively conquered
+LucasOman: i know how you feel... i have boxes and boxes of star wars role playing card game
+sartak [?\]: (see Deep Blue vs Kasparov)
+LucasOman: yeh it's sad
+sartak [?\]: the very best Go programs can play at the level of only an amateur
+LucasOman: chess is one of those games that can be brute-forced
+LucasOman: that's its downfall
+sartak [?\]: yep
+]
+;B[ee]C[sartak [?\]: Go is way more subtle
+sartak [?\]: it's not immediately obvious whether a move is better than another
+]
+;W[dd]
+;B[cd]
+;W[dc]
+;B[de]
+;W[ff]
+;B[db]
+;W[eb]
+;B[fd]
+;W[fc]
+;B[cc]
+;W[ec]C[sartak [?\]: this is a bad position for me
+sartak [?\]: I'm very condensed
+sartak [?\]: low liberty to stone ratio
+LucasOman: yah
+sartak [?\]: easy and worthwhile to capture
+]
+(;B[gd]
+;W[fe]C[sartak [?\]: F5 is called a split
+sartak [?\]: it's unlikely that the F6 group and E5 groups will join
+sartak [?\]: because of that move
+sartak [?\]: :)
+sartak [?\]: sorry, not "split", but "cut"
+sartak [?\]: your first bit of tactics will be learning cutting and connecting
+]
+;B[hc]C[sartak [?\]: a neat thing is you can play out different scenarios too
+]
+(;W[hd]C[sartak [?\]: so this was a good cut
+sartak [?\]: your lower group ended up dying
+sartak [?\]: it's actually a common pattern
+sartak [?\]: I'll get into that after
+]
+;B[ge]
+;W[he]
+;B[gf]
+;W[gg]
+;B[hf]
+;W[hg]
+;B[if]
+;W[ig]C[sartak [?\]: another benefit of Go over Chess
+sartak [?\]: Chess doesn't have a coherent handicap system
+]
+;B[ic]C[sartak [?\]: Go is easy: just put X stones down
+]
+;W[ie]
+;B[ea]
+;W[cb]
+;B[fb]
+;W[da]
+;B[ca]C[sartak [?\]: hehe
+]
+;W[ba]C[LucasOman: oh whoops
+sartak [?\]: sok
+sartak [?\]: Go has many proverbs: the most enlightening one right now is:
+sartak [?\]: lose your first 50 games as quickly as possible
+LucasOman: hah
+sartak [?\]: to develop intuitions about how things work
+]
+;B[bb]
+;W[bc]
+;B[aa]C[sartak [?\]: and to start absorbing the implicit patterns
+]
+;W[ab]C[LucasOman: i keep falling for that one
+sartak [?\]: it's ok
+]
+;B[ad]C[sartak [?\]: if it helps, count the liberties your stone will have before you put it down
+sartak [?\]: this was a good move
+sartak [?\]: well
+sartak [?\]: ok, I'll call it good :)
+]
+;W[bd]
+(;B[ae]C[sartak [?\]: I wouldn't have played here though
+sartak [?\]: it gives me an obvious continuation
+sartak [?\]: instead
+sartak [?\]: in short, it's also too dense
+]
+;W[be]
+;B[bf]
+;W[cf]C[sartak [?\]: how's A7 look?
+LucasOman: bad
+sartak [?\]: good :)
+LucasOman: then you hit A4
+sartak [?\]: such a move is called stealing your own liberties
+LucasOman: makes sense
+]
+;B[ih]C[sartak [?\]: but I could also just ignore it
+LucasOman: yeh this is pretty neat
+]
+(;W[hh]C[sartak [?\]: there we go
+LucasOman: well, seems that having liberties only in one direction could be bad
+sartak [?\]: yeah
+sartak [?\]: let me show you an attack
+sartak [?\]: so here I said that H2 was a very conservative play
+]
+(;B[fg]C[sartak [?\]: H2 was a very conservative move
+sartak [?\]: eh, I'll talk about it later :)
+]
+;W[ef]C[LucasOman: split
+LucasOman: crap
+sartak [?\]: fwiw the rust is shedding quickly :)
+LucasOman: hehe
+]
+;B[af]
+;W[bg]C[LucasOman: connect
+]
+;B[bh]
+;W[ch]
+;B[dh]
+;W[eg]
+;B[fh]
+;W[eh]
+;B[cg]
+;W[dg]
+;B[ag]
+;W[cg]
+;B[ci]
+;W[di]
+;B[ei]
+;W[fi]C[LucasOman: lol
+sartak [?\]: :)
+sartak [?\]: it's entirely sportsmanlike to resign, btw
+LucasOman: haha
+LucasOman: can't learn that way
+sartak [?\]: I guess in chess (I don't know) it's somewhat frowned upon
+sartak [?\]: fair enough
+]
+;B[hi]
+;W[ii]C[sartak [?\]: so here
+]
+;B[gb]C[sartak [?\]: ok, will punt that discussion :)
+]
+;W[fa]C[sartak [?\]: the kgs software is nice, it makes reviewing games a pleasure
+sartak [?\]: you'll see
+]
+;B[gi]C[sartak [?\]: :/
+]
+;W[gh]C[LucasOman: whoops
+sartak [?\]: hehe
+sartak [?\]: so here
+sartak [?\]: do you envision any of your groups making two eyes?
+LucasOman: nope
+sartak [?\]: nod
+sartak [?\]: so interestingly
+sartak [?\]: the game is over when the players agree it's over
+sartak [?\]: instead of placing a stone you can pass your turn
+sartak [?\]: if both players pass in succession, then the game is done
+LucasOman: ah gotcha
+sartak [?\]: so you should probably pass
+sartak [?\]: since it's not likely you'll get any further
+]
+;B[]
+;W[]TW[aa][ca][ea][ga][ha][ia][bb][db][fb][gb][hb][ib][ac][cc][hc][ic][ad][cd][fd][gd][id][ae][ce][de][ee][ge][af][bf][df][gf][hf][if][ag][fg][ah][bh][dh][fh][ih][ai][bi][ci][ei][gi][hi]C[sartak [?\]: ok so you know about life
+sartak [?\]: living groups that is
+sartak [?\]: there are two other states
+sartak [?\]: dead
+sartak [?\]: which means it's clear the group is not going to mak eit
+sartak [?\]: your C7 group is a good example
+sartak [?\]: so we mark that as dead with this software by clicking on it
+sartak [?\]: the mini stones on each intersection
+sartak [?\]: those are all points for me, because I completely surround them
+sartak [?\]: you receive no points for the stones actually on the board. only the ones you've captured and the territory you surround
+sartak [?\]: ok so the other group state is just "unknown"
+sartak [?\]: the top right might be considered unknown
+sartak [?\]: if that's the case then we can just continue playing
+sartak [?\]: until the state of that group is known
+LucasOman: all are surrounded
+sartak [?\]: you don't need to absorb all of this right now
+sartak [?\]: just braindumping at you so you get some of the details
+LucasOman: hehe
+sartak [?\]: ok, now let's review
+sartak [?\]: the chat widget actually sits on top of another widget
+sartak [?\]: you can resize the chat widget to see the other
+sartak [?\]: it's a tree of all the states of the game
+LucasOman: oh cool
+sartak [?\]: ah, we have to finish off the game first
+sartak [?\]: click done
+sartak [?\]: ok so the widget lets you see any game state
+sartak [?\]: hm
+sartak [?\]: since this is a teaching game I guess it works a little differently
+])
+(;B[df]
+;W[cg]
+;B[dg]
+;W[dh]C[sartak [?\]: well.. you could have made the group survive a bit longer
+LucasOman: well, sartak, we will have to play again tomorrow
+sartak [?\]: but it was dead because by this point I have very good position
+LucasOman: i'm about to crash
+LucasOman: it's 3am
+sartak [?\]: okie :D
+LucasOman: thanks for the game!
+LucasOman: you've piqued my interest
+sartak [?\]: thanks for checking this out
+LucasOman: thanks for inviting me
+sartak [?\]: thanks for.. for.. good night!
+sartak [?\]: :)
+LucasOman: yah i know
+sartak [?\]: oh
+LucasOman: i'm tired
+sartak [?\]: one last thing
+LucasOman: i dont even know what i'm typing
+LucasOman: ok
+sartak [?\]: KGS will let you review this entire game and what I've said any time
+sartak [?\]: :)
+sartak [?\]: I'll tell you how later
+LucasOman: sweet
+LucasOman: ok
+sartak [?\]: night bro
+LucasOman: have a good one
+]))
+(;W[gh]C[LucasOman: yeh
+sartak [?\]: G2 also works: there's no way J2 could group up with anything else or survive
+])
+(;W[ia]
+;B[hh]
+;W[ha]
+;B[gh]
+;W[fh]C[sartak [?\]: fun fun
+]))
+(;B[be]C[sartak [?\]: play here and just cut me off
+sartak [?\]: it also connects better
+sartak [?\]: I can't play A5
+]
+(;W[ae]
+;B[af]C[sartak [?\]: because you can easily capture it
+])
+(;W[ac]C[sartak [?\]: playing here would have been my move, probably
+sartak [?\]: but then you can just connect right back up
+]
+;B[ae]C[sartak [?\]: so that defends well against my invasion
+sartak [?\]: do you see any problems wiht your C5 group?
+sartak [?\]: no, that's too advanced
+sartak [?\]: :)
+]
+;W[cg]C[sartak [?\]: this effectively says "lol dead"
+sartak [?\]: because you have no way out
+sartak [?\]: you could try to inch your way out
+sartak [?\]: or be a bit quicker
+]
+(;B[bf]
+;W[bg]
+;B[df]
+;W[dg]
+;B[ef]
+;W[eg]C[LucasOman: yah
+]
+;B[af]
+;W[ag]
+;B[eh]
+;W[cf])
+(;B[dg]
+;W[dh]
+;B[bg]
+;W[bh]
+;B[cf]
+;W[ch]
+;B[eg]
+;W[eh]
+;B[ah]
+;W[ef]
+;B[ai]
+;W[bi]C[sartak [?\]: etc
+LucasOman: yah
+sartak [?\]: the problem is also simply that the board is just small
+sartak [?\]: so by default things have nowhere to escape to
+sartak [?\]: Go demonstrates the difference between tactics and strategy very well
+sartak [?\]: 9x9 is all tactics
+sartak [?\]: 36x36 (which some people do play) is all strategy
+sartak [?\]: 19x19 is a good balance
+]))))
+(;W[ai]
+;B[bi]
+;W[ci]C[sartak [?\]: and the tree is updated :)
+sartak [?\]: so onto the actual gam
+LucasOman: hah
+]))
+(;B[fe]C[LucasOman: i should have connected there
+sartak [?\]: yep
+sartak [?\]: that's also a cut
+sartak [?\]: of my two groups
+sartak [?\]: sorta
+sartak [?\]: I can still connect
+LucasOman: you should play H7
+]
+;W[ge]C[LucasOman: oh nm
+]
+;B[gd]
+;W[hd]C[sartak [?\]: not very well connected, granted
+]
+;B[gf]
+;W[he]
+;B[fg]
+(;W[gg]C[LucasOman: H7
+sartak [?\]: instead of G3 here?
+sartak [?\]: or after E4
+LucasOman: sorry, white should play H7
+LucasOman: to connect
+sartak [?\]: right, but when?
+LucasOman: now?
+]
+;B[ef]C[sartak [?\]: yeah
+sartak [?\]: the connection would have been better
+sartak [?\]: it's ok that you didn't play it
+sartak [?\]: but be on the lookout for connections :)
+LucasOman: yeh
+])
+(;W[hc]C[sartak [?\]: so like this then
+LucasOman: yah
+sartak [?\]: ok
+sartak [?\]: insight time :)
+sartak [?\]: I could play H7, it would connect my groups
+sartak [?\]: but what does that actually give me
+LucasOman: or you lose your F4 now, which was your branch out
+sartak [?\]: you wouldn't really attack H7 directly
+sartak [?\]: since I would crush you
+sartak [?\]: and if you attacked the little H6 group
+sartak [?\]: I could always connect if I needed to
+sartak [?\]: so while H7 does help
+sartak [?\]: there are more helpful moves
+sartak [?\]: like trying to stake out new territory
+sartak [?\]: anyway, that's a more advanced lesson
+])))
+(;B[ce]C[sartak [?\]: good first thought, but it turns out to be incorrect in some cases
+]
+;W[ee]C[sartak [?\]: I'll show one after this
+]
+;B[cc]C[sartak [?\]: (which segues into one of the few other rules Go has)
+]
+;W[ec]
+;B[gc]
+;W[ge]
+;B[eb]
+;W[fb]
+;B[fc]
+;W[db]C[sartak [?\]: :)
+]
+;B[dc]
+;W[ea]C[LucasOman: which is?
+sartak [?\]: "Ko"
+LucasOman: oh whoops
+sartak [?\]: actually
+sartak [?\]: put a stone at E6
+]
+;B[ed]C[sartak [?\]: now I play somewhere else, perhaps try to capture a stone somewhere else
+]
+;W[hg]C[sartak [?\]: now you can capture my E7 stone
+]
+;B[eb]C[sartak [?\]: here I could play E7 immediately
+LucasOman: it let me play there when it wouldn't before
+sartak [?\]: and get the stone right back
+sartak [?\]: ok
+sartak [?\]: first let's address that
+LucasOman: then we'd get into a back-and-forth
+sartak [?\]: you cannot put stones on the board if they would die instantly
+sartak [?\]: however, if in the act of being put down they free up liberties (aka they capture) then it's OK
+sartak [?\]: now we could endlessly back-and-forth over E8 and E7, yes
+sartak [?\]: the Ko rule forbids me from repeating the same state of the board, so I can't play E7 this turn
+sartak [?\]: so I make a threat somewhere else
+]
+;W[cf]C[sartak [?\]: you can either fill in the ko
+sartak [?\]: or respond to the threat
+sartak [?\]: this usually leads to a repeated back and forth, called a ko fight
+]
+;B[ec]C[sartak [?\]: :)
+sartak [?\]: by the way
+sartak [?\]: we're playing on a 9x9 board
+sartak [?\]: the common size is actually 19x19, but it's a bit daunting
+LucasOman: i can imagine
+LucasOman: hmm... my wife would enjoy this game
+sartak [?\]: ok, one last lesson and then we'll play a real live Go game :)
+])
+(;B[he]
+;W[gd]
+;B[ge]C[sartak [?\]: let's just play "first one to get a captured stone loses"
+LucasOman: ok
+sartak [?\]: er, first one to capture a stone wins. right.
+]
+;W[ee]
+;B[fd]
+;W[gc]
+;B[gb]
+;W[fc]
+;B[ec]C[sartak [?\]: nice move :)
+]
+;W[ed]
+;B[fe]
+;W[dc]
+;B[eb]
+;W[fb]
+;B[fa]
+;W[hb]
+;B[ga]
+;W[ha]
+;B[ea]
+;W[db]
+;B[da]C[sartak [?\]: ah 
+sartak [?\]: I didn't say this before but
+sartak [?\]: the side doesn't prevent capture
+]
+;W[ca]C[LucasOman: oh whoops
+LucasOman: haha gj
+sartak [?\]: the real formulation is
+sartak [?\]: a group is captured if it has zero liberties
+sartak [?\]: a liberty is an empty intersection next to a group
+sartak [?\]: (so anywhere where you could extend the group)
+LucasOman: ok
+sartak [?\]: let's try again
+LucasOman: ok
+])
+(;B[ee]
+;W[de]
+;B[df]
+;W[ef]
+;B[ff]
+;W[fe]
+;B[ge]
+;W[gf]C[sartak [?\]: touching stones of the same color are a chain or group
+sartak [?\]: (different words, same meaning)
+]
+;B[he]
+;W[fd]
+;B[hd]
+;W[fc]
+;B[ic]C[sartak [?\]: diagonals don't count, they have to be touching orthogonally
+sartak [?\]: so the only rule is
+sartak [?\]: a group that is completely surrounded by the other color's stones is removed from the board
+]
+;W[fg]
+;B[ed]
+;W[ec]
+;B[dd]
+;W[cd]
+;B[ce]C[sartak [?\]: with me so far?
+LucasOman: yup
+sartak [?\]: okl
+sartak [?\]: eventually its obvious who has won
+LucasOman: yah
+sartak [?\]: but if it isn't then there are ways to determine who wins
+sartak [?\]: the person with the most territory wins
+sartak [?\]: anyway, let's mess around a bit
+])
+(;B[if]
+;AE[if]AW[dc][ec][fc][gc][hc][dd][hd][de][he][df][hf][dg][fg][hg][dh][hh][di][ei][fi][gi][hi]C[sartak [?\]: ok
+sartak [?\]: how would white capture this
+LucasOman: obvious answer is to surround the whole thing
+sartak [?\]: nope! :)
+LucasOman: plus the two in the center, since those would be liberties
+sartak [?\]: black still has two liberties
+sartak [?\]: right
+sartak [?\]: but if white plays at F5, that's suicide
+sartak [?\]: same for F3
+LucasOman: instadeath
+sartak [?\]: white can't play both in one turn
+LucasOman: so that structure is invincible
+sartak [?\]: yep
+LucasOman: awesome
+sartak [?\]: the only way it could be captured if is black screws up terribly and fills in one of its "eyes"
+sartak [?\]: such an invincible structure is called "alive"
+]))

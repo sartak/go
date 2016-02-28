@@ -1,0 +1,145 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[13]KM[6.50]TM[1200]OT[5x30 byo-yomi]
+PW[sartak]PB[LucasOman]DT[2007-10-04]PC[The KGS Go Server at http://www.gokgs.com/]C[sartak [?\]: this game is timed but we'll finish before time runs out
+sartak [?\]: it's byo-yomi time
+LucasOman [?\]: byo yomi?
+]RE[W+175.50]
+;B[ck]BL[1164.548]C[sartak [?\]: you get 20 minutes to take turns
+sartak [?\]: once that 20 minutes runs out
+sartak [?\]: then you have N byo-yomi periods of Y seconds in length
+]
+;W[jd]WL[1171.604]
+;B[kk]BL[1159.035]C[sartak [?\]: if you take longer than Y seconds to take a single turn, then N--
+]
+;W[dd]WL[1159.984]
+;B[ci]BL[1152.774]C[LucasOman [?\]: gotcha
+sartak [?\]: so the rules here are 20 minutes + 5 * 20sec
+]
+;W[jh]WL[1146.269]C[sartak [?\]: sorry, 5 * 30 sec
+]
+;B[ik]BL[1140.095]
+;W[jj]WL[1143.044]
+;B[ed]BL[1135.091]
+;W[ee]WL[1140.36]
+;B[id]BL[1133.428]
+;W[ie]WL[1138.079]
+;B[hd]BL[1107.501]
+;W[gd]WL[1134.89]
+;B[he]BL[1093.027]
+;W[hf]WL[1130.433]
+;B[if]BL[1078.299]
+;W[je]WL[1127.863]
+;B[ge]BL[1071.721]
+;W[gf]WL[1108.035]
+;B[fe]BL[1050.785]
+;W[fd]WL[1104.009]
+;B[ff]BL[1038.569]
+;W[fg]WL[1097.913]
+;B[gg]BL[1026.894]
+;W[hg]WL[1093.635]
+;B[fc]BL[1012.699]
+;W[ec]WL[1086.324]
+;B[ig]BL[971.934]
+;W[gh]WL[1080.821]C[LucasOman [?\]: oh hmm
+sartak [?\]: 8)
+]
+;B[kj]BL[929.967]
+;W[ic]WL[1052.69]
+;B[hc]BL[916.729]
+;W[gc]WL[1047.576]
+;B[hb]BL[913.496]
+;W[ib]WL[1042.239]
+;B[ef]BL[907.134]
+;W[dg]WL[1039.618]
+;B[fb]BL[891.903]
+;W[eb]WL[1034.094]
+;B[gb]BL[867.268]
+;W[ed]WL[1030.84]
+;B[ha]BL[850.261]
+;W[di]WL[1026.692]
+;B[fa]BL[847.185]
+;W[dk]WL[1011.878]
+;B[ia]BL[838.013]
+;W[ja]WL[1007.492]
+;B[jb]BL[834.313]C[sartak [?\]: hehe
+]
+;W[jc]WL[1003.449]
+;B[ka]BL[820.852]
+;W[kb]WL[1000.1]
+;B[kc]BL[816.393]
+;W[ja]WL[996.825]
+;B[la]BL[805.756]
+;W[cj]WL[985.334]
+;B[ch]BL[800.862]
+;W[bg]WL[982.146]
+;B[cg]BL[795.769]
+;W[cf]WL[980.045]
+;B[dh]BL[791.814]
+;W[eh]WL[977.634]
+;B[eg]BL[780.785]
+;W[df]WL[963.497]C[LucasOman [?\]: ohhhh
+LucasOman [?\]: hahaha
+]
+;B[lb]BL[739.706]
+;W[jb]WL[954.335]
+(;B[ke]BL[725.453]
+;W[ea]WL[935.198]
+;B[jf]BL[711.165]
+;W[ga]WL[930.759]C[LucasOman [?\]: wait
+LucasOman [?\]: oh
+LucasOman [?\]: shite
+sartak [?\]: :/ yeah
+LucasOman [?\]: hmm
+LucasOman [?\]: whoops
+LucasOman [?\]: for some reason i was thinking it was invincible
+LucasOman [?\]: what's that called? oitomi?
+LucasOman [?\]: or something
+sartak [?\]: one eye isn't enough
+LucasOman [?\]: lol
+LucasOman [?\]: two
+LucasOman [?\]: well
+]
+;B[]BL[649.388]C[sartak [?\]: life. dunno what the $asian_language term is
+]
+;W[]WL[930.758]TW[aa][ba][ca][da][fa][ha][ia][ka][la][ma][ab][bb][cb][db][fb][gb][hb][lb][mb][ac][bc][cc][dc][fc][hc][kc][lc][mc][ad][bd][cd][hd][id][kd][ld][md][ae][be][ce][de][fe][ge][he][ke][le][me][af][bf][ef][ff][if][jf][kf][lf][mf][ag][cg][eg][gg][ig][jg][kg][lg][mg][ah][bh][ch][dh][fh][hh][ih][kh][lh][mh][ai][bi][ci][ei][fi][gi][hi][ii][ji][ki][li][mi][aj][bj][dj][ej][fj][gj][hj][ij][kj][lj][mj][ak][bk][ck][ek][fk][gk][hk][ik][jk][kk][lk][mk][al][bl][cl][dl][el][fl][gl][hl][il][jl][kl][ll][ml][am][bm][cm][dm][em][fm][gm][hm][im][jm][km][lm][mm]C[LucasOman [?\]: lol
+sartak [?\]: instead of passing here you just resign
+LucasOman [?\]: oh ok
+sartak [?\]: there was one move you missed
+LucasOman [?\]: alrighty, well i gotta run to the store
+LucasOman [?\]: and cook dinner
+])
+(;B[ei]
+;W[fh]
+;B[dj]TR[hf][fh]C[sartak [?\]: wouldn't have saved you, but it would've been good to play
+sartak [?\]: enjoy dinner :)
+sartak [?\]: I ought to make some myself
+LucasOman [?\]: yeh that was a HUGE miscalculation
+sartak [?\]: these groups are low on liberties
+sartak [?\]: but so is your black group, so it didn't matter
+]
+(;W[bj]
+;B[hh]
+;W[gg]
+;B[gi]
+;W[fi]
+;B[fj])
+(;W[ea]
+;B[hh]
+;W[ga]C[sartak [?\]: ok
+sartak [?\]: :)
+sartak [?\]: bye for now
+LucasOman [?\]: thanks for the pointers!
+LucasOman [?\]: i was looking at the interactive site
+LucasOman [?\]: and the problem site
+sartak [?\]: no problem!
+LucasOman [?\]: godo stuff
+sartak [?\]: :D yeah
+LucasOman [?\]: *good
+sartak [?\]: we'll try a 19x19 tonight
+LucasOman [?\]: ok
+sartak [?\]: it's almost a different game
+LucasOman [?\]: i can imagine
+sartak [?\]: :)
+LucasOman [?\]: ok, well i'll see ya later
+sartak [?\]: ya
+])))

@@ -1,0 +1,192 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[6.50]
+PW[sartak]PB[stumbly]DT[2007-10-11]PC[The KGS Go Server at http://www.gokgs.com/]C[stumbly [?\]: lessee some less boring opening
+sartak [?\]: it might very well be different for 9x9
+]RE[W+24.50]
+;B[gg]
+;W[eg]
+;B[cg]
+;W[gf]
+;B[hf]
+;W[ge]
+;B[ff]
+;W[fg]C[stumbly [?\]: well, i think i squandered some early fortune
+stumbly [?\]: but much more intesresting start
+]
+(;B[ee]
+;W[hg]
+;B[gh]
+;W[hh]
+;B[fh]C[sartak [?\]: I would've played E5 further out
+]
+;W[eh]C[sartak [?\]: maybe even C7
+stumbly [?\]: yeah good point
+sartak [?\]: of course, E5 is the only one that prevents net capture
+stumbly [?\]: well just blocking the net, but could have been further for sure
+sartak [?\]: but what's one stone :)
+sartak [?\]: F5 I guess
+stumbly [?\]: i was thinking hane
+]
+(;B[gd]
+;W[he]
+;B[cc]C[sartak [?\]: great
+sartak [?\]: I was hoping you were goingto play something I could ignore
+sartak [?\]: so I could play C7 :D
+stumbly [?\]: well if i get half the board...
+]
+;W[fd]
+;B[fc]
+;W[ed]
+;B[ef]
+;W[de]
+;B[dd]C[sartak [?\]: if I can't capture I can at least attempt a cut
+]
+;W[cd]
+;B[dc]
+;W[cf]C[stumbly [?\]: the worm turns
+]
+;B[ec]C[sartak [?\]: D4 woulda been better :)
+]
+;W[fe]
+;B[df]C[sartak [?\]: too late now
+sartak [?\]: because now it doesn't have the spare liberty
+]
+;W[dg]C[stumbly [?\]: i looked at it
+]
+;B[ef]
+;W[bc]
+;B[ie]C[sartak [?\]: B7 too aggressive :/
+]
+;W[if]
+;B[hd]
+;W[id]C[stumbly [?\]: yeah or play too fast
+stumbly [?\]: hrm can i save this
+]
+;B[bd]
+;W[gb]C[stumbly [?\]: (ie no, but might as well try)
+]
+;B[ce]
+;W[gc]
+;B[df]C[sartak [?\]: mm
+]
+;W[ee]
+;B[bf]
+;W[ff]
+;B[cf]
+;W[ch]
+;B[ei]
+;W[di]C[sartak [?\]: C1 would've been a better response
+sartak [?\]: (instead of D1)
+sartak [?\]: I need to slow down a little :D
+stumbly [?\]: for u?
+sartak [?\]: yeah
+stumbly [?\]: yeah i was looking at c1 for u
+sartak [?\]: I can ignore E1
+stumbly [?\]: indeed
+stumbly [?\]: when i say for u i mean, thinking i maybe shudda
+sartak [?\]: :)
+]
+;B[ga]
+;W[ha]
+;B[ib]
+;W[eb]
+;B[fb]
+;W[fa]
+;B[db]
+;W[ea]
+;B[da]
+;W[ga]
+;B[ic]
+;W[hc]
+;B[bh]
+;W[bi]
+;B[hi]
+;W[ah]
+;B[bg]
+;W[ai]
+;B[ag]C[sartak [?\]: fuck
+]
+;W[dh]
+;B[ci]
+;W[bi]
+;B[ig]
+;W[]C[sartak [?\]: such invasions never really work
+]
+;B[ii]
+;W[]C[stumbly [?\]: oh duh
+]
+;B[]TW[ia][hb][ib][ic][gd][hd][ie][hf][gg][ig][fh][gh][ih][ei][fi][gi][hi][ii]TB[aa][ba][ca][ab][bb][cb][ac][bc][ad][cd][ae][be][af]C[stumbly [?\]: nice comeback :p
+sartak [?\]: hehe
+])
+(;B[fe]C[sartak [?\]: ack
+stumbly [?\]: i'll learn something
+sartak [?\]: I don't mean now :)
+sartak [?\]: I mean instead of E5 hehe
+]))
+(;B[fe]C[sartak [?\]: this actually puts a lot of pressure on G5
+stumbly [?\]: dont think tengen was fatal
+stumbly [?\]: some
+stumbly [?\]: but the corner isnt so secure either
+sartak [?\]: sure, but this ends up working better
+sartak [?\]: well now I can't afford to leisurely capture G3
+]
+(;W[gd]
+;B[fd]
+;W[fc]
+;B[de])
+(;W[hg]C[stumbly [?\]: no lets see about defending the net
+stumbly [?\]: some other way
+sartak [?\]: you have control
+]
+;B[gh]
+;W[hh]
+;B[gd]C[stumbly [?\]: i would expect a white to cut off c3 after that
+]
+;W[he]
+;B[if]
+;W[fh]
+;B[gi]
+;W[hd]
+;B[hi]C[stumbly [?\]: now have to kill lsomething to live
+sartak [?\]: shrug
+stumbly [?\]: if corner alive?
+sartak [?\]: in any case I think F5 is more or less strictly better than tengen
+stumbly [?\]: seems like j2 is key
+stumbly [?\]: well, it's a better connection
+stumbly [?\]: back up
+sartak [?\]: it would look the same if you played at tengen, except you have one less choke point
+]))
+(;B[fd]C[sartak [?\]: F5
+stumbly [?\]: cut?
+]
+(;W[ee]
+;B[fe]C[stumbly [?\]: ?
+sartak [?\]: I wouldn't play E5 :)
+stumbly [?\]: well thats the net
+])
+(;W[fe]
+;B[hd]
+;W[ef]C[stumbly [?\]: ok how bad is it
+]
+;B[dd]C[sartak [?\]: looks ok
+stumbly [?\]: shrug
+stumbly [?\]: maybe sac the stone
+]
+;W[ff]C[stumbly [?\]: oh poor choice!
+stumbly [?\]: you lose!
+sartak [?\]: I still don't see any real problems with F5
+sartak [?\]: hehe
+stumbly [?\]: ok
+stumbly [?\]: good stuff
+sartak [?\]: there were some other mistakes made
+stumbly [?\]: i need to check some stuff, maybe try again in a bit
+stumbly [?\]: oh for sure
+sartak [?\]: ok
+stumbly [?\]: but both decent games i thot
+sartak [?\]: aye
+stumbly [?\]: fun anyway
+sartak [?\]: thank you for playing
+stumbly [?\]: u2 
+sartak [?\]: :)
+stumbly [?\]: :)
+])))

@@ -1,0 +1,192 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[6.50]
+PW[sartak]PB[GreyKnight]WR[16k]DT[2007-01-26]PC[The KGS Go Server at http://www.gokgs.com/]C[sartak [16k\]: ok hi
+sartak [16k\]: As you might remember, the rules are pretty simple
+sartak [16k\]: the goal is to surround as much territory as possible
+sartak [16k\]: you're up first
+sartak [16k\]: good first plays are usually the star points in the corners
+sartak [16k\]: Most commonly G7
+]RE[W+Resign]
+(;B[cc]
+;W[gg]
+;B[cd]
+;W[de]
+;B[ee]
+;W[ed]
+;B[df]
+;W[ef]
+;B[dd]
+;W[fe]
+;B[ce]
+;W[cf]
+;B[bf]
+;W[dg]
+;B[gc]
+;W[hc]C[sartak [16k\]: one of my favorite parts about go is the ranking system
+]
+;B[ic]C[sartak [16k\]: because I'm one of those people who are obsessed with numerical improvement !
+]
+;W[ib]
+;B[hd]
+;W[id]
+;B[hb]
+;W[gb]
+;B[fa]
+;W[fb]
+;B[fc]
+;W[eb]
+;B[ec]C[sartak [16k\]: E8 was a poor play by me, I should've played E7, ah well :)
+]
+;W[ha]
+;B[db]
+;W[gd]
+;B[ge]C[sartak [16k\]: oh, there's one thing I forgot to tell you
+sartak [16k\]: suicide is forbidden unless you capture stones in the process
+sartak [16k\]: So I can't play D7
+sartak [16k\]: yet :)
+]
+;W[he]C[GreyKnight [?\]: the interface won't let you, anyway
+sartak [16k\]: nod
+]
+;B[gf]
+;W[hf]
+;B[fg]
+;W[ff]
+;B[gh]
+;W[fd]
+;B[ge]C[GreyKnight [?\]: ping?
+GreyKnight [?\]: hrm
+]
+;W[dc]C[sartak [16k\]: it's not ko there
+sartak [16k\]: you can recapture
+sartak [16k\]: since!
+sartak [16k\]: since ko forbids repetition of exact board state
+sartak [16k\]: if you recapture the board isn't the same because F7 and G7 are now empty where they weren't before
+]
+;B[ec]
+;W[fc]C[GreyKnight [?\]: *gives it a shot*
+]
+;B[ch]
+;W[bg]
+;B[cg]
+;W[df]C[sartak [16k\]: you're doing all right :)
+]
+;B[ag]
+;W[bh]
+;B[ci]
+;W[dh]
+;B[eg]C[sartak [16k\]: you should've kept up the attack instead
+sartak [16k\]: since you could've captured B2
+]
+;W[ah]
+;B[bi]
+;W[af]
+;B[ae]
+;W[be]
+;B[bd]
+;W[ad]
+;B[bb]
+;W[ea]
+;B[da]
+;W[dc]
+;B[cb]
+;W[ac]
+;B[ab]C[sartak [16k\]: say I had played somewhere else
+]
+(;W[ba]C[sartak [16k\]: this killed your group
+]
+;B[ca]
+;W[ae]
+;B[hg]
+;W[gf]C[sartak [16k\]: the game's pretty much over
+sartak [16k\]: :)
+GreyKnight [?\]: now we are just flood-filling
+]
+;B[if]C[sartak [16k\]: It ends when one resigns or both players pass
+sartak [16k\]: hmm
+]
+;W[]
+;B[eh]
+;W[ei]
+;B[fh]
+;W[fi]
+;B[gi]
+;W[di]
+;B[ig]
+;W[ie]
+;B[hh]C[GreyKnight [?\]: yais
+GreyKnight [?\]: I need to keep that in mind more
+]
+(;W[ii]
+;B[ec]C[GreyKnight [?\]: \\o/
+]
+;W[]
+;B[bc]C[sartak [16k\]: Sadly all of your stones are dead :)
+]
+;W[]C[sartak [16k\]: I'll teach you about life and death
+sartak [16k\]: but first we need to finish this !
+GreyKnight [?\]: yah, placing more stones will just let you get away with it :-(
+sartak [16k\]: even if you pass I can kill them
+sartak [16k\]: "dead as they stand"
+GreyKnight [?\]: :-P
+GreyKnight [?\]: need eyes!
+sartak [16k\]: right
+GreyKnight [?\]: (o) (o)
+sartak [16k\]: ok
+]
+;B[]C[sartak [16k\]: you mark dead stones by clicking them
+sartak [16k\]: shrug :)
+sartak [16k\]: one more?
+GreyKnight [?\]: ok
+sartak [16k\]: ok
+GreyKnight [?\]: ah, they're all ghosts :-o
+])
+(;W[bf]
+;B[ii]C[GreyKnight [?\]: also my connection needs to stop flaking out :-E3
+sartak [16k\]: well, there really wasn't much you could do, since I stole your eyes as soon as I could
+sartak [16k\]: also you should've passed instead of resigning so you could see how scoring works, but oh well :)
+]))
+(;W[ae]
+;B[ba]C[sartak [16k\]: now your group has two eyes
+sartak [16k\]: so I can't capture it evar
+sartak [16k\]: it was a similar situation in the bottom right
+]))
+(;B[gc]
+;W[fc]
+;B[ac]
+;W[gb]
+;B[ad]
+;W[hc]
+;B[ae]
+;W[gd]C[sartak [16k\]: when a stone has no breathing space it's captured
+sartak [16k\]: breathing space = liberties
+sartak [16k\]: (that's the technical name for them)
+sartak [16k\]: adjacent stones of one color share their liberties
+]
+;B[gg]
+;W[bc]
+;B[fg]TR[ff][gf][eg][hg][fh][gh]C[sartak [16k\]: so white would need to occupy all of the triangle spots to capture this black group
+sartak [16k\]: and that's about it
+sartak [16k\]: :)
+GreyKnight [?\]: righto
+sartak [16k\]: there's also ko
+])
+(;B[ed]
+;W[de]
+;B[cd])
+(;B[fd]
+;W[ef]
+;B[ee]
+;W[gf]
+;B[ge]
+;W[fg]
+(;B[fe])
+(;B[ff]
+;W[fe]C[sartak [16k\]: black cannot immediately recapture
+GreyKnight [?\]: ko is the repeating back-and-forth capture thing, right?
+GreyKnight [?\]: right
+sartak [16k\]: yep
+sartak [16k\]: without the ko rule this pattern would never be settled
+sartak [16k\]: since neither player would want to give up their stone
+sartak [16k\]: ok, let's try a game then
+])))

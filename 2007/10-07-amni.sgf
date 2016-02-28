@@ -1,0 +1,330 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]HA[4]KM[6.50]
+PW[amni]PB[sartak]DT[2007-10-07]PC[The KGS Go Server at http://www.gokgs.com/]AB[dd][pd][dp][pp]RE[W+Resign]
+;W[nc]C[amni [-\]: pass an enjoyable sporting engagement
+]
+;B[qf]
+;W[fc]C[sartak [?\]: we who are about to die salute you
+]
+;B[cf]
+;W[jd]
+;B[hd]C[amni [-\]: yeah, i don't have much to say, just in general don't worry about capturing unimportant / practically-dead stones
+sartak [?\]: nod
+amni [-\]: and be careful about adding more stones to a group that is already weak
+amni [-\]: because you can make it heavy
+sartak [?\]: I don't quite grok the difference between heavy and thick
+amni [-\]: heavy means burdensome
+sartak [?\]: except that heavy is bad and thick is good?
+sartak [?\]: ok
+jilles [3k?\]: heavy means it's too many stones to give away, and hard to make 2 eyes
+amni [-\]: thick means hard to attack
+]
+;W[fe]C[sartak [?\]: I wonder if I'm good enough to start learning joseki
+sartak [?\]: because I am totally not sure how ot respond :)
+amni [-\]: in my opinion, everyone is
+]
+;B[qn]C[amni [-\]: you just have to be careful how you use what you learn
+]
+;W[dm]C[sartak [?\]:  right. the whole "learning joseki costs you 2 stones" thing
+]
+;B[fq]C[amni [-\]: sort of like when learning that pressing the Z button throws people in smash bros melee made me lose 17 million times in a row
+]
+;W[dg]C[sartak [?\]: :D
+sartak [?\]: I played about 5 games of ssbm before I learned how to smash
+sartak [?\]: I.. wasn't good!
+]
+;B[ch]C[amni [-\]: i didn't learn about the c stick smash until after i had been playing for years
+]
+;W[cg]
+;B[bg]C[sartak [?\]: nod
+]
+;W[bh]C[sartak [?\]: my instinct is B11
+sartak [?\]: so I'll go for it
+]
+;B[bi]
+;W[bf]
+;B[ah]
+;W[ce]
+;B[df]
+;W[ef]
+;B[de]
+;W[bd]
+;B[cd]
+;W[kq]
+;B[pj]
+;W[pr]
+;B[nq]C[sartak [?\]: those keima feel nice
+amni [-\]: :)
+]
+;W[oq]
+;B[qq]C[amni [-\]: man, i'm making a fool of myself in front of jilles
+]
+;W[op]C[sartak [?\]: he's viciously critical
+]
+;B[oo]C[amni [-\]: oh, you don't have to tell me :(
+]
+;W[np]C[sartak [?\]: ok
+sartak [?\]: so here I feel like I'm losing again :D
+amni [-\]: nah
+sartak [?\]: so I'm just going to focus on getting the corner
+amni [-\]: the upper left cost me like 40 points
+amni [-\]: maybe more
+amni [-\]: so you have a safe and maintainable lead
+]
+;B[mo]
+(;W[no]C[amni [-\]: O2 could be called heavy as well
+amni [-\]: it hurts to lose that liberty in the long run
+]
+;B[nn]C[amni [-\]: this cut was probably bad (N6) but it starts trouble at least
+]
+;W[mn]
+(;B[mp]
+;W[on]
+;B[po]
+;W[nm]TR[mo][mp][nq]C[amni [-\]: now those stones are a little dead
+sartak [?\]: nod
+amni [-\]: they can escape but they'll be weak
+amni [-\]: and probably lose points in the process
+amni [-\]: so it's best not to add to them until you know you can do it right
+amni [-\]: if you do escape
+amni [-\]: play out first
+]
+(;B[nr]C[amni [-\]: that oversightcost you a lot of points though
+sartak [?\]: O2?
+]
+;W[ko]C[amni [-\]: your response to N6
+amni [-\]: connecting at P6 would have been fine for you
+amni [-\]: or
+]
+;B[lq]C[amni [-\]: well, yeah, i guess you need to connect to prevent Q5 shenanigans
+]
+;W[kr]C[sartak [?\]: I always want to poke in with L4
+sartak [?\]: but that just helps you
+]
+;B[or]C[amni [-\]: whenever you do a move like that it gives me two cutting points
+amni [-\]: but it also costs you a liberty
+amni [-\]: like my o5 was that type of move
+amni [-\]: except o5 was sente at least
+amni [-\]: sente-ish
+amni [-\]: whereas L4 is definitely gote
+]
+;W[pq]
+;B[qr]C[amni [-\]: the liberty that o5 cost was pricey
+]
+;W[ps]
+;B[eb]
+;W[qh]C[sartak [?\]: sente is hard
+amni [-\]: hard like a fox
+]
+;B[oh]
+;W[pg]
+;B[of]
+;W[qj]C[amni [-\]: but i think r9 is fiercer, personally
+]
+(;B[ql]C[sartak [?\]: I think I'm doing OK here
+amni [-\]: r8 is too loose
+amni [-\]: but i liked p14
+sartak [?\]: :)
+amni [-\]: R8 could be R9 I think
+sartak [?\]: cool
+]
+;W[pi]
+;B[oi]
+;W[pk]C[sartak [?\]: hehe
+]
+;B[ok]
+;W[oj]
+;B[nj]
+;W[pj]
+;B[ol]
+;W[pl]
+;B[pm]
+;W[om]
+;B[nk]C[amni [-\]: and thus strong/influential
+]
+;W[og]
+;B[ng]
+;W[nf]C[amni [-\]: same kind of push and cut
+sartak [?\]: right
+amni [-\]: this is a very push and cut game for me
+amni [-\]: despite my mistake at C13
+sartak [?\]: :)
+sartak [?\]: so hm
+]
+;B[nh]
+;W[mi]
+;B[lg]
+;W[ni]
+;B[lk]
+;W[lj]
+;B[jk]
+;W[mk]
+;B[mj]
+;W[nl]C[sartak [?\]: hehe
+]
+;B[ki]
+;W[mf]
+(;B[mg]C[sartak [?\]: not falling for it twice.. at least not so soon..
+jilles [3k?\]: empty triangle
+sartak [?\]: yeah
+]
+;W[ld]C[amni [-\]: and commits you to saving those 4 stones
+amni [-\]: which, though they cut
+amni [-\]: well, i dunno
+]
+;B[fi]C[jilles [3k?\]: if you wanted to save those 4 stones, M12 would have been better
+amni [-\]: yes.
+]
+;W[ii]
+;B[hk]
+;W[kj]
+;B[jj]C[amni [-\]: push the shell... cut the shell...
+]
+;W[ji]C[sartak [?\]: it's hard being black!
+]
+;B[hg]
+;W[jg]
+;B[jf]C[sartak [?\]: I've read recently that
+sartak [?\]: this is a bad shape for black
+]
+;W[kh]C[sartak [?\]: H13 K14 H14 M13
+sartak [?\]: er
+sartak [?\]: s/H14/K13/
+]
+;B[kg]
+;W[he]
+;B[ig]
+;W[jh]
+;B[ie]
+;W[id]
+;B[ge]
+;W[gd]
+;B[hf]
+;W[hc]
+;B[he]
+;W[gh]C[sartak [?\]: really think you can cut eh
+amni [-\]: you never know
+sartak [?\]: well I got news for ya!
+sartak [?\]: *throws a smoke bomb*
+amni [-\]: I hope it's "TITANIC SINKS hundreds lose lives"
+sartak [?\]: haha
+]
+;B[eg]LB[he:A][lg:B][mg:hvy][nq:C]C[sartak [?\]: so
+jilles [3k?\]: you described a bamboo shape there?
+sartak [?\]: A and B are probably heavy
+sartak [?\]: C isn't
+amni [-\]: B is dead
+amni [-\]: as is C
+sartak [?\]: yes
+sartak [?\]: I'm throwing A's lot in with B
+amni [-\]: but dead stones are no burden
+sartak [?\]: ah
+amni [-\]: in fact they may have aji
+amni [-\]: or ko threats
+amni [-\]: which can be useful
+sartak [?\]: so. A is definitely heavy. too many stones to just give up
+amni [-\]: of course it's still usually bad to let large groups die
+amni [-\]: N13 was a canonical heavy move
+amni [-\]: heh
+]
+;W[fg]C[sartak [?\]: bah
+sartak [?\]: you're supposed to blindly try to save your stones !
+amni [-\]: i have considered those two stones expendable for a long time
+]
+;B[dh]C[sartak [?\]: you make me a sad panda
+amni [-\]: you don't need to capture them
+amni [-\]: because i won't save them
+sartak [?\]: lies !
+amni [-\]: it's a true
+sartak [?\]: :)
+]
+;W[en]C[sartak [?\]: so let's evaluate the state of the game
+sartak [?\]: I probably have the bottom right, barring unforeseen awesomenes
+sartak [?\]: that might be worth 30 points
+amni [-\]: yeah
+amni [-\]: not that much
+sartak [?\]: right
+sartak [?\]: 20
+amni [-\]: no
+sartak [?\]: 10!
+amni [-\]: not more than 15
+sartak [?\]: ok :)
+amni [-\]: welll
+sartak [?\]: I also have a shaky grip on the top left
+amni [-\]: okay maybe 20, depending on how clever you are
+amni [-\]: your top left is solid and big
+sartak [?\]: I just don't like my position at all. that killing in the top middle hurts :)
+sartak [?\]: so at this point I'd resign
+amni [-\]: you may if you want
+sartak [?\]: ok :)
+sartak [?\]: hehe
+sartak [?\]: thank you sir
+amni [-\]: then i'l get to see all of jilles's badmouthing behind the scenes
+sartak [?\]: I think I'm learning
+amni [-\]: *waits for it
+sartak [?\]: he waits until after the game
+amni [-\]: thank you for the game
+jilles [3k?\]: don't have too much to comment on it
+sartak [?\]: then he bombards every medium you share with him with scathing criticism
+amni [-\]: heh
+sartak [?\]: see, there he goes
+sartak [?\]: :)
+])
+(;B[mh])
+(;B[lh]C[sartak [?\]: ah yeah
+]))
+(;B[qk]C[sartak [?\]: the next few moves did illustrate exactly why R8 was too loose
+amni [-\]: yeah
+sartak [?\]: what can white do here? other than tenuki :)
+sartak [?\]: if anything
+amni [-\]: well
+amni [-\]: can try Q11 anyway
+]
+;W[pi]C[amni [-\]: and then black P10
+amni [-\]: maybe?
+amni [-\]: yeah, O10 is a bad response
+amni [-\]: P11 is the first thing you always consider
+]
+(;B[oj]C[sartak [?\]: I was tthinking O10
+amni [-\]: then white, at the very least, has a ko at S9
+sartak [?\]: but that offers the cut
+amni [-\]: but here it leads to easy life for white
+jilles [3k?\]: downside of r9 is that it's next to a stone you want to attack
+amni [-\]: you could consider q9 instead of r9
+])
+(;B[nj]
+;W[pk]
+;B[oj]
+;W[pl]))
+(;B[pk]
+(;W[qk])
+(;W[pi]
+;B[oi]C[amni [-\]: this would be nice for black to put some helpful stones in place for attacking F15 or D7 later
+amni [-\]: or O5 if N4 weren't dead
+sartak [?\]: you two should play !
+amni [-\]: nah
+amni [-\]: too anxiety-provoking
+jilles [3k?\]: too late in the night
+amni [-\]: when i am already very anxious
+amni [-\]: yes
+amni [-\]: and jilles scares me
+sartak [?\]: ok
+sartak [?\]: TJOELKER SMASH
+jilles [3k?\]: hmmz
+sartak [?\]: (I think I spelled that right)
+amni [-\]: quite the scrabble word you have there
+amni [-\]: *poof*
+])))
+(;B[ko]C[amni [-\]: like in that direction
+amni [-\]: because it attacks L3 more
+]
+;W[hq]C[amni [-\]: the O7 ponnuki is basically unkillable
+amni [-\]: with the board still open like this. :)
+]))
+(;B[on]C[sartak [?\]: yeah
+]
+;W[lo])
+(;B[nm]C[amni [-\]: this is probably bad because of Q5 later
+]))
+(;W[mp]C[amni [-\]: this is stronger but passive. *shrug*
+]))

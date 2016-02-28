@@ -1,0 +1,296 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[1200]OT[5x20 byo-yomi]
+PW[sartak]PB[Violist]DT[2007-10-05]PC[The KGS Go Server at http://www.gokgs.com/]RE[B+Resign]
+;B[pp]BL[1196.055]C[sartak [?\]: first 19x19 I've played since my triumphant return. go easy on me!
+]
+;W[dd]WL[1189.378]
+;B[dp]BL[1188.72]
+;W[pe]WL[1184.576]
+;B[ph]BL[1184.475]
+;W[dj]WL[1176.221]
+;B[ok]BL[1174.137]
+;W[jp]WL[1169.954]
+;B[gp]BL[1169.742]
+;W[mp]WL[1166.987]
+;B[np]BL[1167.558]
+;W[no]WL[1163.707]
+;B[op]BL[1166.303]
+;W[pn]WL[1150.937]
+;B[pm]BL[1160.804]
+;W[om]WL[1142.116]
+;B[pl]BL[1156.68]
+;W[rm]WL[1114.921]
+;B[qd]BL[1151.628]
+;W[re]WL[1110.548]
+;B[qe]BL[1146.769]
+;W[qf]WL[1109.572]
+;B[rd]BL[1144.801]
+;W[rg]WL[1101.335]
+;B[pd]BL[1140.008]
+;W[pg]WL[1092.473]
+;B[qh]BL[1136.888]
+;W[oh]WL[1089.257]
+;B[oi]BL[1135.257]
+;W[rh]WL[1071.448]
+;B[oe]BL[1112.991]
+;W[pf]WL[1062.033]
+;B[pj]BL[1102.855]
+;W[qi]WL[1055.473]
+;B[pi]BL[1099.706]
+;W[qj]WL[1047.782]
+;B[qk]BL[1097.88]
+;W[rj]WL[1043.64]C[Violist [?\]: territory monger
+]
+;B[po]BL[1084.232]
+;W[oo]WL[1033.862]
+;B[qn]BL[1081.316]
+;W[on]WL[1032.02]C[sartak [?\]: :( you take that back
+]
+;B[le]BL[1056.786]
+;W[mj]WL[1028.488]
+;B[nh]BL[1049.648]
+;W[og]WL[1025.705]
+;B[nf]BL[1032.13]
+;W[ni]WL[996.033]
+;B[ng]BL[1024.559]
+;W[nj]WL[986.836]
+;B[nk]BL[998.089]
+;W[qm]WL[979.087]
+;B[ro]BL[985.736]
+;W[ml]WL[973.887]
+;B[ql]BL[978.811]
+;W[rl]WL[970.315]
+;B[rk]BL[957.955]
+;W[sk]WL[967.968]C[Violist [?\]: craaap
+]
+;B[qg]BL[940.706]
+;W[ol]WL[953.91]C[Violist [?\]: You moved faster than me :/
+sartak [?\]: sneak attack'd
+]
+;B[of]BL[924.481]
+;W[rf]WL[949.014]
+;B[mk]BL[917.355]
+;W[lk]WL[946.726]
+;B[oj]BL[909.956]
+(;W[mr]WL[937.092]C[sartak [?\]: yeah
+Violist [?\]: if you'd gone for the cap instead, it would have been fine
+]
+;B[lj]BL[902.489]C[sartak [?\]: dot dot dot :)
+]
+;W[mi]WL[912.512]
+;B[ll]BL[874.501]
+;W[kk]WL[904.477]
+;B[nl]BL[864.283]
+;W[mm]WL[902.088]
+;B[li]BL[848.748]
+;W[mh]WL[898.641]
+;B[lh]BL[847.525]
+;W[mg]WL[896.424]
+;B[lg]BL[846.718]
+;W[mf]WL[892.16]
+;B[me]BL[843.903]C[Violist [?\]: whew
+sartak [?\]: damn. I deserved that for playign N2
+Violist [?\]: heh
+Violist [?\]: probably
+Violist [?\]: although that made you a nice bit of territory
+]
+;W[od]WL[848.438]
+;B[lf]BL[828.217]
+;W[pk]WL[842.057]
+;B[rn]BL[812.786]
+;W[sn]WL[838.118]
+;B[so]BL[811.375]
+;W[sm]WL[836.337]
+;B[nq]BL[805.949]
+;W[or]WL[832.975]
+;B[nr]BL[804.028]
+;W[ns]WL[831.806]
+;B[mq]BL[795.49]
+;W[lr]WL[827.545]
+;B[pr]BL[787.097]
+;W[os]WL[822.26]
+;B[ps]BL[777.248]
+;W[lq]WL[815.824]
+;B[oq]BL[755.657]
+;W[ms]WL[812.179]
+;B[nm]BL[737.434]
+;W[nn]WL[806.871]
+;B[pl]BL[705.66]
+;W[qk]WL[784.119]
+;B[mo]BL[697.353]
+;W[mn]WL[761.699]C[Violist [?\]: heh, figured you wouldn't fall for it
+]
+;B[lp]BL[685.13]
+;W[lo]WL[757.891]C[sartak [?\]: my spidey sense was tingling
+Violist [?\]: yeah, that throwaway was a bit too glaring to have not been a trap :)
+]
+;B[mp]BL[663.533]C[sartak [?\]: ehehe
+]
+;W[kp]WL[754.993]
+;B[ko]BL[651.599]
+;W[ln]WL[748.027]
+;B[jo]BL[649.578]
+;W[io]WL[742.039]
+;B[jq]BL[636.737]
+;W[kq]WL[733.764]C[Violist [?\]: damnit
+Violist [?\]: fall for something
+sartak [?\]: :/
+]
+;B[iq]BL[622.04]
+;W[jn]WL[728.64]
+;B[ip]BL[619.103]C[Violist [?\]: that works
+]
+;W[kn]WL[724.314]C[sartak [?\]: it does?
+]
+;B[ho]BL[614.334]
+;W[hn]WL[718.746]C[Violist [?\]: well, gives me back that half of the bottom
+sartak [?\]: hehe
+]
+;B[gn]BL[597.258]
+;W[hm]WL[713.759]
+;B[fl]BL[589.327]
+;W[pc]WL[705.929]
+;B[oc]BL[584.366]
+;W[nd]WL[703.884]
+;B[nc]BL[580.109]
+;W[md]WL[683.613]
+;B[qc]BL[576.784]
+;W[pb]WL[678.818]C[Violist [?\]: knew I shoulda killed that
+]
+;B[qb]BL[571.147]
+;W[ob]WL[676.135]
+;B[nb]BL[569.672]
+;W[na]WL[671.088]
+;B[pa]BL[568.824]
+;W[mc]WL[666.237]C[Violist [?\]: but, this works well.
+]
+;B[oa]BL[566.7]
+;W[mb]WL[664.245]
+;B[ma]BL[565.301]
+;W[la]WL[662.421]
+;B[na]BL[564.182]
+;W[ic]WL[651.349]
+;B[kc]BL[557.529]C[sartak [?\]: hi Lucas
+Violist [?\]: yo
+sartak [?\]: Violist is making me wear a dress
+]
+;W[jg]WL[629.473]C[LucasOman [?\]: yo
+LucasOman [?\]: haha
+]
+;B[lb]BL[552.513]C[Violist [?\]: indeed
+]
+;W[ie]WL[608.765]
+;B[dk]BL[545.065]
+;W[ek]WL[604.594]
+;B[dl]BL[542.574]
+;W[el]WL[602.78]
+;B[em]BL[541.789]
+;W[ck]WL[593.884]
+;B[cl]BL[537.08]
+;W[bj]WL[591.412]
+;B[bk]BL[528.529]
+;W[cj]WL[589.747]
+;B[bm]BL[523.907]
+;W[ak]WL[587.345]
+;B[bl]BL[522.406]C[sartak [?\]: good clean Go
+sartak [?\]: like joseki but only bad
+]
+;W[fj]WL[558.919]
+;B[fk]BL[518.46]
+;W[ej]WL[556.736]
+;B[hl]BL[513.557]
+;W[gl]WL[551.576]
+;B[gk]BL[504.352]
+;W[gm]WL[549.545]
+;B[fm]BL[503.08]
+;W[hk]WL[547.645]
+;B[gj]BL[499.156]
+;W[hj]WL[543.481]
+;B[gi]BL[496.809]
+;W[gh]WL[539.525]
+;B[fi]BL[495.862]
+;W[eh]WL[538.191]
+;B[ei]BL[494.797]
+;W[di]WL[536.553]
+;B[fh]BL[493.795]C[Violist [?\]: let's see how much territory I can eat
+]
+;W[fg]WL[528.162]
+;B[gg]BL[485.484]
+;W[hh]WL[525.946]
+;B[hi]BL[483.149]
+;W[hg]WL[520.489]
+;B[ik]BL[477.197]
+;W[il]WL[517.615]
+;B[ij]BL[475.851]
+;W[hl]WL[515.253]C[sartak [?\]: quite a lot
+]
+;B[jj]BL[471.277]
+;W[ii]WL[512.289]
+;B[ih]BL[467.107]
+;W[ji]WL[509.947]
+;B[jh]BL[464.154]
+;W[ki]WL[506.847]
+;B[kj]BL[460.079]
+;W[ig]WL[503.783]C[Violist [?\]: dun dun duuun
+]
+;B[kh]BL[456.872]
+;W[gf]WL[494.453]
+;B[ne]BL[444.941]
+;W[ke]WL[478.978]
+;B[ld]BL[438.971]
+;W[kb]WL[473.222]
+;B[lc]BL[421.426]
+;W[jb]WL[469.496]
+;B[jc]BL[416.946]
+;W[ia]WL[461.736]
+;B[kl]BL[405.597]C[Violist [?\]: whee
+]
+;W[jl]WL[455.125]
+;B[jk]BL[403.067]C[LucasOman [?\]: cha ching
+]
+;W[jm]WL[449.535]
+;B[dh]BL[387.108]
+;W[eg]WL[445.839]
+;B[ch]BL[384.876]
+;W[cg]WL[444.173]
+;B[bi]BL[381.447]
+;W[bh]WL[433.454]
+;B[ci]BL[373.913]
+;W[aj]WL[430.454]
+;B[ai]BL[370.402]C[Violist [?\]: nice try
+]
+;W[ah]WL[426.6]C[Violist [?\]: that's going to hurt :(
+]
+;B[al]BL[368.001]C[LucasOman [?\]: dead
+]
+;W[dg]WL[424.115]C[sartak [?\]: yeah
+]
+;B[bg]BL[363.838]C[sartak [?\]: god work
+Violist [?\]: aww, good game
+sartak [?\]: good work :)
+Violist [?\]: thanks for playing
+sartak [?\]: even ignoring that you have 3x as many caps
+sartak [?\]: you own most of the board
+Violist [?\]: yeah
+Violist [?\]: N2 was your big mistake
+])
+(;W[nl]
+;B[lj]
+;W[pk]C[sartak [?\]: siigh :)
+Violist [?\]: you'd have a ton of territory and I'd have little influence :)
+Violist [?\]: oh well, live and learn
+sartak [?\]: nod
+Violist [?\]: I gotta go eat
+Violist [?\]: but thanks man, that was fun
+sartak [?\]: okie
+sartak [?\]: yeah :)
+sartak [?\]: I'll play Lucas now!
+LucasOman [?\]: sartak needs a confidence booster
+Violist [?\]: I wanna watch
+LucasOman [?\]: no time limit
+sartak [?\]: ok
+LucasOman [?\]: makes me nervous
+sartak [?\]: :)
+LucasOman [?\]: plus my wife is home, and i never know when i'm going to have to step away for a sec
+sartak [?\]: ok, making
+]))

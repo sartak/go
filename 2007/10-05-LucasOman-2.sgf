@@ -1,0 +1,159 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[6.50]
+PW[LucasOman]PB[sartak]DT[2007-10-05]PC[The KGS Go Server at http://www.gokgs.com/]C[sartak [?\]: whoops
+sartak [?\]: I'm not supposed to be black :)
+sartak [?\]: I'll just pass
+]RE[B+Resign]
+;B[]
+;W[cc]C[sartak [?\]: usually the more experienced player takes white
+]
+;B[gg]
+;W[ce]
+;B[gc]
+;W[cg]
+;B[ee]
+;W[ec]
+;B[eg]
+;W[ge]
+;B[he]
+;W[ie]
+;B[gf]C[Violist [?\]: wow, you guys fill up those nodes quick
+]
+;W[hf]
+;B[hd]
+;W[hc]
+;B[gd]
+(;W[fd]TR[ge]
+;B[fe]C[Violist [?\]: Lucas, if you have a piece alone like that, you want to try to either make life (2 eyes) or head towards your existing forces
+Violist [?\]: pronto
+Violist [?\]: otherwise it'll get butchered
+Violist [?\]: not enough space there to make life so you should have gone to attack center
+]
+;W[fc]
+;B[hb]
+;W[gb]
+;B[ic]
+;W[dd]
+;B[fb]
+;W[df]C[Violist [?\]: can you guys even see what I type? :P
+]
+;B[db]
+;W[fg]
+;B[fh]
+;W[ef]
+;B[ff]
+;W[dg]
+;B[dh]
+;W[ch]
+;B[ci]
+;W[bh]
+;B[bi]
+;W[ai]
+;B[ah]C[Violist [?\]: Yeah! Go white!
+Violist [?\]: A3!
+]
+(;W[bg]
+;B[eb]
+;W[ag]C[Violist [?\]: A3 damnit
+Violist [?\]: yes
+]
+;B[di]C[Violist [?\]: :P
+]
+;W[cb]
+;B[dc]
+;W[fa]
+;B[ed]C[sartak [?\]: hehe
+sartak [?\]: that's as far as I'll go though!
+sartak [?\]: can't have you go unpunished for mistakes
+LucasOman [?\]: gah
+LucasOman [?\]: keeps hanging or something
+LucasOman [?\]: i only wanted to back up one
+sartak [?\]: your stone was F7
+sartak [?\]: but it was a bad move anyway
+LucasOman [?\]: well i'll stick with that one
+]
+(;W[fc]C[LucasOman [?\]: put yours at D5
+sartak [?\]: (playing in eyes)--
+]
+;B[de]
+;W[cd]C[LucasOman [?\]: ok
+sartak [?\]: better
+]
+;B[ca]
+;W[ba]C[LucasOman [?\]: sorry, viol, i wasn't even watching chat
+sartak [?\]: it's fine, we can't see his text during the game
+]
+;B[da]
+;W[ga]
+;B[bb]
+;W[ha]
+;B[bc]
+;W[bd]
+;B[ad]C[LucasOman [?\]: oh really?
+]
+;W[ab]
+;B[aa]C[sartak [?\]: yep, it's to prevent helping
+]
+;W[ae]
+;B[ac]C[LucasOman [?\]: nice
+LucasOman [?\]: ah
+]
+(;W[ei]C[sartak [?\]: but if you had played B4
+]
+;B[bf]C[sartak [?\]: this move killed your group
+sartak [?\]: because now you cannot make two eyes (not even one)
+LucasOman [?\]: which
+LucasOman [?\]: which move
+sartak [?\]: B4 kills
+sartak [?\]: your previosu move was E1
+]
+;W[eh]
+;B[fi]C[LucasOman [?\]: oh hmm
+]
+;W[af]
+;B[cf]C[sartak [?\]: aw
+sartak [?\]: I wanted to keeel :)
+LucasOman [?\]: lol
+LucasOman [?\]: i will give you no such pleasure, sir!
+LucasOman [?\]: that was bad
+sartak [?\]: see IRC
+sartak [?\]: ##n-e
+sartak [?\]: good game :)
+LucasOman [?\]: heeh not really
+LucasOman [?\]: do you feel better about yourself?
+sartak [?\]: yeah!
+LucasOman [?\]: haha
+sartak [?\]: well now I can see that I have actually learned stuff
+sartak [?\]: whenever I play anyone else I get trounced
+sartak [?\]: :/
+LucasOman [?\]: hehe
+Violist [?\]: it was pretty close between us
+sartak [?\]: Vio: up for another 19x19? :)
+Violist [?\]: yeah
+sartak [?\]: either one of you
+sartak [?\]: or you two can play
+sartak [?\]: I'll offer commentary in #nm
+])
+(;W[bf]C[sartak [?\]: three eyes
+LucasOman [?\]: gotcha
+sartak [?\]: now let's look at what vio had to say
+]))
+(;W[fc]
+;B[de]
+;W[ei]))
+(;W[ag]
+;B[di]
+;W[ai]C[sartak [?\]: would have stopped an invasion
+Violist [?\]: yeah, there, there was no hope of escape
+sartak [?\]: hehe, misplay by me, but oh wel
+]))
+(;W[fe]C[LucasOman [?\]: alone like G5?
+sartak [?\]: yeah
+sartak [?\]: alone in atari
+]
+;B[fd]
+;W[ff]C[sartak [?\]: of course
+sartak [?\]: his advice doesn't work so well in this particular instance
+LucasOman [?\]: that's how i roll
+sartak [?\]: :)
+]))

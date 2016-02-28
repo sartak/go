@@ -1,0 +1,164 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]HA[5]KM[6.50]
+PW[sartak]PB[jasonmay]WR[18k]DT[2007-01-06]PC[The KGS Go Server at http://www.gokgs.com/]AB[cc][gc][ee][cg][gg]RE[W+12.50]
+;W[ge]
+;B[ce]
+;W[fd]
+;B[fc]
+;W[ec]
+;B[df]
+;W[fb]
+;B[eb]
+;W[db]C[jasonmay [?\]: I think my flaw is that I let you make a million eyes
+sartak [18k\]: :)
+jasonmay [?\]: which I'm not sure how to prevent
+sartak [18k\]: Just be more aggressive. Cutting should work well for you
+sartak [18k\]: since you have so much more material on the board
+jasonmay [?\]: doesn't cutting require making a double atari?
+sartak [18k\]: nah
+sartak [18k\]: It just means preventing a group from connecting
+sartak [18k\]: well, two groups
+jasonmay [?\]: let me look through the interactive thing real quick
+sartak [18k\]: sure
+]
+;B[ed]C[sartak [18k\]: good
+sartak [18k\]: That not only cuts E7 and F6, but it also forces me to capture E8
+]
+;W[ea]C[sartak [18k\]: now all you have to do is keep the pressure up and you'll probably win
+jasonmay [?\]: but now no matter where I go, you'll make eyes
+jasonmay [?\]: (near the top anyway)
+sartak [18k\]: well
+sartak [18k\]: If you play D7, then I have to fill my eye
+sartak [18k\]: because I really don't want you to capture E7
+sartak [18k\]: (that'd connect F7 and E6 and leave me in a bad way)(
+jasonmay [?\]: ok
+jasonmay [?\]: I keep forgetting I'll have two consecutive stones
+]
+;B[dc]
+;W[eb]C[sartak [18k\]: It'll be difficult for me to make two good eyes up there if you attack
+jasonmay [?\]: wait, if you didn't do that, I still couldn't capture E7
+jasonmay [?\]: because it's an auto-die thing
+sartak [18k\]: no
+sartak [18k\]: The rule forbids suicide
+sartak [18k\]: It's not suicide if you capture stones with the one you're placing.
+sartak [18k\]: since you're freeing up liberties
+jasonmay [?\]: it still keeps looking like you can make eyes no matter what :(
+sartak [18k\]: I can probably make two false eyes
+sartak [18k\]: But if you play well I can't make two real eyes and live
+sartak [18k\]: There are four good moves right now
+sartak [18k\]: for you
+jasonmay [?\]: I'll mark the point there you can make an eye
+jasonmay [?\]: maybe that will do something
+]
+;B[ca]C[sartak [18k\]: That's one of the four good plays :)
+jasonmay [?\]: ok
+]
+;W[gb]
+;B[ga]C[sartak [18k\]: excellent
+sartak [18k\]: Now!
+]
+;W[ha]C[sartak [18k\]: be careful here :)
+jasonmay [?\]: I can see a possible win, but as usual, I'm overlooking something
+sartak [18k\]: Just play it out, if you screw up no big deal
+]
+;B[hb]C[sartak [18k\]: yes!
+sartak [18k\]: hmm
+jasonmay [?\]: yep, the top right, overlooked that
+]
+;W[hc]C[jasonmay [?\]: it just makes it a little harder for me than I though
+sartak [18k\]: You played the right moves
+sartak [18k\]: Denying me my eyes
+sartak [18k\]: however I think I can survive, killing F7
+jasonmay [?\]: yeah
+sartak [18k\]: so here
+sartak [18k\]: in your shoes I'd play something like H5
+jasonmay [?\]: what about C8?
+jasonmay [?\]: would that do anything?
+sartak [18k\]: It's kind of a wasted stone: if I play C8 you just play B8
+sartak [18k\]: but that's the right idea: you want to stop my spread
+]
+;B[he]
+;W[ff]
+;B[fe]
+;W[gd]C[jasonmay [?\]: F7/G7 are inevitable eyes, right?
+sartak [18k\]: Well that's only one eyes
+sartak [18k\]: er eye
+sartak [18k\]: but yes, pretty much
+sartak [18k\]: Also I have some eyespace at the very corner
+]
+;B[ia]C[sartak [18k\]: :)
+]
+;W[ic]
+;B[id]
+;W[ib]
+;B[hd]
+;W[ha]C[jasonmay [?\]: missed that
+sartak [18k\]: now let's see if you can pick out the best move
+sartak [18k\]: I'd say there definitely is one
+]
+(;B[gf]C[sartak [18k\]: ok
+jasonmay [?\]: I'm curious to see this
+sartak [18k\]: See how much better that looks? ;)
+sartak [18k\]: Now I want to save F4
+sartak [18k\]: but I don't think I can
+sartak [18k\]: but I'll play it out anyway
+]
+;W[fg]C[sartak [18k\]: oh, I haven't shown you the net
+]
+;B[eg]C[jasonmay [?\]: dno't worry abou tit
+]
+;W[fh]C[sartak [18k\]: ok
+sartak [18k\]: I'll show you how to kill F4 after the game
+]
+;B[fi]
+;W[gi]
+;B[gh]
+;W[ei]C[sartak [18k\]: good move btw, if you had tried to escape it would've strengthened me immensely
+]
+;B[di]
+;W[hh]
+;B[eh]
+;W[fi]
+;B[ii]
+;W[ih]
+;B[hg]C[sartak [18k\]: poor move on my part
+]
+;W[ig]
+;B[if]
+;W[hf]C[sartak [18k\]: :)
+sartak [18k\]: ok
+sartak [18k\]: The game's just about over
+sartak [18k\]: The only thing left is one of us has to play C8
+sartak [18k\]: since it's your turn you get to
+]
+;B[cb]
+;W[]C[jasonmay [?\]: should I pass too?
+sartak [18k\]: yeah
+sartak [18k\]: You could play
+]
+;B[]TW[fa][ga][ia][hb][fc][gc][hd][id][he][ie][gf][if][gg][hg][gh][hi][ii]TB[aa][ba][ab][bb][ac][bc][ad][bd][cd][dd][ae][be][de][af][bf][cf][ag][bg][dg][ah][bh][ch][dh][ai][bi][ci]C[sartak [18k\]: D9 or E4
+sartak [18k\]: but that wouldn't help
+sartak [18k\]: since you only get points for things you surround
+sartak [18k\]: Much closer this time!
+jasonmay [?\]: yeah
+sartak [18k\]: OK, now to review the two things
+])
+(;B[hf]C[sartak [18k\]: nope
+sartak [18k\]: G4
+jasonmay [?\]: that seemed tricky
+sartak [18k\]: G4 does a few things
+sartak [18k\]: It cuts, preventing further development of my life
+sartak [18k\]: and!
+sartak [18k\]: helps H5 to survive
+sartak [18k\]: and!
+jasonmay [?\]: it would have caused you to make yet another eye
+sartak [18k\]: and it pretty much kills F4
+sartak [18k\]: well
+jasonmay [?\]: oh nevermind
+sartak [18k\]: Undo and play G4
+jasonmay [?\]: two consecutive blacks
+jasonmay [?\]: yet again, I overlooked that
+sartak [18k\]: :)
+sartak [18k\]: Do you want to keep playing with H3 or?
+sartak [18k\]: er, H4
+]))

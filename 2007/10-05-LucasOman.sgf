@@ -1,0 +1,166 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[6.50]
+PW[sartak]PB[LucasOman]DT[2007-10-05]PC[The KGS Go Server at http://www.gokgs.com/]C[sartak [?\]: did you look at the crane yet? :)
+]RE[W+56.50]
+(;B[cc]C[Violist [?\]: *watching*
+]
+;W[gg]
+;B[gc]
+;W[cg]
+;B[ec]
+;W[ce]
+;B[ee]
+;W[ge]
+;B[eg]
+;W[fd]
+;B[fc]
+;W[ed]
+;B[dd]
+;W[de]
+;B[gd]
+;W[fe]
+;B[gf]
+;W[ef]
+;B[db]
+;W[hf]
+;B[he]
+;W[hd]
+;B[fg]
+;W[ff]
+;B[hc]
+;W[ie]
+;B[fb]C[sartak [?\]: sorry if I'm slow, talking to boss :)
+]
+;W[cd]
+;B[df]
+;W[dg]
+;B[eh]
+;W[dh]
+;B[gh]
+;W[hh]
+;B[gi]
+;W[hi]
+;B[fi]
+;W[di]C[sartak [?\]: at this point I feel Vio is better than me
+sartak [?\]: but hopefully memory kicks in quicker than he learns stuff :D
+]
+;B[id]
+;W[ic]
+;B[hb]
+;W[ib]
+;B[ha]
+;W[bc]
+(;B[ga]C[sartak [?\]: why G9?
+LucasOman [?\]: ah finally
+sartak [?\]: senseless :) I'm invading!
+]
+;W[cb]
+;B[ea]
+;W[dc]
+;B[da]
+;W[ca]C[sartak [?\]: you do have two eyes
+]
+;B[fa]C[sartak [?\]: well, three
+sartak [?\]: but not much to show for it
+LucasOman [?\]: wouldn't let me type until now
+LucasOman [?\]: something wonky with the window
+sartak [?\]: the goal is to make territory, not to build up structure
+sartak [?\]: nod
+]
+;W[]
+;B[]TW[aa][ba][ab][bb][ac][cc][ad][bd][dd][ae][be][ee][he][af][bf][cf][df][gf][if][ag][bg][eg][fg][hg][ig][ah][bh][ch][eh][fh][gh][ih][ai][bi][ci][ei][fi][gi][ii]TB[eb][gb]C[sartak [?\]: see, two points
+sartak [?\]: I'll show a move better than G9
+sartak [?\]: which will get you more points
+sartak [?\]: as soon as you click done :)
+])
+(;B[cb]
+;W[dc]
+;B[bb]
+;W[dd]
+;B[ac]
+;W[bd]
+;B[ab]
+;W[]
+;B[]
+(;W[]TW[aa][ba][ca][da][ea][fa][ga][ha][ia][ab][bb][cb][db][eb][fb][gb][hb][ac][cc][ec][fc][gc][hc][ad][gd][id][ae][be][ee][he][af][bf][cf][df][gf][if][ag][bg][hg][ig][ah][bh][ch][ih][ai][bi][ci][ii]C[sartak [?\]: ah whoops
+])
+(;W[ad]TW[ae][be][ee][he][af][bf][cf][df][gf][if][ag][bg][eg][fg][hg][ig][ah][bh][ch][eh][fh][gh][ih][ai][bi][ci][ei][fi][gi][ii]TB[aa][ba][ca][da][ea][fa][ga][eb][gb]C[sartak [?\]: G9 cost you 5 points
+LucasOman [?\]: hm
+LucasOman [?\]: makes sense
+])))
+(;AW[de][ee][fe]AB[cd][gd][ce][ge][df][ef][ff]C[LucasOman [?\]: don't think so
+sartak [?\]: it's white's turn
+sartak [?\]: can he escape?
+sartak [?\]: hm
+sartak [?\]: wait, let me play through it to make sure I have it
+sartak [?\]: hrm
+sartak [?\]: ok. white's turn
+sartak [?\]: can he escape?
+]
+;B[]C[sartak [?\]: you can play through it
+sartak [?\]: hehe
+sartak [?\]: I'll just say my moves
+sartak [?\]: E7
+]
+(;W[cf]
+;B[dd]
+;W[cc]
+;B[ed]C[sartak [?\]: I'll be black
+])
+(;W[gf]C[sartak [?\]: D6
+]
+;B[dd]C[LucasOman [?\]: so do you mean can white win? or can white save D-F5
+sartak [?\]: can white save E5
+sartak [?\]: how about I'll play white and you try to kill it :)
+sartak [?\]: easier that way
+LucasOman [?\]: ok
+])
+(;W[ed])
+(;W[ec]
+;B[ed]C[sartak [?\]: D6
+]
+;W[dd]
+;B[dc]C[sartak [?\]: F6
+]
+;W[fd]C[LucasOman [?\]: hah
+sartak [?\]: it gets better
+]
+(;B[eb]C[sartak [?\]: F7
+]
+;W[fc]
+;B[gb]C[sartak [?\]: right
+sartak [?\]: E8 was a mistake though
+sartak [?\]: you can kill it tighter
+LucasOman [?\]: ah
+])
+(;B[fc]C[sartak [?\]: E6 :)
+]
+(;W[ed]C[LucasOman [?\]: but why would you play E6?
+LucasOman [?\]: wouldn't it be smarter for you to do E8?
+sartak [?\]: right. E6 is totally a mistake
+sartak [?\]: but it's usually the way this is demonstrated
+sartak [?\]: you can undo E6 and play E8
+])
+(;W[eb]C[sartak [?\]: now you can play E6 to kill
+]
+;B[ed]
+;W[db]
+;B[cb]
+;W[fb]C[sartak [?\]: if this were a larger board white on top would likely be ok
+]
+;B[gb]
+;W[da]
+;B[ca]
+;W[fa]
+;B[ga]
+;W[dd]
+;B[ea]
+;W[de]
+;B[ee]C[Violist [?\]: black is pwning white
+sartak [?\]: hehe
+sartak [?\]: let's play again
+LucasOman [?\]: yah
+Violist [?\]: I'll watch :)
+sartak [?\]: in a new game
+sartak [?\]: making
+])))))

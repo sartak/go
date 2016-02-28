@@ -1,0 +1,159 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]HA[4]KM[6.50]
+PW[sartak]PB[jasonmay]WR[18k]DT[2007-01-06]PC[The KGS Go Server at http://www.gokgs.com/]AB[cc][gc][cg][gg]RE[W+Resign]
+;W[ee]
+;B[bd]
+;W[ce]
+;B[db]
+;W[cd]
+;B[cf]
+;W[dc]
+;B[de]
+;W[df]
+;B[ec]
+;W[dd]
+;B[ef]
+;W[bc]
+;B[cb]C[sartak [18k\]: heya amni
+]
+;W[be]C[sartak [18k\]: Started with a handicap of 4 fyi
+sartak [18k\]: hmm
+sartak [18k\]: Though I guess you could tell if you wanted by looking at the game with the VCR like buttons
+sartak [18k\]: heh
+]
+;B[ad]
+;W[ac]
+;B[ed]
+;W[fd]
+;B[dg]
+;W[fc]C[jasonmay [?\]: bastard
+sartak [18k\]: :)
+]
+;B[eb]C[sartak [18k\]: hm
+]
+;W[eg]
+;B[fe]
+;W[ff]C[sartak [18k\]: Got greedy :)
+jasonmay [?\]: eyes :(
+sartak [18k\]: nah they're false eyes
+jasonmay [?\]: oh right
+jasonmay [?\]: or are you tricking me again :P
+sartak [18k\]: No, I'm being honest :)
+sartak [18k\]: The way to tell is: can you capture them if I repeatedly pass?
+sartak [18k\]: Start by capturing, say, E3
+jasonmay [?\]: no, you really can't
+jasonmay [?\]: not that I can see
+jasonmay [?\]: because of the other eye
+sartak [18k\]: F3, E2, E3
+sartak [18k\]: The D5
+sartak [18k\]: then*
+sartak [18k\]: The stones aren't connected
+jasonmay [?\]: the D5 is what would keep me from putting something in E4
+sartak [18k\]: You can put something in E4 since it's not suicide: E4 captures E3
+sartak [18k\]: if you have F3 and E2
+jasonmay [?\]: but I'm surrounded, I can't put somethign there in the first place
+jasonmay [?\]: unless you fill up D5 right after
+sartak [18k\]: You can
+sartak [18k\]: It's not suicide since you're capturing E3
+jasonmay [?\]: I can't cap E3 though
+sartak [18k\]: If I pass indefinitely, you can
+jasonmay [?\]: because I can't put something in E4
+sartak [18k\]: I'm saying if I keep passing, you can eventually capture those stones
+sartak [18k\]: So they're false eyes
+sartak [18k\]: meaning they're no good for the two eyes = life thing
+jasonmay [?\]: I don't see how I can ever capture them though
+sartak [18k\]: heh
+sartak [18k\]: You play F3, then E2, then E4
+jasonmay [?\]: say I put mark E3
+jasonmay [?\]: E2*
+jasonmay [?\]: ok I see
+jasonmay [?\]: E3 goes into atari
+jasonmay [?\]: so I can put one in there
+jasonmay [?\]: I get it now
+sartak [18k\]: ok :)
+]
+;B[fg]
+;W[ge]
+;B[gd]
+;W[fb]
+;B[fa]
+;W[ga]
+;B[gb]
+;W[ea]
+;B[ca]
+;W[bb]
+;B[bf]
+;W[he]
+;B[hd]
+;W[id]
+;B[ie]
+;W[if]
+;B[ig]
+;W[hg]
+;B[hh]
+;W[ih]C[jasonmay [?\]: what do I do?
+sartak [18k\]: So the objective now is to make two eyes with the bottom group
+jasonmay [?\]: just continue playing?
+sartak [18k\]: pretty much
+sartak [18k\]: Moves like E2 are advised
+]
+(;B[eh]
+;W[ef]
+;B[ei]C[sartak [18k\]: now my goal is to stop you from making two eyes
+]
+;W[gh]C[jasonmay [?\]: I have like zero skills
+jasonmay [?\]: I can't find nay way out
+sartak [18k\]: Hmm
+jasonmay [?\]: I think I just failed 100% in making two eyes
+sartak [18k\]: No you have plenty of area in the bottom left
+sartak [18k\]: I'd say let H2 die
+sartak [18k\]: and try to work out two eyes in the bottom left
+]
+;B[ch]
+;W[ci]
+;B[di]
+;W[bh]
+;B[dh]C[sartak [18k\]: eek
+sartak [18k\]: You just filled in your own eye
+jasonmay [?\]: you would have taken it
+jasonmay [?\]: I'm gonna make new eyes
+jasonmay [?\]: if possible
+sartak [18k\]: You could've just played B1
+jasonmay [?\]: you still would have taken it
+sartak [18k\]: OK I'll review that later
+jasonmay [?\]: ko would have prevented me from remaking the eye
+]
+;W[bi]C[jasonmay [?\]: ok
+]
+;B[ah]
+;W[ag]
+;B[ae]
+;W[af]
+;B[fi]
+;W[gf]
+;B[gi]
+;W[fh]
+;B[gg]
+;W[hi]
+;B[ae]
+;W[bg]C[jasonmay [?\]: yep
+jasonmay [?\]: ok let's see what that one B1 play could have been
+sartak [18k\]: have to end the game first
+jasonmay [?\]: should I pass, resign, or can I just continue playing?
+sartak [18k\]: Here resigning is probably the best move.
+sartak [18k\]: If you pass you suggest that you might have a chance at winning
+sartak [18k\]: If you continue playing you insult me by thinking you can recover
+sartak [18k\]: (not that I'd be insulted, but that's how people see it)
+sartak [18k\]: ok
+])
+(;B[]C[sartak [18k\]: In this case I'll let you undo your pass
+]
+;W[]TW[aa][ba][ca][da][fa][ha][ia][ab][cb][db][eb][gb][hb][ib][cc][ec][gc][hc][ic][ed][gd][hd][de][fe][ie][ef][ig]C[sartak [18k\]: :/
+sartak [18k\]: You probably dispute the bottom
+sartak [18k\]: We can play that out if you'd like
+jasonmay [?\]: what about the bottom?
+sartak [18k\]: You should disagree that it's dead
+jasonmay [?\]: ok
+sartak [18k\]: which means we play it out
+jasonmay [?\]: ok
+]))

@@ -1,0 +1,417 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[1800]OT[5x30 byo-yomi]
+PW[stumbly]PB[sartak]DT[2007-10-06]PC[The KGS Go Server at http://www.gokgs.com/]C[sartak [?\]: gl
+]RE[B+240.50]
+;B[pd]BL[1793.382]C[stumbly [?\]: oo 19
+stumbly [?\]: my conn is ass, so might disappear
+]
+;W[dp]WL[1779.351]C[sartak [?\]: yeah, I don't want to get too tied to 9x9
+]
+;B[dd]BL[1790.559]C[sartak [?\]: that's ok
+]
+;W[pp]WL[1771.183]C[sartak [?\]: resuming is easy
+]
+;B[pj]BL[1787.207]C[stumbly [?\]: yep
+]
+;W[ck]WL[1760.096]C[sartak [?\]: midnight is ~12 minutes off, so I'll probably go idle for a minute heh
+]
+;B[cf]BL[1775.812]C[stumbly [?\]: heh
+]
+;W[ci]WL[1749.372]
+;B[dh]BL[1766.219]
+;W[ch]WL[1740.086]
+;B[cg]BL[1757.809]
+;W[pm]WL[1728.701]
+;B[pl]BL[1742.072]
+;W[om]WL[1723.636]
+;B[ol]BL[1738.641]
+;W[nl]WL[1718.239]
+;B[nm]BL[1731.854]
+;W[nk]WL[1716.24]
+;B[nj]BL[1728.782]C[stumbly [?\]: hmmm
+]
+;W[lk]WL[1679.977]
+;B[qm]BL[1722.507]
+;W[ql]WL[1671.282]
+;B[qk]BL[1719.228]
+;W[rl]WL[1668.761]
+;B[rm]BL[1717.621]
+;W[rn]WL[1657.594]
+;B[rk]BL[1710.075]
+;W[sl]WL[1651.074]
+;B[sm]BL[1702.708]C[stumbly [?\]: not very tasty lemonade
+sartak [?\]: never was a fan of a lemonade
+stumbly [?\]: not drinking it, kind of eating it here
+sartak [?\]: is that a "if life gives you lemons"?
+]
+;W[mj]WL[1579.862]C[stumbly [?\]: yeah
+sartak [?\]: heh
+]
+;B[qn]BL[1693.444]
+;W[qo]WL[1576.155]
+;B[on]BL[1690.591]C[stumbly [?\]: your close fighting is much better than mine
+]
+;W[mm]WL[1540.644]
+;B[nn]BL[1673.335]
+;W[ok]WL[1534.326]
+;B[pk]BL[1667.71]
+;W[po]WL[1528.916]
+;B[pn]BL[1665.52]C[stumbly [?\]: hrm
+sartak [?\]: 8)
+sartak [?\]: this is rated btw !
+stumbly [?\]: no prob
+sartak [?\]: (I want to get a rating again)
+stumbly [?\]: i know i suck :p
+sartak [?\]: just out of practice
+]
+;W[mo]WL[1463.13]C[stumbly [?\]: that too
+sartak [?\]: the past four days I've spent all my free time learning Go again
+]
+;B[op]BL[1658.034]C[stumbly [?\]: trying to use my outer influence some here
+stumbly [?\]: but my shape is... not good
+]
+;W[nq]WL[1431.375]
+;B[ro]BL[1656.187]
+;W[no]WL[1426.922]
+;B[oo]BL[1653.248]
+;W[oq]WL[1424.207]
+;B[pq]BL[1644.011]
+;W[rp]WL[1408.314]
+;B[qp]BL[1641.39]
+;W[np]WL[1402.226]
+;B[or]BL[1635.156]
+;W[nr]WL[1397.459]
+;B[mn]BL[1619.645]
+;W[ln]WL[1391.075]
+;B[oj]BL[1617.437]
+;W[mh]WL[1386.728]
+;B[ml]BL[1614.022]
+;W[mk]WL[1382.853]
+;B[lm]BL[1612.179]
+;W[ll]WL[1380.277]
+;B[mm]BL[1610.394]
+;W[km]WL[1378.544]
+;B[lo]BL[1606.88]
+;W[kn]WL[1368.23]
+;B[lq]BL[1604.114]
+;W[ko]WL[1362.592]
+;B[lp]BL[1602.319]
+;W[pr]WL[1327.852]
+;B[qr]BL[1592.604]
+;W[os]WL[1324.427]
+;B[qs]BL[1588.301]
+;W[lr]WL[1318.203]
+;B[kr]BL[1574.005]
+;W[mr]WL[1311.583]
+;B[ls]BL[1572.177]
+;W[ms]WL[1307.165]
+;B[ps]BL[1567.771]
+;W[kq]WL[1301.744]
+;B[kp]BL[1553.664]
+;W[jp]WL[1298.316]
+;B[jq]BL[1551.972]
+;W[ks]WL[1289.494]
+;B[js]BL[1537.406]
+;W[so]WL[1266.064]C[sartak [?\]: any second now for my timeout
+stumbly [?\]: ok
+sartak [?\]: heh
+sartak [?\]: just went through it :)
+]
+;B[sn]BL[1459.181]C[stumbly [?\]: not sure why i'm doing this corner, but good practise i guess
+sartak [?\]: :_)
+]
+;W[iq]WL[1228.434]
+;B[ip]BL[1422.965]C[stumbly [?\]: just refocusing window
+sartak [?\]: aye
+]
+(;W[jo]WL[1213.424]
+;B[ir]BL[1405.202]
+;W[hq]WL[1208.112]
+;B[hr]BL[1402.32]
+;W[ho]WL[1196.777]
+;B[ls]BL[1384.313]
+;W[po]WL[1158.725]
+;B[hp]BL[1362.595]
+;W[ks]WL[1155.913]
+;B[gq]BL[1340.919]
+;W[pp]WL[1145.604]C[sartak [?\]: O_o
+]
+;B[qo]BL[1336.462]
+;W[po]WL[1141.076]
+;B[pp]BL[1330.908]
+;W[rr]WL[1133.64]C[stumbly [?\]: i don't have a good lib counting routine, so a lot of random stuff here :p
+]
+;B[jd]BL[1288.589]C[sartak [?\]: hehe
+stumbly [?\]: wanna continue, i think it's over
+stumbly [?\]: ?
+sartak [?\]: no rush, it's byo-yomi
+sartak [?\]: yeah, I think I've got a lock on this one :)
+stumbly [?\]: ok we can just toss some stones for fun then, but in principle i resigned 15 moves ago
+sartak [?\]: hehe ok
+]
+;W[ei]WL[1038.123]
+;B[di]BL[1285.397]
+;W[dj]WL[1034.715]
+;B[eh]BL[1280.149]
+;W[jh]WL[1023.049]
+;B[hi]BL[1273.524]C[stumbly [?\]: i seem to buikd influence ok, but defend it badly
+]
+;W[gi]WL[1003.761]
+;B[fi]BL[1269.428]
+;W[ej]WL[996.344]
+;B[gj]BL[1266.361]
+;W[gh]WL[994.191]
+;B[fj]BL[1261.718]
+;W[fh]WL[990.543]
+;B[fg]BL[1258.806]
+;W[hh]WL[988.604]
+;B[ii]BL[1251.257]C[sartak [?\]: don't feel too comfortable with this shape :)
+]
+;W[dg]WL[964.711]C[sartak [?\]: specially with all your groups just southeast
+]
+;B[eg]BL[1241.601]
+;W[fk]WL[914.555]
+;B[ih]BL[1238.113]
+;W[hj]WL[906.956]
+;B[gk]BL[1228.936]
+;W[gl]WL[904.783]
+;B[hk]BL[1227.29]
+;W[ik]WL[903.25]
+;B[ij]BL[1225.812]
+;W[hl]WL[897.318]
+;B[hj]BL[1223.096]
+;W[ig]WL[891.204]
+;B[hg]BL[1218.123]C[stumbly [?\]: dammit
+sartak [?\]: ;)
+]
+;W[ji]WL[862.022]
+;B[gg]BL[1215.713]
+;W[jg]WL[857.593]
+;B[jj]BL[1213.028]
+;W[ki]WL[842.397]
+;B[kj]BL[1210.58]
+;W[li]WL[833.081]
+;B[lj]BL[1204.868]
+;W[mi]WL[831.033]
+;B[jk]BL[1193.656]
+;W[kl]WL[825.419]
+;B[il]BL[1191.5]
+;W[df]WL[817.015]
+;B[ee]BL[1173.136]
+;W[jl]WL[802.203]
+;B[im]BL[1167.626]
+;W[io]WL[794.235]
+;B[hm]BL[1163.69]
+;W[gm]WL[787.845]
+;B[fl]BL[1158.864]
+;W[gn]WL[778.723]
+;B[ek]BL[1154.428]
+;W[cj]WL[769.293]
+;B[fn]BL[1151.9]
+;W[go]WL[713.356]
+;B[fo]BL[1144.803]
+;W[dn]WL[692.788]
+;B[jf]BL[1129.197]C[sartak [?\]: I'm too greedy
+stumbly [?\]: tryin to see if any battles worth winning here
+sartak [?\]: I think the lectures I watched today improved my game two or three stones :)
+stumbly [?\]: heh nice
+]
+;W[fm]WL[515.994]
+;B[em]BL[1122.877]
+;W[dk]WL[508.935]
+;B[el]BL[1119.736]
+;W[en]WL[502.024]
+;B[dm]BL[1104.181]
+;W[cm]WL[494.39]
+;B[fp]BL[1098.735]
+;W[dl]WL[485.147]
+;B[fk]BL[1096.002]
+;W[lf]WL[436.269]
+;B[le]BL[1079.956]C[stumbly [?\]: not happy with thsi game
+]
+;W[rs]WL[386.526]C[sartak [?\]: I'll review some blunders you've made if you want
+]
+;B[qq]BL[1074.763]
+;W[rq]WL[380.032]
+;B[ng]BL[1067.803]C[stumbly [?\]: oh i know there areplenty
+]
+;W[sp]WL[367.578]
+;B[sr]BL[1063.639]C[stumbly [?\]: wish i had a ko for that one
+sartak [?\]: hehe
+sartak [?\]: I'd likely let you just have the ko
+]
+;W[mq]WL[312.242]C[sartak [?\]: since that's ~18 points for me
+stumbly [?\]: yup
+]
+;B[kg]BL[1046.293]C[stumbly [?\]: sry not trying very hard here, can't think of anything to do that's useful
+sartak [?\]: it's fine
+]
+;W[ls]WL[286.874]C[sartak [?\]: for what it's worth you're making me decide which moves I can tenuki
+]
+;B[bh]BL[1009.916]C[stumbly [?\]: well, maybe that's good for you then :p
+sartak [?\]: hehe
+]
+;W[ep]WL[247.749]
+;B[eq]BL[998.783]
+;W[dq]WL[242.772]
+;B[er]BL[995.952]
+;W[oi]WL[228.658]
+;B[ni]BL[993.074]
+;W[nh]WL[226.31]
+;B[oh]BL[991.366]
+;W[pi]WL[222.518]
+;B[ph]BL[989.838]
+;W[qi]WL[218.882]
+;B[rh]BL[984.17]
+;W[mg]WL[208.391]
+;B[nf]BL[978.893]
+;W[mf]WL[206.191]
+;B[me]BL[977.029]C[stumbly [?\]: maybe i shd just play blitz til i get some mojo back
+]
+;W[kf]WL[186.82]
+;B[je]BL[972.09]
+;W[pf]WL[171.725]
+;B[if]BL[963.947]C[sartak [?\]: I like blitz :)
+stumbly [?\]: well, at least i dont think for a bit, then do something stupid
+sartak [?\]: no worires
+]
+;W[og]WL[96.228]
+;B[pg]BL[947.35]
+;W[ne]WL[83.644]
+;B[of]BL[944.251]
+;W[oe]WL[79.306]
+;B[og]BL[940.135]
+;W[qh]WL[74.903]
+;B[qg]BL[935.33]
+;W[rg]WL[70.528]
+;B[qf]BL[932.961]
+;W[qe]WL[68.462]
+;B[pe]BL[929.987]C[sartak [?\]: too few liberties for a ladder :)
+]
+;W[rf]WL[63.16]
+;B[pf]BL[928.385]C[stumbly [?\]: lovely shape
+sartak [?\]: haha
+sartak [?\]: yeah
+]
+;W[ri]WL[44.487]C[sartak [?\]: sok, I have enough outs
+]
+;B[qd]BL[894.324]
+;W[sh]WL[36.819]
+;B[re]BL[892.178]
+;W[ke]WL[26.242]
+;B[kd]BL[888.971]
+;W[ld]WL[16.608]
+;B[md]BL[886.253]
+;W[mc]WL[12.158]
+;B[nd]BL[881.685]
+;W[nc]WL[6.016]
+;B[od]BL[879.306]
+;W[lc]WL[0.969]
+;B[kc]BL[876.308]
+;W[sf]WL[30]OW[5]
+;B[sj]BL[854.75]
+;W[si]WL[30]OW[5]C[stumbly [?\]: :p
+]
+;B[ob]BL[838.805]C[sartak [?\]: life is good
+]
+;W[rj]WL[30]OW[5]
+;B[sk]BL[834.806]
+;W[mp]WL[30]OW[5]
+;B[kq]BL[831.048]C[stumbly [?\]: yeah didnt think youd forget
+sartak [?\]: would be a pretty gnarly mistake
+stumbly [?\]: fwiw, i think i would get more out of a teaching type game, or rengo
+stumbly [?\]: i'm just spacing on too much
+stumbly [?\]: oops short on time too
+sartak [?\]: I'll do a teaching game next
+]
+;W[gh]WL[30]OW[2]C[stumbly [?\]: i mean more talk about it as it happens
+sartak [?\]: yeah
+]
+;B[lb]BL[813.002]C[stumbly [?\]: rather than duhhhh, doh!
+sartak [?\]: :)
+]
+;W[eo]WL[30]OW[2]
+;B[dr]BL[801.21]C[stumbly [?\]: proly just my old brain running dry
+]
+;W[gp]WL[30]OW[2]
+;B[fq]BL[797.276]
+;W[hq]WL[30]OW[2]
+;B[iq]BL[792.744]
+;W[cr]WL[30]OW[2]
+;B[cs]BL[772.892]
+;W[bs]WL[30]OW[2]
+;B[ds]BL[771.165]
+;W[fs]WL[30]OW[2]
+;B[br]BL[768.261]
+;W[cq]WL[30]OW[2]
+;B[bq]BL[766.534]
+;W[bp]WL[30]OW[2]
+;B[ap]BL[741.986]
+;W[aq]WL[30]OW[2]
+;B[as]BL[739.557]
+;W[ao]WL[30]OW[2]
+;B[bs]BL[731.079]
+;W[ap]WL[30]OW[2]
+;B[bj]BL[723.311]
+;W[bk]WL[30]OW[2]
+;B[ak]BL[721.245]
+;W[al]WL[30]OW[2]
+;B[aj]BL[719.879]C[sartak [?\]: oops
+]
+;W[bi]WL[30]OW[2]
+;B[ah]BL[715.521]
+;W[ai]WL[30]OW[2]
+;B[ag]BL[710.892]C[stumbly [?\]: any fights you wanna play out?
+]
+;W[]WL[30]OW[1]
+;B[se]BL[707.374]C[sartak [?\]: just need to define the borders explicitly for kgs
+]
+;W[pc]WL[30]OW[1]
+;B[]BL[707.373]
+;W[]WL[30]OW[1]TW[sg][rh][aj][bj][ak][bl][cl][am][bm][an][bn][cn][bo][co][do][cp]TB[aa][ba][ca][da][ea][fa][ga][ha][ia][ja][ka][la][ma][na][oa][pa][qa][ra][sa][ab][bb][cb][db][eb][fb][gb][hb][ib][jb][kb][mb][nb][pb][qb][rb][sb][ac][bc][cc][dc][ec][fc][gc][hc][ic][jc][lc][mc][nc][oc][pc][qc][rc][sc][ad][bd][cd][ed][fd][gd][hd][id][ld][rd][sd][ae][be][ce][de][fe][ge][he][ie][ke][ne][oe][qe][af][bf][df][ef][ff][gf][hf][kf][lf][mf][bg][dg][ig][jg][lg][mg][jh][kh][lh][mh][nh][ji][ki][li][mi][mj][ik][kk][lk][mk][nk][ok][gl][hl][jl][kl][ll][nl][ql][rl][sl][fm][gm][jm][km][om][pm][gn][hn][in][jn][kn][ln][rn][go][ho][io][jo][ko][mo][no][po][so][gp][jp][mp][np][rp][sp][hq][mq][nq][oq][rq][sq][fr][gr][jr][lr][mr][nr][or][pr][rr][es][fs][gs][hs][is][ks][ls][ms][ns][os][rs][ss]C[stumbly [?\]: but well, we knew that
+sartak [?\]: :)
+sartak [?\]: thanks for the game
+stumbly [?\]: it's fun, but  hate sucking so much :p
+sartak [?\]: want a teaching one now?
+stumbly [?\]: well
+sartak [?\]: I can review some of the moves of this one too
+stumbly [?\]: nah
+stumbly [?\]: it's the close fighting i don't think through
+stumbly [?\]: which is well, fatal
+sartak [?\]: nod
+stumbly [?\]: i thought the rengo was good
+sartak [?\]: twas
+stumbly [?\]: well, with 'open cards'
+stumbly [?\]: can compare what i'm thinking about with pd
+sartak [?\]: I think that's more the way casual go is supposed to be played
+sartak [?\]: (discussing the moves as you go)
+sartak [?\]: ideal for learning
+stumbly [?\]: just getting exploded is like, not helping
+stumbly [?\]: obv i am missing a lot
+sartak [?\]: ping me when you want a discursive game :D
+sartak [?\]: be happy to do it
+sartak [?\]: helps solidify things for me too
+stumbly [?\]: well, i spose a normal game with undos is about the same
+sartak [?\]: nah
+sartak [?\]: you can't undo a bad opening
+sartak [?\]: since it's unclear how it's bad
+stumbly [?\]: i think 19x19 may be too big for a lot of talk
+stumbly [?\]: unless you have a day or two
+sartak [?\]: hehe
+sartak [?\]: we can do 19x19
+stumbly [?\]: well perhaps viol/doy will turn up
+sartak [?\]: honest, I'm just in love with this game, playing is even better than reading
+stumbly [?\]: i'd do one more, need short break
+sartak [?\]: sure
+stumbly [?\]: brb
+stumbly [?\]: ok b
+sartak [?\]: hai
+sartak [?\]: I'll make
+stumbly [?\]: k
+])
+(;W[im]WL[1227.087]C[sartak [?\]: misclick
+sartak [?\]: ?
+stumbly [?\]: gah undio?
+stumbly [?\]: yeah
+sartak [?\]: gopher it
+]))

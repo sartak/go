@@ -1,0 +1,575 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[6.50]
+PW[sartak]PB[LucasOman]DT[2007-10-04]PC[The KGS Go Server at http://www.gokgs.com/]C[LucasOman [?\]: hi
+LucasOman [?\]: gotcha
+LucasOman [?\]: ok
+sartak [?\]: hm
+sartak [?\]: great work btw
+sartak [?\]: right, it's somethign else
+Arkrf21: well i have troubles beginnig my game..
+sartak [?\]: me too :)
+Arkrf21: so i want to request some tips
+sartak [?\]: so the first move is usually in the corner
+]RE[W+88.50]
+(;B[dc]C[sartak [?\]: it's separated like that so you can look at the rules and the other player's stats to decide if you want to play him
+]
+;W[gg]C[LucasOman [?\]: gotcha
+LucasOman [?\]: level 3 mage against a level 40 orc warrior
+LucasOman [?\]: wouldn't be good
+sartak [?\]: right.. haha
+]
+;B[ec]
+;W[cg]
+;B[dd]
+;W[gc]
+;B[de]
+;W[ce]
+;B[fc]
+;W[fd]
+;B[gd]
+;W[ge]
+;B[fe]
+;W[hd]
+;B[gf]
+;W[ff]C[sartak [?\]: so when a group has only one liberty
+sartak [?\]: that group is said to be "in atari"
+sartak [?\]: F4 put two groups into atari, so it's double atari. :)
+sartak [?\]: like forking or whatever the term is in chess
+LucasOman [?\]: yah
+LucasOman [?\]: well, the knight forks
+]
+;B[ee]
+;W[df]
+;B[ed]
+;W[gd]
+;B[fg]
+;W[hf]
+;B[ef]C[sartak [?\]: nice
+sartak [?\]: forcing a connection by putting stones into atari
+]
+;W[gf]C[sartak [?\]: hi Arkrf
+]
+;B[dg]
+;W[cf]
+;B[eg]
+;W[cc]C[Arkrf21: hello
+]
+;B[cd]
+;W[bd]
+;B[be]
+;W[bf]
+;B[af]
+;W[ae]C[LucasOman [?\]: whoops
+sartak [?\]: if you misclick let me know
+LucasOman [?\]: mis-strategized
+sartak [?\]: many players will let you undo if you're polite
+sartak [?\]: nod :)
+LucasOman [?\]: can't take that back ;-)
+]
+;B[ag]
+;W[ah]C[Arkrf21: ha ha ha
+]
+;B[bg]
+;W[bh]C[LucasOman [?\]: oh damn
+LucasOman [?\]: i'm on a roll
+sartak [?\]: no worries
+sartak [?\]: out of the million rung ladder that is the Go skill continuum
+sartak [?\]: I'm about three rungs above you :)
+]
+;B[dh]C[sartak [?\]: I'm a tick past the "placing stones into atari" rung
+LucasOman [?\]: hehe
+]
+;W[fh]C[LucasOman [?\]: yeh that's the rung i'm at now, it seems
+]
+;B[ch]
+;W[eb]
+;B[db]
+;W[fb]
+;B[gb]
+;W[hb]
+;B[ga]
+;W[ha]
+;B[ea]
+;W[fa]C[LucasOman [?\]: oh hm
+sartak [?\]: so one of the lessons you might be gleaning is
+sartak [?\]: "don't overcondense stones"
+]
+;B[bc]C[sartak [?\]: it's fundamentally "slow"
+]
+;W[cb]
+;B[bb]
+;W[ac]
+;B[ca]C[LucasOman [?\]: i think that's the first time i've ever taken stones
+]
+;W[ab]C[sartak [?\]: hehe
+]
+;B[aa]
+;W[ba]C[sartak [?\]: so now
+LucasOman [?\]: now why can't i go there
+LucasOman [?\]: where the box is..
+sartak [?\]: the rule of ko
+sartak [?\]: otherwise we could go back and forth infinitely
+LucasOman [?\]: but i thought that said that i COULD go there
+sartak [?\]: nope
+LucasOman [?\]: oh right
+sartak [?\]: you're thinking of suicide while capturing
+]
+;B[da]
+;W[gh]C[sartak [?\]: so your group is going to die, because there's no real place to make a second eye
+]
+;B[bg]C[sartak [?\]: you can try though
+]
+;W[ag]C[LucasOman [?\]: damn ataris
+sartak [?\]: :D
+LucasOman [?\]: simple concept, you'd think i'd comprehend it
+sartak [?\]: you will
+]
+;B[fi]
+;W[gi]
+;B[ei]
+;W[ci]C[sartak [?\]: it may look like you have an eye down here
+sartak [?\]: but you don't
+LucasOman [?\]: oh shicrap
+sartak [?\]: because I can safely fill it in
+sartak [?\]: :)
+sartak [?\]: yeah, if you got C1 then that would have been an eye at D1
+sartak [?\]: but I still would've won simply because I have way more open territory
+LucasOman [?\]: define "eye"
+]
+;B[ih]C[sartak [?\]: it's somewhat subtle
+sartak [?\]: so an eye is a hole in your group, intuitively
+sartak [?\]: the stones surrounding an eye must be in a group
+sartak [?\]: OR very strongly connectable
+]
+;W[ig]
+;B[hh]C[sartak [?\]: such that for any move I make, you can connect
+]
+;W[hg]
+;B[ib]C[LucasOman [?\]: feel like i'm prolonging the agony here
+sartak [?\]: ye
+LucasOman [?\]: komi?
+sartak [?\]: komi is a bonus for going second
+]
+;W[]C[sartak [?\]: that's definitely the point where you start passing or just plain resign
+]
+;B[]TW[aa][ca][da][ea][ga][ia][bb][cb][db][gb][ib][bc][cc][dc][ec][fc][hc][ic][ad][cd][dd][ed][id][be][de][ee][fe][he][ie][af][ef][if][bg][dg][eg][fg][ch][dh][eh][hh][ih][ai][bi][di][ei][fi][hi][ii]C[sartak [?\]: interestingly you could have captured B9 :)
+sartak [?\]: and then started passing
+sartak [?\]: would've been a point of territory for you
+sartak [?\]: but that's ok
+LucasOman [?\]: but it would have been a ko again
+sartak [?\]: yes
+Arkrf21: interesting.thank u 2
+sartak [?\]: Ark: I'm going to teach some stuff
+LucasOman [?\]: thanks for watching my dismal defeat, arkrf
+sartak [?\]: if you want to stick around :)
+sartak [?\]: anyway, that ko isn't important right now
+sartak [?\]: click done :)
+])
+(;B[ge]
+;AW[ff]AB[gf][eg][fg][gg]C[sartak [?\]: so you're playing as black here
+sartak [?\]: it's your turn
+sartak [?\]: this setup is exactly the right setup for the "ladder"
+sartak [?\]: which I got into and yelled "ack" :)
+]
+(;W[]LB[dd:6][ed:7][fd:8][de:5][ee:2][fe:1][df:4][ef:3]C[sartak [?\]: you want to capture this white stone
+sartak [?\]: where do you play?
+LucasOman [?\]: 4,5,7,8
+sartak [?\]: ok
+sartak [?\]: 4/8 and 5/7 are symmetrical
+sartak [?\]: so 4 or 5, basically
+LucasOman [?\]: yah
+sartak [?\]: (just culling down the number of variartions I have to play out :))
+LucasOman [?\]: yah
+]
+;B[df]C[LucasOman [?\]: lol
+sartak [?\]: so you know about the net, so it's the right move here
+sartak [?\]: well, instead of D4
+]
+;W[fe]C[sartak [?\]: now where?
+LucasOman [?\]: F6
+sartak [?\]: actually
+]
+(;B[fd]
+;W[ee]C[sartak [?\]: hmm
+sartak [?\]: I may have set it up incorrectly, but that's ok
+sartak [?\]: yeah, but let's play this out anyway
+]
+;B[de]
+;W[ed]
+;B[ec]
+;W[dd]C[sartak [?\]: ack
+LucasOman [?\]: hehe
+sartak [?\]: this isn't the lesson I want to teach yet, let me go back :D
+])
+(;AE[df]AB[ef]C[sartak [?\]: er
+LucasOman [?\]: lol
+sartak [?\]: so it's black's move. :)
+sartak [?\]: where does he go?
+sartak [?\]: also, hi doy :)
+LucasOman [?\]: F6
+]
+(;B[fd]C[sartak [?\]: white has only one escape plan, since he's in atari
+]
+;W[ee]C[LucasOman [?\]: now white will go E5, which has only two libs
+doy [?\]: can't actually play or anything, since i have all kinds of work to do
+sartak [?\]: right
+doy [?\]: but watching's easy enough
+doy [?\]: (:
+sartak [?\]: Lucas: now what does black do?
+LucasOman [?\]: D5
+]
+;B[de]C[sartak [?\]: again white has only one move, so
+]
+;W[ed]C[LucasOman [?\]: E7
+sartak [?\]: yup
+sartak [?\]: Ill skip ahead a bit
+]
+;B[ec]
+;W[dd]
+;B[cd]
+;W[dc]
+;B[db]
+;W[cc]
+;B[bc]
+;W[cb]C[sartak [?\]: so black plays C9 since that's the regular mov
+]
+;B[ca]
+;W[bb]
+;B[ab]
+;W[ba]
+;B[aa]C[sartak [?\]: hooray :)
+LucasOman [?\]: classy
+sartak [?\]: so in a straight, regular ladder, the surrounding color wins
+])
+(;AW[cc]C[LucasOman [?\]: so if i find myself in this sit (white) it would be best to abandon
+sartak [?\]: let's make it interesting :)
+sartak [?\]: yep!
+sartak [?\]: ladders occur pretty frequently
+]
+;B[fd]
+;W[ee]
+;B[de]
+;W[ed]C[sartak [?\]: well, this is where black has a decision
+sartak [?\]: wait, let me move things around :)
+sartak [?\]: (this example is easier on a big board)
+]
+;B[ec])))
+(;AE[gg]AW[dd][gd][dg]C[sartak [?\]: hrmm
+sartak [?\]: ok
+sartak [?\]: where does black play now?
+]
+;W[]C[LucasOman [?\]: connect at G3?
+sartak [?\]: well
+sartak [?\]: your goal is to capture F4
+LucasOman [?\]: seems like connecting can be a two edged sword
+LucasOman [?\]: oh ok
+sartak [?\]: neither of your groups is in danger of being captured
+LucasOman [?\]: same goal
+sartak [?\]: so D4 or D5 again?
+LucasOman [?\]: in this case you want to prevent F4 from connecting
+sartak [?\]: yep
+LucasOman [?\]: so F6 or D4
+sartak [?\]: you're exactly right though
+sartak [?\]: E5 is the right move
+]
+(;B[fd]
+;W[ef]C[LucasOman [?\]: D4
+]
+;B[df]
+;W[ee]C[LucasOman [?\]: hah
+sartak [?\]: :)
+LucasOman [?\]: forked connect
+sartak [?\]: yep
+LucasOman [?\]: ok, so should have done E5 first
+LucasOman [?\]: then cut you off either up or down if attempting to connect
+LucasOman [?\]: F6 was a premature move, E5 wasnt
+sartak [?\]: that's an example of a strongly connectable
+sartak [?\]: you can do nothing to stop the connection
+sartak [?\]: ack, sorry about that
+sartak [?\]: connection dies at midnight for a minute..
+])
+(;B[ee]C[sartak [?\]: this move
+LucasOman [?\]: or black's strategy?
+LucasOman [?\]: gotcha
+sartak [?\]: black's strategy
+sartak [?\]: ah right
+]
+;W[ef]
+;B[df]
+;W[fe]
+;B[fd]C[LucasOman [?\]: sweet
+sartak [?\]: E5 is called a "net"
+LucasOman [?\]: what white had?
+])))
+(;B[ig]
+;W[ih]
+;AW[dd][hg][hh]AB[gh][ih][gi][hi]C[sartak [?\]: so it's black's move
+sartak [?\]: he may not recognize this pattern
+sartak [?\]: so you can dump the stone at D6
+sartak [?\]: which may or may not be tactically significant in the vicinity of D6
+sartak [?\]: the D6 stone here is called a ladder breaker
+sartak [?\]: ok. let's play again :)
+]
+;B[hf]
+;W[gg]
+;B[fg]
+;W[gf]
+;B[ge]
+;W[ff]
+;B[ef]
+;W[fe]C[sartak [?\]: so now we're nearing the other stone
+sartak [?\]: let's have black play normally
+]
+;B[fd]
+;W[ee]
+;B[de]
+;W[ed]C[sartak [?\]: uh oh
+sartak [?\]: white now has a lot of liberties
+sartak [?\]: so black tries some damage control
+LucasOman [?\]: white's basically one move ahead
+]
+;B[dc]C[sartak [?\]: yeah
+sartak [?\]: now white is in a very advantageous position
+sartak [?\]: since look at all the opportunity for double atari
+]
+;W[gd]
+;B[fc]
+;W[he]
+;B[df]
+;W[fh]
+;B[eg]
+;W[fi]C[LucasOman [?\]: so instead of abandoning
+]
+;B[cd]C[LucasOman [?\]: just seed the path
+]
+;W[ii]
+;B[if]
+;W[ie]C[sartak [?\]: good thought
+LucasOman [?\]: well, it would have to already have been seeded
+LucasOman [?\]: since you couldn't waste a move seeding
+sartak [?\]: you could if the other player doesn't realize there's a ladder lurking near
+LucasOman [?\]: because you're in a constant state of atari
+LucasOman [?\]: yeh
+])
+(;B[cd]C[sartak [?\]: there we go
+LucasOman [?\]: i have control of both turns
+LucasOman [?\]: ok
+sartak [?\]: there's a "Resume Play" menu item :)
+]
+;W[gg]
+;B[cf]C[sartak [?\]: good :)
+sartak [?\]: that move is called a 1-point jump
+sartak [?\]: there's a proverb "the 1-point jump is always a good move"
+]
+;W[gc]
+;B[de]
+;W[ec]
+;B[be]
+;W[ee]
+;B[ef]
+;W[eg]
+;B[dg]
+;W[ff]
+;B[fg]
+;W[fh]C[LucasOman [?\]: oh crap
+sartak [?\]: :)
+LucasOman [?\]: yar
+sartak [?\]: want an undo?
+LucasOman [?\]: eh
+LucasOman [?\]: nah
+sartak [?\]: k
+sartak [?\]: so there's an interesting aspect of Go in that there's a very sane and intuitive rating system
+sartak [?\]: there's kyu and dan=
+sartak [?\]: dan
+]
+;B[bf]C[sartak [?\]: there are roughly 30 levels of kyu, and 7-9 dan (I forget how many)
+sartak [?\]: say you have a 30-kyu player and a 29-kyu player
+]
+;W[df]C[sartak [?\]: if the 30-kyu player is given a 1 stone handicap
+sartak [?\]: then the probability he'll win is about 50%
+sartak [?\]: so the rating is defined by handicap
+sartak [?\]: it's a little fuzzy, but that's the general idea
+LucasOman [?\]: ok
+sartak [?\]: decreasing kyu is good, increasing dan is good
+sartak [?\]: so you're probably at the 25 kyu level
+sartak [?\]: I'm probably about 20 right now
+]
+;B[ed]
+;W[fd]
+;B[ef]
+;W[dd]
+;B[dc]
+;W[df]
+;B[ed]
+;W[ef]C[LucasOman [?\]: you could bounce between to ko pretty easily
+sartak [?\]: yep
+sartak [?\]: if there are 3 kos on the board
+sartak [?\]: then in some rulesets you COULD play them infinitely
+]
+;B[eb]
+;W[dd]
+;B[bd]C[sartak [?\]: the game will end in no decision if the players keep fighting over it
+sartak [?\]: but usually the player who is ahead will let the other player take it
+]
+;W[ce]C[LucasOman [?\]: a dishonorable end that brings shame upon their families for generations
+sartak [?\]: :)
+]
+;B[fb]
+;W[gb]
+;B[fc]
+;W[db]
+;B[ed]
+;W[cc]
+;B[de]C[sartak [?\]: hrm
+sartak [?\]: I think I messed that up :)
+sartak [?\]: that's ok
+LucasOman [?\]: wanna take back?
+sartak [?\]: nahh no way
+LucasOman [?\]: hehe
+sartak [?\]: problem was mental, not physical :D
+]
+;W[ea]
+;B[gd]
+;W[fe]
+;B[cb]
+;W[fa]
+;B[da]
+;W[ga]C[LucasOman [?\]: oh damn
+LucasOman [?\]: that was bad planning
+sartak [?\]: hehe yeah
+]
+;B[eh]
+;W[dh]C[sartak [?\]: I'm not out yet!
+LucasOman [?\]: ooo
+]
+;B[ia]
+;W[ib]
+;B[hb]
+;W[ha]C[LucasOman [?\]: oh snap
+sartak [?\]: that reminds me of another very cool setup
+sartak [?\]: that I'll show after this game :)
+sartak [?\]: called snapback
+]
+;B[hc]C[sartak [?\]: oh shit :)
+LucasOman [?\]: :-D
+]
+;W[hd]
+;B[ia]C[sartak [?\]: yep.
+sartak [?\]: interestingly I can't resign
+sartak [?\]: the button is literally greyed out
+LucasOman [?\]: lol
+LucasOman [?\]: why?
+sartak [?\]: because we already played a full game I guess.. dunno
+sartak [?\]: heya stumbly
+sartak [?\]: another nethack pal
+])
+(;B[gd]
+;AW[de][ee][fe][ge][cf][ff][gf][dg][eg][fg][gg]AB[cd][dd][ed][fd][ce][he][df][hf][cg][hg][ch][dh][eh][fh][gh]C[LucasOman [?\]: ty :)
+LucasOman [?\]: "beginner's luck"
+Arkrf21: ??????
+sartak [?\]: let me see if I can set this up without ruining it
+sartak [?\]: ok
+sartak [?\]: so it's white's turn
+Arkrf21: u're asking?
+sartak [?\]: he wants to connect to C4
+sartak [?\]: so the obvious place to play is E4
+stumbly [?\]: well.... seki?
+LucasOman [?\]: seki?
+sartak [?\]: right, he should just accept his losses and move on (and not play E4)
+sartak [?\]: seki is a weird structure
+stumbly [?\]: no, it doesn't work
+]
+;W[ef]C[sartak [?\]: but unfortunately
+sartak [?\]: this group is in atari!
+LucasOman [?\]: B4
+LucasOman [?\]: hah
+stumbly [?\]: j4 perhaps
+stumbly [?\]: or cut first, not sure
+sartak [?\]: yeah.. white is already doomed by this point
+LucasOman [?\]: yeh he shouldn't have played E4
+Arkrf21: yeah there's no way out from there
+]
+;B[df]C[LucasOman [?\]: oh
+])
+(;B[gc]C[LucasOman [?\]: i like this game
+]
+;AE[gc]AW[ea][fa][ga][ha][db][hb][dc][fc][hc][dd][hd][de][ge][ef][ff][gf][eg][gg][eh][fh][gh]C[sartak [?\]: hi Violist
+sartak [?\]: another nh guy :)
+Violist [?\]: heya
+sartak [?\]: second wind of nh interest in Go I guess
+stumbly [?\]: hey viol
+stumbly [?\]: sartak, i'm on semiregularly, but mostly to watch
+LucasOman [?\]: violist: do you play the viola?
+Violist [?\]: Certainly
+Arkrf21: i don't know if i can make a request...
+Violist [?\]: just came back from an orchestra rehearsal, as a matter of fact
+sartak [?\]: I believe this is Seki
+LucasOman [?\]: i'm a violinist :)
+sartak [?\]: both groups are alive
+Violist [?\]: ooh...
+LucasOman [?\]: oh cool... a professional oorchestra? or civic/student?
+sartak [?\]: they're sharing an eye
+Violist [?\]: student
+sartak [?\]: so let's say black is silly
+sartak [?\]: and plays in the middle eye
+sartak [?\]: white schools him
+LucasOman [?\]: oh snaps
+sartak [?\]: same logic applies to white
+sartak [?\]: thus, seki. :)
+stumbly [?\]: if you soak up the outer libs, it's seki
+sartak [?\]: Arkrf: what's your request?
+])
+(;AW[gc][cg]AB[cc][hd][id][ge][ff][if][gg][hg]C[Arkrf21: on how to start...
+sartak [?\]: either on the star point or one off from it
+sartak [?\]: there
+sartak [?\]: so now it's black's move
+Violist [?\]: you guys play mostly 9x9?
+sartak [?\]: I don't know what he should do honestly
+LucasOman [?\]: violist: <shamelessPlug>http://youtube.com/profile?user=oddimperfect</shamelessPlug>
+sartak [?\]: I guess play in the middle
+sartak [?\]: Violist: yeah, it's less daunting than 19x19
+sartak [?\]: but I'm happy to play 19x19 too
+sartak [?\]: why don't one of you guys play Lucas?
+LucasOman [?\]: sartak: a one jump or whatever
+Arkrf21: i've been laying boths
+sartak [?\]: sure, that works too
+sartak [?\]: one point jump
+Arkrf21: i think 9*9 it's easy to see life.
+Violist [?\]: 9x9 is more fun if you like fighting
+sartak [?\]: yeah
+sartak [?\]: ok
+stumbly [?\]: not much room for shape tho
+sartak [?\]: someone else should play, I don't want to have all the fun
+Arkrf21: can i?
+LucasOman [?\]: i wouldn't mind watching someone play
+Arkrf21: play
+sartak [?\]: ok
+Violist [?\]: Lucasoman: cool
+Violist [?\]: I have no webcam or mic so I can't make an account and upload myself...
+sartak [?\]: Violist or stumbly will play you
+LucasOman [?\]: how long have you been playing?
+Violist [?\]: er... probably about 9 years now
+LucasOman [?\]: oh nice
+Violist [?\]: not very diligently
+LucasOman [?\]: hehe
+Arkrf21: so how can we pla?
+sartak [?\]: new game
+sartak [?\]: whoever makes it should not make it teaching
+sartak [?\]: make it "free"
+Arkrf21: ok
+sartak [?\]: so I can commentate without the players seeing the hints/criticism until after the game :)
+Arkrf21: i did it
+sartak [?\]: Violist: up for playing Ark?
+Violist [?\]: sure
+sartak [?\]: ok
+Violist [?\]: how do I... accept?
+sartak [?\]: well
+stumbly [?\]: click on game, then ok
+sartak [?\]: same for us, Lucas
+sartak [?\]: except don't click OK
+sartak [?\]: ok, their game started
+sartak [?\]: Lucas: it's probably near the bottom in gray now
+LucasOman [?\]: ok
+sartak [?\]: I'll stay here til you find it
+sartak [?\]: k :)
+]))

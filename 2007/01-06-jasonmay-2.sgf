@@ -1,0 +1,207 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[9]KM[6.50]
+PW[jasonmay]PB[sartak]BR[18k]DT[2007-01-06]PC[The KGS Go Server at http://www.gokgs.com/]C[sartak [18k\]: all righty
+sartak [18k\]: I'm not gonna go easy on you!
+]RE[B+73.50]
+;B[gg]
+;W[gh]C[sartak [18k\]: but I'm not _that_ good
+sartak [18k\]: With a handicap you can probably beat me
+]
+;B[fh]C[jasonmay: better than arcanehl from what I can tell
+sartak [18k\]: :)
+sartak [18k\]: I play more than he does
+]
+;W[gi]
+;B[fi]
+;W[hg]
+;B[hh]C[jasonmay: ah fuck
+]
+;W[hi]
+;B[ii]C[jasonmay: this is like tic tac toe from hell, heh
+sartak [18k\]: haha
+]
+;W[ih]
+;B[ig]
+;W[hf]
+;B[he]
+;W[hi]
+;B[gi]
+;W[fg]
+;B[gf]
+;W[if]C[sartak [18k\]: I should mention that score is a function not only of territory but captures
+sartak [18k\]: So moves like J4 aren't very good :)
+]
+;B[ie]C[jasonmay: what happened at J4?
+]
+;W[ff]C[sartak [18k\]: I'll show you after the game
+]
+;B[fe]
+;W[ge]
+;B[ef]
+;W[eg]
+;B[dg]
+;W[eh]
+;B[ei]
+;W[dh]
+;B[ch]C[stumbly [20k\]: fine example of ladder
+]
+;W[hf]
+;B[di]
+;W[ff]
+;B[fg]C[sartak [18k\]: Oh
+]
+;W[hd]C[sartak [18k\]: The game ends when both players pass (since they don't think they can increase their score any further)
+sartak [18k\]: or when one resigns
+sartak [18k\]: or time runs out (we're playing without time)
+]
+;B[gd]C[jasonmay: pass?
+sartak [18k\]: yeah you can pass instead of playing a stone
+sartak [18k\]: It's one of the bottoms at the top
+jasonmay: cool
+]
+;W[id]
+;B[hc]C[jasonmay: damn it I thought I was in the green there
+]
+;W[ic]C[sartak [18k\]: :0
+sartak [18k\]: er
+sartak [18k\]: :)
+sartak [18k\]: J7 is another move you shouldn't make
+jasonmay: yeah I just realized that
+]
+;B[ib]C[stumbly [20k\]: now would be a fine time to resign
+]
+;W[fd]C[sartak [18k\]: See the dots at C7, E7, C3, etc?
+sartak [18k\]: Those are good places to play
+sartak [18k\]: well, especially in the beginning
+jasonmay: ah
+sartak [18k\]: It's the best spot to take when you want to control a corner or side
+]
+;B[ed]C[stumbly [20k\]: well, those are the handicap spoty
+stumbly [20k\]: not nec best
+]
+;W[fc]
+;B[ec]
+;W[cg]
+;B[cf]
+;W[bg]C[sartak [18k\]: Yeah the nice thing about Go is often you can just totally drop a conflict and go somewhere else for a while
+sartak [18k\]: It happens a lot more in 19x19 than 9x9
+]
+;B[bf]
+;W[eb]
+;B[fb]
+;W[gc]C[sartak [18k\]: :)
+]
+;B[gb]
+;W[ag]
+;B[af]
+;W[bh]
+;B[bi]C[sartak [18k\]: I think the most important Go proverb for me is
+sartak [18k\]: Lose your first 50 games as quickly as possible
+sartak [18k\]: Just to get a feel for the game
+]
+;W[ic]
+;B[id]
+;W[fa]
+;B[ga]
+;W[dh]
+;B[eh]
+;W[ha]
+;B[db]
+;W[ce]
+;B[be]
+;W[ae]C[jasonmay: oh no
+sartak [18k\]: :)
+sartak [18k\]: You're on the right track though
+]
+;B[ad]
+;W[cc]
+;B[cd]C[sartak [18k\]: What I just did there is called a cut
+sartak [18k\]: Denying you the opportunity to connect your stones
+sartak [18k\]: Cuts are crucial
+sartak [18k\]: but be careful, notice how C6 only has two liberties
+jasonmay: yeah
+sartak [18k\]: I often try to cut only to have it smashed back in my face :)
+jasonmay: my brain's too slow to follow but I'll try something
+sartak [18k\]: sure
+]
+;W[dd]C[sartak [18k\]: Good!
+sartak [18k\]: That was probably the best play for you
+]
+;B[de]C[sartak [18k\]: It didn't pan out because I've been dominating
+jasonmay: yeah
+]
+;W[ac]
+;B[bc]
+;W[cb]C[sartak [18k\]: We can play 9x9 with 9 stones handicap (after you play Nukie) if you want, you might even win :)
+]
+;B[dc]C[sartak [18k\]: I'm not very good
+]
+;W[da]C[jasonmay: oops
+]
+;B[ea]C[sartak [18k\]: That move was fine
+sartak [18k\]: It forced me to capture your dead stones
+stumbly [20k\]: been over for a while
+jasonmay: ah'
+]
+;W[fd]
+;B[bb]
+;W[ab]C[sartak [18k\]: Another thing I've been trying to learn is make every stone count
+]
+;B[aa]C[sartak [18k\]: so ignore things that don't really matter, and so on
+sartak [18k\]: But don't worry about that yet, heh
+sartak [18k\]: If you want
+sartak [18k\]: We can both pass to show you how scoring works
+]
+;W[]
+;B[]TB[ba][ca][da][fa][ha][ia][ab][cb][eb][hb][ac][cc][fc][gc][ic][bd][dd][fd][hd][ae][ce][ee][ge][df][ff][hf][if][ag][bg][cg][eg][hg][ah][bh][dh][gh][ih][ai][ci][hi]C[sartak [18k\]: OK
+sartak [18k\]: The little black stones are points for me
+sartak [18k\]: Now
+sartak [18k\]: Hey Nukie
+sartak [18k\]: We didn't play out every single turn
+sartak [18k\]: Because all your groups are undoubtedly dead
+NukieYoe: Yo
+sartak [18k\]: So I mark them as such
+sartak [18k\]: If you had a dispute we could go back to the game and play it out
+sartak [18k\]: so yeah
+sartak [18k\]: That's about it
+jasonmay: cool
+sartak [18k\]: We both click done to finalize the game
+sartak [18k\]: Creating a game is easy enough
+amni [1k\]: so if i teach 3 people, and everyone i teach teaches 3 people...
+sartak [18k\]: Does Nukie know how to play?
+sartak [18k\]: amni: :)
+NukieYoe: No
+sartak [18k\]: ok
+sartak [18k\]: Jason: You should teach him to solidify the rules for you, too
+sartak [18k\]: We can chime in if you need the help
+stumbly [20k\]: i'm interested to see aioli play with comments :)
+jasonmay: ok
+sartak [18k\]: Alright, to start a new game
+sartak [18k\]: In the other window (the one with all the game listings)
+sartak [18k\]: Click "Custom Game" at the top right
+stumbly [20k\]: or he could laugh and me and eid for spectators
+amni [1k\]: :p
+sartak [18k\]: I can direct you on IRC if you need any other help
+stumbly [20k\]: (well, more at me )
+sartak [18k\]: Definitely do a 9x9
+amni [1k\]: when you and sartak play, i notice that he overplays more and you underplay more
+sartak [18k\]: :)
+jasonmay: Free?
+stumbly [20k\]: could be
+jasonmay: Demo? Teaching?
+sartak [18k\]: Free or Teaching
+sartak [18k\]: Teaching is probably best
+jasonmay: are you on Teaching?
+jasonmay: ok
+stumbly [20k\]: i'm short on some basic tactics/mechanics for sure
+sartak [18k\]: You might have to leave this game to create the other one
+sartak [18k\]: I dunno though
+amni [1k\]: not once it's over like this.
+sartak [18k\]: ah
+sartak [18k\]: Ah I see it now
+jasonmay: Nukie: look for boop
+NukieYoe: Ok
+sartak [18k\]: If anyone else tries to join, jason, just click the X next to his name
+sartak [18k\]: heh
+sartak [18k\]: ok see you on the other side!
+])

@@ -1,0 +1,137 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[1800]
+PW[sartak]PB[stumbly]WR[11k]BR[21k]DT[2007-01-01]PC[The KGS Go Server at http://www.gokgs.com/]C[sartak [11k?\]: It really wouldn't let you join?
+stumbly [21k?\]: ok!
+sartak [11k?\]: you're on the clock!
+stumbly [21k?\]: yeah shrug
+]RE[W+Resign]
+;B[ll]BL[1772.118]
+;W[pd]WL[1798.78]
+;B[il]BL[1767.293]
+;W[dp]WL[1795.836]
+;B[gk]BL[1762.939]C[stumbly [21k?\]: <- newb
+stumbly [21k?\]: it's gray
+amni [1k\]: j8 and m8 are ok, although weird
+sartak [11k?\]: stumbly: because I've already done it :)
+]
+;W[dd]WL[1794.406]
+;B[oo]BL[1758.622]C[amni [1k\]: g9 is probably overconcentrated
+]
+;W[eh]WL[1785.928]
+;B[ck]BL[1749.762]
+;W[ek]WL[1782.598]
+;B[el]BL[1741.99]C[stumbly [21k?\]: yeah
+stumbly [21k?\]: thought about that
+]
+;W[dk]WL[1775.625]
+;B[ej]BL[1736.514]
+;W[fj]WL[1769.919]
+;B[jd]BL[1732.672]
+;W[jp]WL[1766.794]C[stumbly [21k?\]: but well
+]
+;B[jo]BL[1728.832]
+;W[in]WL[1764.33]C[stumbly [21k?\]: 19x19 is big!
+sartak [11k?\]: yes :)
+stumbly [21k?\]: live/learn
+]
+(;B[fk]BL[1714.391]
+;W[dj]WL[1756.601]C[sartak [11k?\]: yeah
+]
+(;B[ei]BL[1710.06]
+;W[fi]WL[1754.844]
+;B[di]BL[1704.636]
+;W[ci]WL[1729.787]
+;B[dh]BL[1699.14]
+;W[dg]WL[1728.701]
+;B[ch]BL[1695.29]
+;W[bh]WL[1727.182]
+;B[cg]BL[1692.647]
+;W[cf]WL[1726.257]
+;B[bg]BL[1689.966]
+;W[ag]WL[1725.411]
+;B[bf]BL[1687.718]
+;W[be]WL[1722.696]C[sartak [11k?\]: :/
+stumbly [21k?\]: dammit
+sartak [11k?\]: Ordinary ladders are bad for the interior
+]
+;B[dl]BL[1657.734]C[stumbly [21k?\]: yeah i shudda ditched that, but well, it's late
+sartak [11k?\]: Han and stumbly play!
+amni [1k\]: the proverb is: each stone played into a ladder that fails is worth 7 points
+HanClinto [?\]: Stumbly, want to play?
+HanClinto [?\]: Eid trashes me
+sartak [11k?\]: 7.. meaning make sure your ladder is going to work? :)
+amni [1k\]: yeah
+stumbly [21k?\]: it's too late to compute that shit
+HanClinto [?\]: Actually, Eid doesn't *completely* trash me
+stumbly [21k?\]: :)
+sartak [11k?\]: han: I think you're still ahead by a game or two
+sartak [11k?\]: I still don't grok the game stats
+amni [1k\]: stats?
+sartak [11k?\]: "view info"
+stumbly [21k?\]: shrug
+amni [1k\]: it's messy cuz you've been saving all demonstrations
+stumbly [21k?\]: i just played soem bots to warm up
+HanClinto [?\]: Eid: Possibly, but you're learning faster than I am. :)
+sartak [11k?\]: ohh
+]
+;W[af]WL[1717.163]TW[bf][bg][cg][ch][dh][di][ei][ej]C[HanClinto [?\]: Want to play, Stumbly?
+stumbly [21k?\]: i don't think i'll really challenge anyone unless i take up coffee again
+sartak [11k?\]: hehe
+sartak [11k?\]: Well you could always play amni. Or me.
+stumbly [21k?\]: i'll play one
+amni [1k\]: there's always handicap stones
+sartak [11k?\]: woo
+sartak [11k?\]: han: Do you know how to set up a game?
+sartak [11k?\]: It's pretty easy. Just click custom game in the games room and make sure everything's peachy
+sartak [11k?\]: No time limits, free game, board size 9, no handicap, and that should do it
+HanClinto [?\]: Okay, cool
+stumbly [21k?\]: ok, back to lobby
+sartak [11k?\]: If someone else challenges you just click the x next to the combobox
+sartak [11k?\]: IRC if you need help
+]
+;B[ej]BL[1653.977]
+;W[ei]WL[1715.201]
+;B[cj]BL[1651.075]
+;W[cl]WL[1709.798]C[stumbly [21k?\]: it's late!
+sartak [11k?\]: hehe
+sartak [11k?\]: ah well
+sartak [11k?\]: How was the opening up until the ladder debacle, amni?
+amni [1k\]: well...
+amni [1k\]: weird and possibly bad
+amni [1k\]: but definitely weird
+sartak [11k?\]: For both of us?
+stumbly [21k?\]: sloppy on my part
+amni [1k\]: you started out normal but then skewed into weird
+sartak [11k?\]: Feel free to go into review mode
+amni [1k\]: only players can
+sartak [11k?\]: and feel free to tell me to stfu :)
+sartak [11k?\]: oh
+stumbly [21k?\]: not sure how
+sartak [11k?\]: options -> review game
+])
+(;B[dl]
+;W[ei]C[stumbly [21k?\]: this is about where i lost it
+]))
+(;B[dj]
+;W[fk]
+;B[gi]
+;W[cj]C[stumbly [21k?\]: instead of opening other areas
+]
+;B[di]
+;W[ci]
+;B[ch]
+;W[cl]
+;B[bk]C[HanClinto [?\]: Who won?
+stumbly [21k?\]: hi Han!
+sartak [11k?\]: Hi Han
+amni [1k\]: no, white would just d12 there
+HanClinto [?\]: Hey guys. :)
+sartak [11k?\]: stumbly resigned.. early :)
+stumbly [21k?\]: eid has me about 3-1 now
+]
+;W[dh]C[HanClinto [?\]: heh
+stumbly [21k?\]: but i won the first!
+sartak [11k?\]: The first three were 9x9
+stumbly [21k?\]: 9x9 but whatever
+sartak [11k?\]: Han: The ladder won it for me again >_>
+]))
