@@ -17,9 +17,12 @@
         }
 
         glift.create({
-            sgf     : getParameterByName('sgf'),
-            divId   : "board",
-            display : {
+            sgf         : getParameterByName('sgf'),
+            divId       : "board",
+            sgfDefaults : {
+                initialPosition : getParameterByName('position') || 1,
+            },
+            display     : {
                 theme : 'DEPTH'
             }
         });
