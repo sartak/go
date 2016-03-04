@@ -1,8 +1,24 @@
 <!DOCTYPE html>
 <html>
-  <style>p { font-size: 1.5em }</style>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    p { font-size: 1.5em }
+    .well {
+        background: #EEE;
+        border-radius: 1em;
+        padding: 3em;
+        margin: 1em;
+    }
+    #board {
+        position: relative;
+        width: 100%;
+        height: 500px;
+    }
+  </style>
   <body>
-    <div id="board" style="height: 500px"></div>
+    <div class="well">
+        <div id="board"></div>
+    </div>
 
     <script src="glift_1_0_6.min.js"></script>
 
@@ -17,7 +33,7 @@
             return decodeURIComponent(results[2].replace(/\+/g, " "));
         }
 
-        glift.create({
+        var gliftWidget = glift.create({
             sgf         : getParameterByName('sgf'),
             divId       : "board",
             sgfDefaults : {
@@ -27,6 +43,10 @@
                 theme             : 'DEPTH',
                 goBoardBackground : 'wood.png'
             }
+        });
+
+        window.addEventListener('resize', function(event){
+          gliftWidget && gliftWidget.redraw();
         });
     </script>
   </body>
