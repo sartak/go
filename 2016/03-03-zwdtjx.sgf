@@ -1,68 +1,86 @@
-(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
-RU[Japanese]SZ[19]KM[6.50]TM[300]OT[5x20 byo-yomi]
-PW[sartak]PB[zwdtjx]WR[21k]DT[2016-03-04]PC[The KGS Go Server at http://www.gokgs.com/]RE[B+Resign]
-;B[pd]BL[296.709]C[sartak [21k?\]: hi :)
-]
-;W[dp]WL[298.09]C[zwdtjx: hi
-]
-;B[dd]BL[291.706]
-;W[pp]WL[295.996]
-;B[qn]BL[280.332]
-;W[nq]WL[291.84]
-;B[rp]BL[278.079]
-;W[qq]WL[289.484]
-;B[pk]BL[275.633]
-;W[kp]WL[259.869]
-;B[kq]BL[267.458]
-;W[jq]WL[254.715]
-;B[jp]BL[264.136]
-;W[lq]WL[252.588]
-;B[kr]BL[259.302]
-;W[jr]WL[251.027]
-;B[lp]BL[252.861]
-;W[ko]WL[249.159]
-;B[mq]BL[250.605]
-;W[lr]WL[247.495]
-;B[mr]BL[247.525]
-;W[ks]WL[243.751]
-;B[np]BL[245.088]
-;W[lo]WL[242.181]
-;B[mp]BL[237.561]
-;W[on]WL[219.009]
-;B[oo]BL[234.464]
-;W[po]WL[216.23]
-;B[nn]BL[232.211]
-;W[om]WL[213.374]
-;B[pn]BL[221.767]
-;W[op]WL[198.888]
-;B[no]BL[218.457]
-;W[nm]WL[197.327]
-;B[mn]BL[216.288]
-;W[lm]WL[192.401]
-;B[ln]BL[205.484]
-;W[kn]WL[190.942]
-;B[mm]BL[203.509]
-;W[ml]WL[190.125]
-;B[ll]BL[200.965]
-;W[km]WL[189.236]
-;B[nl]BL[198.877]
-;W[mk]WL[187.842]
-;B[ol]BL[196.869]
-;W[nr]WL[91.875]
-;B[ms]BL[193.166]
-;W[rq]WL[76.192]
-;B[qp]BL[190.678]
-;W[qo]WL[71.547]
-;B[ro]BL[188.392]
-;W[rn]WL[55.901]
-;B[rm]BL[185.819]
-;W[qm]WL[41.737]
-;B[pm]BL[181.5]
-;W[ql]WL[40.688]
-;B[pq]BL[168.315]
-;W[oq]WL[39.321]
-;B[pr]BL[165.783]
-;W[ps]WL[29.45]
-;B[ns]BL[161.284]C[sartak [21k?\]: gg
+(;GM[1]FF[4]SZ[19]AP[SmartGo:0.6.5.1]CA[UTF-8]
+GN[03-03-zwdtjx]
+PW[sartak]WR[21k]
+PB[zwdtjx]
+DT[2016-03-04]
+PC[The KGS Go Server at http://www.gokgs.com/]
+KM[6.5]
+RE[B+Resign]
+RU[Japanese]ST[2]
+TM[300.0]OT[5x20 byo-yomi];B[pd]BL[296.7]
+C[sartak [21k?\]: hi :)
+];W[dp]WL[298.1]
+C[zwdtjx: hi
+];B[dd]BL[291.7];W[pp]WL[296.0];B[qn]BL[280.3];W[nq]WL[291.8]
+;B[rp]BL[278.1];W[qq]WL[289.5]
+C[Lucky guess at the correct joseki move on my part.];B[pk]BL[275.6]
+(;W[kp]WL[259.9]V[17.5]
+C[Too high.];B[kq]BL[267.5];W[jq]WL[254.7];B[jp]BL[264.1];W[lq]WL[252.6]
+;B[kr]BL[259.3]
+(;W[jr]WL[251.0];B[lp]BL[252.9];W[ko]WL[249.2];B[mq]BL[250.6];W[lr]WL[247.5]
+;B[mr]BL[247.5]
+C[I guess he really wanted the corner if he's sacrificing stones and a lot of leftward-facing influence. I should have been more willing to trade that corner for more influence.]
+;W[ks]WL[243.8];B[np]BL[245.1]
+(;W[lo]WL[242.2];B[mp]BL[237.6];W[on]WL[219.0];B[oo]BL[234.5];W[po]WL[216.2]
+;B[nn]BL[232.2];W[om]WL[213.4]
+C[This invites the cut, but black was looking a bit weak.];B[pn]BL[221.8]
+;W[op]WL[198.9];B[no]BL[218.5]
+(;W[nm]WL[197.3];B[mn]BL[216.3]
+(;W[lm]WL[192.4]
+C[Was this an overplay?];B[ln]BL[205.5];W[kn]WL[190.9];B[mm]BL[203.5]
+(;W[ml]WL[190.1];B[ll]BL[201.0];W[km]WL[189.2];B[nl]BL[198.9]
+(;W[mk]WL[187.8];B[ol]BL[196.9];W[nr]WL[91.9]
+C[At this point I decide to try to make life in the corner. It doesn't go well.]
+;B[ms]BL[193.2]
+(;W[rq]WL[76.2];B[qp]BL[190.7];W[qo]WL[71.5];B[ro]BL[188.4];W[rn]WL[55.9]
+;B[rm]BL[185.8];W[qm]WL[41.7];B[pm]BL[181.5]
+(;W[ql]WL[40.7]
+C[Terrible move. I think I would have saved the corner if I didn't waste this move.]
+;B[pq]BL[168.3];W[oq]WL[39.3];B[pr]BL[165.8]
+(;W[ps]WL[29.5];B[ns]BL[161.3]
+C[sartak [21k?\]: gg
 zwdtjx: ty
-])
+]V[-24.5]
+TB[db:de][pb:ps][cc:cd][ec:ed][oc:oe][qc:rg][se:ss][oh:os][rh:rs][nj:ns][qj:qs][mm:mn][ln][lp:mp][mq:ms]
+TW[hh:hs][jh:js][gi:gs][ii:is][ki:ks][cj:fs][ak:bs][lk:lm][mk:ml][lo][lq:lr]
+)
+(;W[qr];B[or]))
+(;W[sp];B[sn])
+(;W[sq];B[pq];W[oq];B[pr]
+(;W[ps];B[os])
+(;W[qr];B[or]))
+(;W[pr]
+C[Much better. So much eyespace.]
+(;B[pq];W[oq])
+(;B[oq];W[pq];B[ns];W[or])
+(;B[or];W[oq])))
+(;W[qp]))
+(;W[ol];B[mk];W[ok];B[nk];W[oj]))
+(;W[nl];B[ml];W[ll];B[mk])
+(;W[ll];B[ml];W[mk];B[nl];W[ol];B[nk];W[ok];B[nj];W[oj]))
+(;W[ln];B[mm];W[ml];B[lm];W[km];B[ll];W[mk]))
+(;W[mm];B[nm];W[nl];B[ol];W[pm];B[pl];W[qm];B[rm];W[ql];B[qk];W[rl];B[sl]
+;W[rk];B[rj];W[sk];B[sj])
+(;W[ml];B[nm];W[nl];B[ol];W[pm];B[pl];W[qm];B[rm])
+(;W[nl];B[lm];W[mm];B[mn];W[ln];B[nm];W[ml];B[ol];W[pm];B[pl])
+(;W[ll];B[nm];W[ol];B[nl];W[nk];B[ok])
+(;W[lm];B[nm]
+(;W[ol];B[nl];W[ok];B[nk];W[oj];B[nj])
+(;W[ok]
+(;B[nl];W[ol];B[nk])
+(;B[ol]
+(;W[pl];B[pm])
+(;W[nl];B[pm])))))
+(;W[op]
+(;B[no])
+(;B[nr];W[oq]
+(;B[no])
+(;B[pr]))))
+(;W[lr]
+C[By pushing this way I think I get the SE corner.];B[jr];W[iq];B[ir];W[ip]
+;B[jo];W[ko];B[ho]))
+(;W[kq]
+C[Better.])
+(;W[qi]
+C[Apparently the most common response.]))
+
