@@ -11,27 +11,37 @@ TM[300.0]OT[5x20 byo-yomi];B[pd]BL[296.7];W[dp]WL[298.1];B[dd]BL[291.7];W[pp]
 WL[296.0];B[qn]BL[280.3];W[nq]WL[291.8];B[rp]BL[278.1];W[qq]WL[289.5]
 C[Lucky guess at the correct joseki move on my part.];B[pk]BL[275.6]
 (;W[kp]WL[259.9]V[17.5]
-C[I played this move one line too high. But according to the joseki dictionary, playing beyond the black stone is perhaps more common.];B[kq]BL[267.5];W[jq]WL[254.7];B[jp]BL[264.1];W[lq]WL[252.6]
+C[I played this move one line too high. But according to the joseki dictionary, playing at A is perhaps more common.]
+LB[qi:A];B[kq]BL[267.5];W[jq]WL[254.7];B[jp]BL[264.1];W[lq]WL[252.6]
+C[Ordinarily I wouldn't have been so aggressive I think but I had a strong local position.]
 ;B[kr]BL[259.3]
-(;W[jr]WL[251.0];B[lp]BL[252.9];W[ko]WL[249.2];B[mq]BL[250.6];W[lr]WL[247.5]
-;B[mr]BL[247.5]
+(;W[jr]WL[251.0]
+C[I descended from this side to avoid the atari.];B[lp]BL[252.9];W[ko]WL[249.2]
+;B[mq]BL[250.6];W[lr]WL[247.5];B[mr]BL[247.5]
 C[I guess he really wanted the corner if he's sacrificing stones and a lot of leftward-facing influence. I should have been more willing to trade that corner for more influence.]
-;W[ks]WL[243.8];B[np]BL[245.1]
-(;W[lo]WL[242.2];B[mp]BL[237.6];W[on]WL[219.0];B[oo]BL[234.5];W[po]WL[216.2]
-;B[nn]BL[232.2];W[om]WL[213.4]
+;W[ks]WL[243.8]
+(;B[np]BL[245.1]
+(;W[lo]WL[242.2];B[mp]BL[237.6];W[on]WL[219.0]
+C[I like this move primarily because I think I'd be real mad if black had played it. It offers an escape route to my white corner, as well as starting to cut black's two groups.]
+;B[oo]BL[234.5]
+C[He won't have none of that though. It's interesting to note in this game he eventually does connect. Maybe if I played better he wouldn't have been able to.]
+(;W[po]WL[216.2];B[nn]BL[232.2];W[om]WL[213.4]
 C[This invites the cut, but black was looking a bit weak.];B[pn]BL[221.8]
 ;W[op]WL[198.9];B[no]BL[218.5]
 (;W[nm]WL[197.3];B[mn]BL[216.3]
 (;W[lm]WL[192.4]
-C[Was this an overplay?];B[ln]BL[205.5];W[kn]WL[190.9];B[mm]BL[203.5]
+C[I think this was an overplay. By pushing at A one more time, the marked group would be able to survive the onslaught that comes next, and I could have captured the large black group.]
+LB[mm:A]TR[nm:om][on];B[ln]BL[205.5];W[kn]WL[190.9];B[mm]BL[203.5]
 (;W[ml]WL[190.1];B[ll]BL[201.0];W[km]WL[189.2];B[nl]BL[198.9]
 (;W[mk]WL[187.8];B[ol]BL[196.9];W[nr]WL[91.9]
-C[At this point I decide to try to make life in the corner. It doesn't go well.]
+C[At this point, seeing that black escapes, I decide to ensure I make life in the corner. If nothing else this forced black to play a ~worthless move, and it's much better that I play here before he does.]
 ;B[ms]BL[193.2]
-(;W[rq]WL[76.2];B[qp]BL[190.7];W[qo]WL[71.5];B[ro]BL[188.4];W[rn]WL[55.9]
-;B[rm]BL[185.8];W[qm]WL[41.7];B[pm]BL[181.5]
+(;W[rq]WL[76.2]LB[qp:A]
+C[This should have been at A since it blocks black much better.];B[qp]BL[190.7]
+;W[qo]WL[71.5];B[ro]BL[188.4];W[rn]WL[55.9]
+C[Bad move.];B[rm]BL[185.8];W[qm]WL[41.7];B[pm]BL[181.5]
 (;W[ql]WL[40.7]
-C[Terrible move. I think I would have saved the corner if I didn't waste this move.]
+C[Terrible move. I think I would have saved the corner if I didn't waste this move and instead addressed my vulnerabilities.]
 ;B[pq]BL[168.3];W[oq]WL[39.3];B[pr]BL[165.8]
 (;W[ps]WL[29.5];B[ns]BL[161.3]V[-24.5]
 TB[db:de][pb:ps][cc:cd][ec:ed][oc:oe][qc:rg][se:ss][oh:os][rh:rs][nj:ns][qj:qs][mm:mn][ln][lp:mp][mq:ms]
@@ -47,11 +57,37 @@ C[Much better. So much eyespace.]
 (;B[pq];W[oq])
 (;B[oq];W[pq];B[ns];W[or])
 (;B[or];W[oq])))
-(;W[qp]))
+(;W[qp]
+(;B[ro];W[rq])
+(;B[rq];W[rr])))
 (;W[ol];B[mk];W[ok];B[nk];W[oj]))
 (;W[nl];B[ml];W[ll];B[mk])
 (;W[ll];B[ml];W[mk];B[nl];W[ol];B[nk];W[ok];B[nj];W[oj]))
-(;W[ln];B[mm];W[ml];B[lm];W[km];B[ll];W[mk]))
+(;W[mm]
+(;B[ln];W[km];B[lm];W[ll];B[kn];W[jn];B[kl];W[jm];B[ml];W[lk]
+(;B[nl];W[ol]
+(;B[ok];W[nk]
+(;B[mk];W[mj])
+(;B[pl];W[mk]))
+(;B[nj];W[nk];B[ok];W[mk]))
+(;B[mk]
+(;W[kk];B[ol]
+(;W[pm];B[qm];W[pl];B[ql];W[nl])
+(;W[nl];B[nk];W[pl];B[ok];W[pm];B[ql]))
+(;W[nk];B[nl];W[ol]
+(;B[ok];W[mj])
+(;B[mj];W[ok];B[oj];W[nj];B[ni];W[pj];B[oi];W[mi];B[lj];W[kk]))
+(;W[ok];B[ol];W[nl];B[pl];W[nk]
+(;B[oj];W[mj])
+(;B[mj];W[pj];B[oj];W[nj];B[oi]
+(;W[mi];B[lj];W[kj];B[li];W[lh];B[ki];W[ji];B[kh];W[kg];B[jh];W[ih];B[jg]
+;W[jf];B[ig];W[hg];B[if];W[ie];B[hf];W[gf];B[he];W[hd];B[ge];W[fe];B[gd]
+;W[gc];B[fd];W[ed];B[fc];W[fb];B[ec];W[ee])
+(;W[ni]
+(;B[nh];W[mi])
+(;B[mi];W[nh]))))))
+(;B[lm];W[ln];B[ll];W[nk]))
+(;W[ln];B[mm];W[ml];B[lm]))
 (;W[mm];B[nm];W[nl];B[ol];W[pm];B[pl];W[qm];B[rm];W[ql];B[qk];W[rl];B[sl]
 ;W[rk];B[rj];W[sk];B[sj])
 (;W[ml];B[nm];W[nl];B[ol];W[pm];B[pl];W[qm];B[rm])
@@ -64,11 +100,27 @@ C[Much better. So much eyespace.]
 (;B[ol]
 (;W[pl];B[pm])
 (;W[nl];B[pm])))))
+(;W[pn]
+(;B[nn];W[nm];B[om];W[pm];B[ol];W[nl];B[pl]
+(;W[qm])
+(;W[mn];B[no]))
+(;B[po]
+(;W[qo];B[ro];W[qp];B[qm];W[no];B[op]
+(;W[nn];B[oq];W[nr];B[or])
+(;W[oq];B[nn];W[mo];B[nm]))
+(;W[no];B[nn];W[mo];B[nm];W[qm];B[rm];W[pm]
+(;B[qo])
+(;B[qp])))))
 (;W[op]
 (;B[no])
 (;B[nr];W[oq]
 (;B[no])
 (;B[pr]))))
+(;B[cn];W[mp];B[lo]
+(;W[mo];B[ln])
+(;W[ln];B[mo];W[np];B[mn];W[lm]
+(;B[on])
+(;B[om]))))
 (;W[lr]
 C[By pushing this way I think I get the SE corner.];B[jr];W[iq];B[ir];W[ip]
 ;B[jo];W[ko];B[ho]))
