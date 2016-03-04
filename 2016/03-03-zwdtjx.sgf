@@ -7,12 +7,8 @@ PC[The KGS Go Server at http://www.gokgs.com/]
 KM[6.5]
 RE[B+Resign]
 RU[Japanese]ST[2]
-TM[300.0]OT[5x20 byo-yomi];B[pd]BL[296.7]
-C[sartak [21k?\]: hi :)
-];W[dp]WL[298.1]
-C[zwdtjx: hi
-];B[dd]BL[291.7];W[pp]WL[296.0];B[qn]BL[280.3];W[nq]WL[291.8]
-;B[rp]BL[278.1];W[qq]WL[289.5]
+TM[300.0]OT[5x20 byo-yomi];B[pd]BL[296.7];W[dp]WL[298.1];B[dd]BL[291.7];W[pp]
+WL[296.0];B[qn]BL[280.3];W[nq]WL[291.8];B[rp]BL[278.1];W[qq]WL[289.5]
 C[Lucky guess at the correct joseki move on my part.];B[pk]BL[275.6]
 (;W[kp]WL[259.9]V[17.5]
 C[Too high.];B[kq]BL[267.5];W[jq]WL[254.7];B[jp]BL[264.1];W[lq]WL[252.6]
@@ -37,10 +33,7 @@ C[At this point I decide to try to make life in the corner. It doesn't go well.]
 (;W[ql]WL[40.7]
 C[Terrible move. I think I would have saved the corner if I didn't waste this move.]
 ;B[pq]BL[168.3];W[oq]WL[39.3];B[pr]BL[165.8]
-(;W[ps]WL[29.5];B[ns]BL[161.3]
-C[sartak [21k?\]: gg
-zwdtjx: ty
-]V[-24.5]
+(;W[ps]WL[29.5];B[ns]BL[161.3]V[-24.5]
 TB[db:de][pb:ps][cc:cd][ec:ed][oc:oe][qc:rg][se:ss][oh:os][rh:rs][nj:ns][qj:qs][mm:mn][ln][lp:mp][mq:ms]
 TW[hh:hs][jh:js][gi:gs][ii:is][ki:ks][cj:fs][ak:bs][lk:lm][mk:ml][lo][lq:lr]
 )
