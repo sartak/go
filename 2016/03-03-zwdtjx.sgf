@@ -12,25 +12,48 @@ C[I'm playing as white, against a KGS player of completely unknown rank.]
 ;W[dp]WL[298.1];B[dd]BL[291.7];W[pp]WL[296.0];B[qn]BL[280.3];W[nq]WL[291.8]
 ;B[rp]BL[278.1];W[qq]WL[289.5]
 C[This was a lucky guess at the correct joseki move on my part. I'm not sure how much of it was it being the "obvious" move versus me having seen it played before.]
-;B[pk]BL[275.6];W[kp]WL[259.9]V[17.5]
-C[I played this move one line too high, it should have been at A. But according to the joseki dictionary, playing at B is perhaps more common. I didn't think I'd have room to form a base if I played in that area.]
-LB[kq:A][qi:B];B[kq]BL[267.5]
-C[And sure enough black plays in the right spot!];W[jq]WL[254.7];B[jp]BL[264.1]
-;W[lq]WL[252.6]
+;B[pk]BL[275.6]LB[qk:A]
+C[b64: Should be at 'a'; with this move, the door is still open and White can later aim at stealing Black's base.]
+;W[kp]WL[259.9]V[17.5]
+C[I played this move one line too high, it should have been at A. But according to the joseki dictionary, playing at B is perhaps more common. I didn't think I'd have room to form a base if I played in that area.
+
+b64: Even without this move, White is alive in the corner. If Black attacks from the A area, White can play C. If Black pushes at C, White can extend to A. Because this is miai, you don't have to play either yet.
+
+The left and top side are the biggest areas now. There are 11 lines between d4 and d16 on the left side, and 11 lines between d16 and q16 on the top side. But there are only 9 lines between d4 and o3 on the bottom side, so the bottom is not the biggest area at the moment.]
+LB[kq:A][qi:B][rq:C];B[kq]BL[267.5]
+C[And sure enough black plays in the right spot!
+
+b64: This is a greedy move. Again, the left and top sides are much bigger.]
+;W[jq]WL[254.7];B[jp]BL[264.1];W[lq]WL[252.6]
 C[Ordinarily I wouldn't have been so aggressive, but I had a strong local position.]
-;B[kr]BL[259.3];W[jr]WL[251.0]
-C[I descended from this side (rather than A) to avoid the atari. Playing the other side leads to a very different result (since it strengthens me in the SE corner a lot).]
-LB[lr:A];B[lp]BL[252.9];W[ko]WL[249.2];B[mq]BL[250.6];W[lr]WL[247.5];B[mr]
-BL[247.5]
-C[I guess he really wanted the corner, since he's forcing me to take the marked stones and thereby gaining a lot of leftward-facing influence. I should have been more willing to sacrifice that corner for lots more influence.]
-TR[kq:kr];W[ks]WL[243.8]
+;B[kr]BL[259.3]
+(;W[jr]WL[251.0]
+C[I descended from this side (rather than A) to avoid the atari. Playing the other side leads to a very different result (since it strengthens me in the SE corner a lot).
+
+b64: Blocking at 'a' is better, I think. See variation.]
+LB[lr:A];B[lp]BL[252.9];W[ko]WL[249.2];B[mq]BL[250.6]
+(;W[lr]WL[247.5]
+C[b64: See variation.];B[mr]BL[247.5]
+C[I guess he really wanted the corner, since he's forcing me to take the marked stones and thereby giving me a lot of leftward-facing influence. I should have been more willing to sacrifice that corner for lots more influence.
+
+b64: I think the corner is worth more than the influence, especially because White was strong there to begin with. With Black's move at 'A', White still has moves on the right side. If Black captures the corner, this weakness vanishes.]
+TR[kq:kr]LB[pk:A];W[ks]WL[243.8]
 (;B[np]BL[245.1]
 (;W[lo]WL[242.2];B[mp]BL[237.6];W[on]WL[219.0]
-C[I like this move primarily because I think I'da been real mad if black had played it (which is my usual barometer). It offers an escape route to my white corner, as well as menaces to cut black's two groups.]
-;B[oo]BL[234.5]
+C[I like this move primarily because I think I'da been real mad if black had played it (which is my usual barometer). It offers an escape route to my white corner, as well as menaces to cut black's two groups.
+
+b64: Leaning on the black stone at 'a' makes it easier for White to get out and fight. The keima can be cut; maybe not immediately because Black is still weak himself, but it's something that White always has to think about.]
+LB[pn:A];B[oo]BL[234.5]
 C[He won't have none of that though. It's interesting to note in this game he eventually does connect. Maybe if I played better he wouldn't have been able to.]
-(;W[po]WL[216.2];B[nn]BL[232.2]LB[pn:A]
-C[Nice move by black. I probably would have reflexively played at A. But then white's extension to 29 sure makes A look like it consigned the six stones to die.]
+(;W[po]WL[216.2];B[nn]BL[232.2]LB[pn:A][qm:B]
+C[Nice move by black. I probably would have reflexively played at A. But then white's extension to 29 sure makes A look like it consigned the six stones to die.
+
+b64: Because White is still weak in the corner, it's not the place to fight. You need to get out by connecting at 'a'. Afterwards you can hane at 'b' and take a huge corner. Or, if Black defends at 'b', you can continue the running fight.
+
+If the opponent cuts you into two weak groups, you're not attacking; you're just trying not to die everywhere. :)
+
+(End of commentary.)
+]
 ;W[om]WL[213.4]
 C[This invites the cut at A, but black was looking weak, so I wanted to keep the pressure on. Black escapes easily if I played A.]
 LB[pn:A];B[pn]BL[221.8]
@@ -46,12 +69,15 @@ LB[mm:A]TR[nm:om][on];B[ln]BL[205.5];W[kn]WL[190.9]LB[km:A]
 C[38 really should have been at A, since black immediately takes advantage of an atari on the single stone above 37. I have a bad habit of unthinkingly blocking directly rather than squelching progress by casting a net.]
 ;B[mm]BL[203.5]
 (;W[ml]WL[190.1];B[ll]BL[201.0];W[km]WL[189.2]
-C[Yep, I ended up being forced to play the move I should have played! I brought what comes next upon myself.];B[nl]BL[198.9]
+C[Yep, I ended up being forced to play the move I should have played! I brought what comes next upon myself.]
+;B[nl]BL[198.9]
 (;W[mk]WL[187.8];B[ol]BL[196.9];W[nr]WL[91.9]
 C[At this point, now that black escapes, I decide to ensure that I make life in the corner. If nothing else, this move forced black to play a worthless response, and it's *much* better that I play here before he does, so I am happy with this move.]
 ;B[ms]BL[193.2]
-(;W[rq]WL[76.2]LB[qp:A]
-C[This should have been at A instead since it blocks black much better. It invites black to play A.]
+(;W[rq]WL[76.2]
+C[This should have been at A instead since it blocks black much better. It invites black to play A.
+
+b64: No, this block is good because you retain more of the corner. After Black 'a', White can live with q2. Still, the result is horrible for White.]
 ;B[qp]BL[190.7];W[qo]WL[71.5]
 C[This was worthless. Better would have been something like A to assuage my concerns about making life.]
 LB[pr:A];B[ro]BL[188.4];W[rn]WL[55.9]
@@ -141,4 +167,13 @@ C[Much better. So much eyespace.]
 (;W[ln];B[mo];W[np];B[mn];W[lm]
 (;B[on])
 (;B[om]))))
+(;W[mp]
+C[b64: The result is still not good for White, but locally, something like this looks more interesting.]
+;B[lr];W[lo]))
+(;W[lr]
+(;B[jr];W[iq]
+C[b64: Black's stones are lost.])
+(;B[iq];W[jr];B[ir];W[ks]
+C[b64: White is super strong; Black doesn't have a base or even one eye yet, just stones that are glued to a living group. Because White is alive, no Black move in this area has any effect on White. So White can look forward to attacking them and building up the bottom left area.]
+)))
 
