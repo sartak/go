@@ -1,0 +1,173 @@
+(;GM[1]FF[4]SZ[19]AP[SmartGo:0.6.6]CA[utf-8]
+GN[04-18-Anankhan]
+PW[sartak]WR[16k]
+PB[Anankhan]BR[20k]
+DT[2016-04-18]
+PC[OGS: http://online-go.com/game/4940532]
+KM[6.5]
+RE[W+R]
+CP[online-go.com]
+RU[japanese];B[pd];W[dp];B[pp];W[dd];B[dj];W[pj];B[nj]
+C[This struck me as a little strange.];W[pg]
+C[Make a base.];B[pl];W[nc]
+C[Surround black's corner.];B[ne];W[jd];B[ld]
+C[I suppose I invited this move by playing so far away.];W[lc]
+C[Fight!
+
+I suppose this wasn't the best move because it gives black an opportunity to make a wall which would completely crush my two stones on the right side.]
+;B[kc];W[kd]
+C[The cross-cut seemed ideal for me since I have two supporting stones right here.]
+;B[mc]
+C[Black is creating so many defects for himself!];W[lb];B[jc];W[md]
+(;B[nb]
+C[Black should have just given this stone up to save the other one, I think. I'm not sure what benefit he thought he was getting.]
+;W[oc];B[ob];W[pc];B[pb];W[qc];B[qb]
+C[I was fine pushing this far because I knew black would have trouble making life, and it gives me a lot of strength!]
+;W[rb]
+C[I hane'd to avoid letting him making a living shape. I was also clear of his 4-4 stone which may have made an earlier hane more dangerous.]
+;B[rd]
+C[Not sure why he reverse peeped me.];W[qd];B[qe];W[pe]
+C[I like attacking :-)];B[od]
+(;W[nd]
+C[This was the obvious direction to atari from.];B[oe];W[pf];B[le];W[me]
+;B[mf]
+C[This is just barely not an overplay, since it puts me in atari.]
+(;W[rc]
+C[I had to play here rather than capture because the other direction invites a harsh cut that saves the four stones at the top and completely wrecks my corner.]
+(;B[re]
+C[Black should have given these up to save the more important stones.];W[nf]
+;B[mb]
+C[I was a little annoyed that he now captures my two white stones but I think the tradeoff is worth it; a few points for sealing in more-strategically-important stones.]
+;W[lf];B[ke];W[kf];B[je];W[id]
+(;B[kb]
+C[Black was worried about the hane but could have pushed instead. Plus, my three stones do not have enough liberties to hane. So this was more or less a wasted move.]
+(;W[jf]
+C[I should have hane'd instead, it works out better because it gives my weak group liberties for free.]
+;B[ie];W[hd];B[he];W[gd];B[ge];W[fd]
+C[Again I was fine pushing because I was making fourth-line territory. Or so I thought.]
+;B[gb]
+C[Dude monkey jumped me!
+
+(More or less)
+
+It looks like the best response is A.]
+LB[gc:A]
+(;W[hb];B[ib]
+(;W[ic]
+C[I think the best response is instead A, because then no matter what he does I can cut off the deep stone. Now I know for future reference to consider the first-line response!]
+LB[ha:A];B[ha];W[hc];B[eb]
+C[I really spent a while analyzing my response to this. I thought there might be a throw-in tesuji but couldn't find anything. At best I could donate points to black…]
+;W[cb]
+C[…so I played a defensive move. None of the closer moves seemed to contain him effectively.]
+;B[dc];W[cc]
+C[Tried to block him from going any further.];B[de]
+C[Damn. This dude has some strangely good moves for someone rated 20k.]
+(;W[ee]
+C[I was extremely concerned about my large white group dying - it would have cost me the game - so I played this odd move. It cost me the corner but it saved me the game.]
+;B[cd]
+(;W[df]
+C[I didn't want to simply connect because it felt like I would cut myself off from the rest of the board and then die for lack of eyespace.]
+;B[ed];W[fe]
+C[Yay I escaped.];B[ef];W[ff];B[eg];W[dg]
+(;B[eh]
+C[Turning would have been better I think, since that huge group is much more urgent.]
+;W[ce]
+C[I couldn't connect, but I could threaten to connect to try to build eyespace.]
+;B[dd];W[be];B[bd];W[dh]
+(;B[ei]
+C[I was surprised his response was here and not A. If I were to try to cut, it's a ladder that works for black.]
+LB[di:A]
+(;W[cj]
+C[As soon as I played this move I got very worried that I'd just killed my group. And against a stronger player I would have; I don't see a way to save it.]
+(;B[cf]
+C[OMG! Huge mistake! Black should have punished my overplay.];W[bf];B[cg]
+;W[ch];B[bg];W[bh];B[ag];W[ah];B[ae]
+C[This move is so gote.];W[af];B[ad];W[dk]
+C[Hane to start claiming my side and also to put the screws on the five stones that griefed me.]
+;B[mg]
+C[Dat aji…… is not as urgent as the left side right now.];W[fk]
+C[I like this move because it puts pressure on the five black stones while also building out my moyo. I'm also always happy when I successfully ignore slack moves.]
+(;B[ek]
+C[Not sure if this move accomplishes anything. He wasn't able to make use of my shortened liberties.]
+;W[el];B[ck];W[dl];B[cl];W[dm]
+C[I wanted to play it safe and build up some more thickness after those last two kerfluffles.]
+(;B[cn]
+C[Seems a little premature to jump. This defect later contributed to his death. But I wasn't ready to turn into his defect yet; I wanted to make use of my corner stone.]
+;W[dn]
+(;B[do]
+C[Again, not sure what the point of it is; it reduces his liberties by one.]
+;W[eo];B[co];W[cp];B[bo];W[bp];B[bj];W[ci];B[ai]
+C[I guess he's trying to make an eye here but it really doesn't accomplish much.]
+;W[cm];B[bm]
+(;W[ao]
+C[Black dies.]
+(;B[cq]
+C[What?];W[dq]V[-17.5]
+TB[aa:qa][ab:gc][ib:qb][jc:mc][ad:ed][ld:le][ae][de][ge:ke][ef:ei][gf:ih][mf:ms][jg:lh][lj:lk][nj:ns][ok:os][pl:ss][kp:lr][ls]
+TW[ra:si][hb:hd][ic:id][nc:qh][fd:ff][gd][jd:kd][md:me][be:cs][ee][af:as][df:ds][jf:lf][fi:fs][pi:qj][ej:es][gj:hs]
+)
+(;B[bn]
+(;W[bl];B[bk];W[al];B[ak];W[an];B[am];W[bl];B[al];W[bi])
+(;W[an]
+(;B[am];W[ap];B[bl];W[ak])
+(;B[bl];W[ak];B[am];W[ap]))))
+(;W[db];B[ec];W[fc];B[fb]))
+(;B[co];W[cp]))
+(;B[cm];W[cn];B[dn];W[en];B[do];W[eo];B[co];W[bn];B[bo];W[bm];B[an];W[bl]
+;B[bk];W[bj]))
+(;B[gh];W[fh];B[fi];W[fg];B[gi]
+C[Now I better understand why the one-point jump from a wall of three is so vital.]
+))
+(;B[ci]
+(;W[ch];B[bh]
+(;W[di];B[bi];W[bg];B[cf];W[cg];B[bf];W[af];B[bj])
+(;W[bg];B[cf]
+(;W[bf];B[bi];W[ae];B[ag])
+(;W[bi];B[bf])))
+(;W[di];B[ch];W[ej];B[dk];W[fi];B[fj];W[ek];B[fh];W[gi];B[gh];W[hh];B[gg]
+;W[gf])))
+(;W[ci];B[cj];W[bi];B[bj]))
+(;B[di];W[ei];B[fi];W[ej];B[ek];W[fj];B[gj]))
+(;B[fg];W[gf];B[gg];W[hf];B[la];W[if];B[lc];W[dh];B[di];W[eh];B[fh];W[ei]
+;B[fj]))
+(;W[ce];B[ed]
+(;W[df];B[fe];W[dd];B[ec];W[de])
+(;W[fe];B[df];W[ef];B[eg];W[ff];B[fg];W[dg];B[cf];W[gf]
+(;B[hf];W[gg])
+(;B[hg];W[hf];B[la];W[if];B[lc]
+(;W[gh];B[gg];W[eh];B[ih];W[hh];B[ig];W[ii];B[jh];W[ji];B[kh];W[ki];B[lh]
+;W[li];B[mh];W[mi];B[nh];W[ni];B[oi];W[oh];B[mg];W[ng];B[fh];W[fi];B[gi]
+;W[hi];B[gj];W[dh];B[ei];W[fj];B[fk];W[ej];B[ek])
+(;W[mg])))))
+(;W[cd];B[ed];W[ee];B[ec];W[df];B[fe]))
+(;W[ha]
+(;B[hc];W[gc];B[ia];W[ic];B[ga];W[hc];B[fe];W[ed];B[eb])
+(;B[gc];W[hc])
+(;B[ic];W[hc])
+(;B[ga];W[hc])
+(;B[ia];W[hc]))
+(;W[hc];B[ha]))
+(;W[fb];B[ib];W[gc];B[hc];W[ic];B[hb];W[fg])
+(;W[gc]
+(;B[fb];W[hb];B[ib]
+(;W[ha];B[ic];W[hc]
+C[Best variant.])
+(;W[hc];B[ha]))
+(;B[hb];W[fb])
+(;B[ga];W[fb];B[fa];W[eb];B[ea];W[cb]
+(;B[db];W[dc];B[da];W[ca])
+(;B[da];W[ca];B[db];W[hb];B[dc];W[cc];B[ec];W[fc];B[ed];W[ee];B[fe];W[ha]
+;B[gg]))))
+(;W[ic];B[ib];W[hb];B[ie];W[he]
+(;B[hf];W[if];B[la];W[jf];B[lc];W[hg])
+(;B[jf];W[jg];B[la];W[if];B[lc];W[hg])
+(;B[if];W[hf];B[ig])))
+(;B[ic];W[hc];B[ie];W[hd];B[kb]))
+(;B[nf];W[ke];B[lf]))
+(;W[mb];B[rc];W[re];B[sb];W[sd];B[ra]))
+(;W[oe];B[nd];W[me];B[nf];W[mf];B[of];W[pf]
+(;B[mg];W[ng];B[og];W[oh])
+(;B[ng];W[mg];B[nh];W[mh];B[ph];W[pi];B[oh];W[qh];B[qg];W[qf];B[re];W[rf]
+)))
+(;B[le];W[me];B[nd];W[mf];B[lf];W[oc];B[od];W[pc];B[qc]))
+

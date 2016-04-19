@@ -1,0 +1,31 @@
+(;GM[1]FF[4]SZ[9]AP[SmartGo:0.6.6]CA[utf-8]
+GN[04-17-Garysan]
+PW[Garysan]WR[14k]
+PB[sartak]BR[16k]
+DT[2016-04-18]
+PC[OGS: http://online-go.com/game/4931127]
+KM[5.5]
+RE[W+1.5]
+CP[online-go.com]
+RU[japanese];B[ee];W[gc]
+C[Taking a corner on the star point like this seems really slow.]
+(;B[ec];W[ge];B[gg];W[eb];B[db];W[fb]
+(;B[dd]
+C[This strikes me now as a very strange move. A would have been better, but I guess I felt it was too slow.]
+LB[dc:A];W[ff];B[eg];W[ef];B[fg];W[df];B[fe];W[gf];B[hf];W[he];B[dg];W[ce]
+;B[cd];W[be];B[bd];W[ae];B[bg]
+C[At this point I was okay with the game. White had a long chain across the board but only one real corner.]
+;W[ad]
+(;B[bc];W[ac];B[bb];W[ab]
+C[This reduction was quite aggravating.];B[de];W[cf]
+(;B[fd]
+C[I don't know how I missed the atari. But it probably cost me the game, since it was extremely close.]
+;W[hg];B[hh];W[if];B[gd];W[hd];B[fc];W[hb];B[da];W[ea];B[cg];W[ih];B[hi]
+;W[ag];B[ah];W[af];B[bh];W[ig];B[ba];W[ii];B[gh];W[];B[])
+(;B[if]))
+(;B[ab];W[ac];B[bb];W[bc];B[cc]))
+(;B[dc]))
+(;B[fd]
+C[I bet playing the 4-4 would have punished effectively; you can take a small corner, I'll take the rest of the board.]
+))
+

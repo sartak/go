@@ -1,0 +1,66 @@
+(;GM[1]FF[4]SZ[9]AP[SmartGo:0.6.6]CA[utf-8]
+GN[4930975-064-epiphi-sartak]
+PW[epiphi]WR[7k]
+PB[sartak]BR[16k]
+DT[2016-04-18]
+PC[OGS: http://online-go.com/game/4930975]
+KM[5.5]
+RE[W+R]
+CP[online-go.com]
+RU[japanese];B[ee]
+C[I've heard tengen is the best 9x9 opening];W[fc];B[dg]
+C[Mirror go!];W[cd];B[gf]
+C[MIRROR GO!];W[ge];B[gd]
+C[Here I deviate because it looks like I can attack the heck out of this stone.]
+;W[fe];B[fd]
+(;W[ff];B[fg];W[hf]
+(;B[ef]
+C[I was happy I didn't reflexively extend. Let white take the corner with a crappy shape while I get the rest of the board.
+
+I didn't read it out, but avoiding capture would have really hurt.]
+;W[gg];B[ec];W[fb];B[eb];W[hc]
+(;B[he]
+C[Now taking advantage of that awful shape!];W[gf];B[hd];W[fh];B[eh];W[hh]
+(;B[gb]
+C[I liked this move when I played it, but it looks like the other attack would have worked out better in my favor.]
+;W[gc];B[fa]
+C[At this point of the game I'm VERY happy. White has about seven points of territory, I have about fifteen and a GIANT WALL.]
+;W[cg]
+C[Here's where it starts to go wrong.];B[cf];W[ie]
+C[White takes a liberty to set up a forcing move, but also threatens to connect so I have to respond.]
+;B[id];W[dd];B[ed];W[cb]
+C[I wasn't sure how to respond to that. I decided to play it safe, and I seem to recall that playing on the fourth bamboo-joint is good.]
+(;B[db];W[bf]
+(;B[bg]
+C[This was a stupid move on my part.];W[ch];B[be];W[dh]
+(;B[ei]
+C[This move lost me the game.];W[eg]
+(;B[bc]
+C[Also terrible was this move. I think I tried to play it as a ko threat but instead I should have just avoided capture.]
+;W[df]
+C[This really let white cut me to ribbons.];B[ce];W[de]
+(;B[cc];W[bd]
+C[Nice move, I didn't have time to connect due to being in atari.]
+(;B[af];W[ad]
+(;B[if];W[ig];B[bh]
+C[I was sure my lower left was hopeless but it was worth finishing the game.]
+;W[ae];B[bf];W[ac];B[bb];W[ab];B[ci];W[dc];B[ca];W[dg];B[bi];W[ah]V[-19.5]
+TB[ba:ib][bc:cc][ec:id][ee:ef][he:ie][if]
+TW[ab:ai][dc:di][bd:ci][fe:gi][hf:hi][eg:ei][ig:ii])
+(;B[ae];W[bh];B[ah]))
+(;B[ad];W[ae];B[ac]))
+(;B[bd];W[bh];B[ag];W[cc];B[bb];W[ba];B[ab];W[ad];B[ae]))
+(;B[df]))
+(;B[eg];W[ei];B[bh];W[fi];B[di];W[ci];B[bi];W[di];B[bd];W[ce];B[af];W[bc]
+;B[cc]TR[fc:gc];W[dc];B[de];W[cc];B[ab];W[ac];B[ca];W[ba];B[da];W[ad];B[ae]
+)
+(;B[af];W[eg];B[df];W[fg];B[bd];W[bc];B[ac]))
+(;B[ch];W[bg];B[ce];W[be];B[cc];W[dc];B[bc];W[bd];B[bb];W[bh];B[bi];W[ah]
+;B[eg];W[ac];B[ab];W[ad];B[af]))
+(;B[bd];W[ce];B[be];W[bf];B[df];W[bg];B[cc];W[dc];B[bc];W[db];B[bb])
+(;B[be];W[bd];B[dc];W[cc]))
+(;B[gc];W[gb];B[hb];W[cg]))
+(;B[hd];W[he]))
+(;B[gg];W[ef];B[de];W[df];B[cf];W[eg];B[eh];W[cg];B[dh];W[ce];B[dd]))
+(;W[ed];B[ff];W[he];B[hd];W[hf];B[hg]))
+
