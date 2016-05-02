@@ -30,8 +30,6 @@
     <script src="glift_1_0_6.min.js"></script>
 
     <script type="text/javascript">
-        document.getElementById('sgf-download').href = getParameterByName('sgf');
-
         function getParameterByName(name, url) {
             if (!url) url = window.location.href;
             name = name.replace(/[\[\]]/g, "\\$&");
@@ -57,6 +55,8 @@
         window.addEventListener('resize', function(event){
           gliftWidget && gliftWidget.redraw();
         });
+
+        document.getElementById('sgf-download').href = getParameterByName('sgf');
     </script>
   </body>
 </html>
