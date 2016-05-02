@@ -21,9 +21,12 @@
         <div id="board"></div>
     </div>
 
+    <a id="sgf-download" href="#">Download SGF</a> | <a href="http://github.com/sartak/go-games">All games</a>
     <script src="glift_1_0_6.min.js"></script>
 
     <script type="text/javascript">
+        document.getElementById('sgf-download').href = getParameterByName('sgf');
+
         function getParameterByName(name, url) {
             if (!url) url = window.location.href;
             name = name.replace(/[\[\]]/g, "\\$&");
