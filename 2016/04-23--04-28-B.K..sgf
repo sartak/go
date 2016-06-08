@@ -1,4 +1,4 @@
-(;GM[1]FF[4]SZ[19]AP[SmartGo:0.6.6]CA[utf-8]
+(;GM[1]FF[4]SZ[19]AP[SmartGo:0.6.7.1]CA[utf-8]
 GN[04-23--04-28-B.K.]
 PW[sartak]WR[15k]
 PB[B.K.]BR[18k]
@@ -7,28 +7,164 @@ PC[OGS: http://online-go.com/game/5000513]
 KM[6.5]
 RE[W+10.5]
 CP[online-go.com]
-RU[japanese];B[pd];W[dp];B[pq];W[dd];B[fq];W[cn];B[dr];W[cq];B[iq];W[po]
-;B[ci];W[ck];B[cf];W[fc];B[bd];W[cc];B[kc];W[dg];B[cg];W[dh];B[pj];W[ch]
-;B[bh];W[di];B[bi];W[ce];B[be];W[gp];B[gq];W[hp];B[ip];W[hq];B[hr];W[io]
-;B[fp];W[fo];B[ep];W[eo];B[dq];W[do];B[cr];W[bq];B[qm];W[no];B[om];W[mm]
-;B[mp];W[np];B[nq];W[oq];B[or];W[op];B[nr];W[mo];B[lp];W[lo];B[jo];W[in]
-;B[jn];W[ko];B[im];W[hn];B[ll];W[kp];B[kq];W[jp];B[km];W[jq];B[ir];W[lq]
-;B[mq];W[lr];B[ml];W[nk];B[nj];W[mk];B[lk];W[mj];B[ni];W[lh];B[mh];W[li]
-;B[lf];W[qq];B[qr];W[rq];B[rr];W[sr];B[mr];W[kr];B[qp];W[pp];B[pr];W[rp]
-;B[ms];W[os];B[ss];W[rs];B[qs];W[qo];B[jg];W[ji];B[jj];W[jl];B[il];W[ii]
-;B[ij];W[hi];B[hj];W[gj];B[go];W[gn];B[ho];W[gk];B[gm];W[hm];B[hl];W[fn]
-;B[gl];W[lg];B[lj];W[mi];B[mn];W[mg];B[ng];W[mf];B[me];W[nf];B[og];W[of]
-;B[pg];W[pf];B[qf];W[od];B[oc];W[nd];B[nc];W[md];B[ld];W[kf];B[le];W[jf]
-;B[hc];W[hd];B[gb];W[id];B[ic];W[nl];B[nm];W[nh];B[oh];W[oj];B[oi];W[ok]
-;B[qk];W[fk];B[fb];W[eb];B[df];W[ef];B[de];W[ee];B[gc];W[fd];B[gd];W[ge]
-;B[bc];W[bb];B[ab];W[ba];B[bk];W[cj];B[cl];W[bj];B[aj];W[bl];B[ak];W[al]
-;B[ag];W[ai];B[br];W[ar];B[cd];W[dc];B[qe];W[pe];B[pc];W[mc];B[mb];W[lc]
-;B[kd];W[lb];B[kb];W[nb];B[ob];W[na];B[oa];W[ma];B[jd];W[je];B[jr];W[js]
-;B[is];W[ks];B[pk];W[sm];B[rn];W[sn];B[rl];W[sl];B[sk];W[so];B[ro];W[sp]
-;B[rk];W[kj];B[kk];W[ki];B[rm];W[qp];B[fl];W[el];B[ek];W[em];B[hk];W[gi]
-;B[ne];W[oe];B[ka];W[fm];B[jk];W[fa];B[ga];W[ea];B[ss];W[sq];B[ol];W[mh]
-;B[la];W[mb];B[ah];W[aj];B[on];W[kq];B[kn];W[ls];B[pn];W[ns];B[ln];W[rs]
-;B[aq];W[ap];B[ss];W[hp];B[qn];W[rs];B[ie];W[ps];B[if];W[kg];B[he];W[gf]
-;B[ig];W[hg];B[hf];W[gg];B[ih];W[gp];B[hq];W[hh];B[jh];W[aq];B[bs];W[];B[]
+RU[japanese];B[pd];W[dp];B[pq];W[dd];B[fq];W[cn];B[dr];W[cq];B[iq]
+C[I think this should have been on the fourth line?];W[po]
+C[Playing the biggest side.];B[ci];W[ck]
+C[I think I pushed from the wrong direction. If I played C13, then I could have attacked when he played his two space base.]
+;B[cf];W[fc];B[bd];W[cc];B[kc]
+C[Well placed; gives him room to make a base on either side.];W[dg]
+C[Shoulder hit to start to build up the outside and to seal black in.];B[cg]
+;W[dh];B[pj]
+C[Dude's opening is way better than mine. Though I think he could have been more severe by playing Q7.]
+;W[ch];B[bh];W[di];B[bi];W[ce];B[be];W[gp]
+C[Another shoulder hit for the same reason.];B[gq];W[hp];B[ip];W[hq];B[hr]
+;W[io]
+C[I would not play this hane today.];B[fp];W[fo];B[ep];W[eo]
+C[Though black didn't punish me for that hane.];B[dq]
+(;W[do]
+C[My response should have been at C4 instead.];B[cr];W[bq];B[qm]
+C[There's the pincer…];W[no];B[om];W[mm]
+C[Really not sure why I went this way. I guess I didn't want to get sealed in and/or give black a gigantic moyo.]
+;B[mp];W[np];B[nq];W[oq];B[or];W[op];B[nr];W[mo];B[lp];W[lo];B[jo]
+C[Trying the cut, though I'm not sure why, neither of my groups are in danger.]
+;W[in];B[jn]
+(;W[ko];B[im]
+(;W[hn]
+C[Yuck! Have to play a poor shape move to protect against double atari.]
+;B[ll];W[kp]
+C[Causing trouble >:) He can't protect both sides.];B[kq];W[jp];B[km]
+(;W[jq]
+C[Much more interesting stuff happens if I atari the other way! I didn't even see it during the game, but I saw it here immediately. Getting better!]
+;B[ir];W[lq];B[mq];W[lr];B[ml]
+(;W[nk]
+C[Why am I playing here at all? 
+
+Much better would be to attack with R3!!! I can easily kill, looks like.]
+;B[nj];W[mk];B[lk];W[mj];B[ni];W[lh];B[mh];W[li];B[lf];W[qq]
+C[Oh good! I do kill this group. Phew.];B[qr];W[rq];B[rr];W[sr];B[mr];W[kr]
+;B[qp];W[pp];B[pr];W[rp];B[ms];W[os]
+(;B[ss]
+C[This sure doesn't work.];W[rs];B[qs]
+(;W[qo]
+C[No need to take this stone; even if he tries to escape I ladder. If I feel compelled to play here S5 is surely better.]
+;B[jg]
+C[And sure enough he tenukis.];W[ji]
+C[Man I was a fool to play those stones. It built up a huge black corner, and by attacking them he's going to profit lots. This center situation caused me a lot of grief, and rightly so.]
+;B[jj];W[jl]
+C[What the heck am I doing?];B[il];W[ii];B[ij];W[hi];B[hj];W[gj];B[go]
+(;W[gn]
+C[Glad I played this way because trying to save the three stones would have been a disaster.]
+;B[ho]
+(;W[gk]
+C[This seems a little slow; one line down would have been better?];B[gm]
+(;W[hm];B[hl];W[fn];B[gl];W[lg]
+C[Now I decide to start crawling into black's corner to reduce it.];B[lj]
+;W[mi];B[mn];W[mg];B[ng];W[mf];B[me]
+C[He's playing too close, leaving lots of defects.];W[nf];B[og];W[of];B[pg]
+;W[pf]
+C[I'm halving his territory, not bad.
+
+I do wonder if a 3-3 invasion at this point would have been better.]
+;B[qf];W[od];B[oc];W[nd];B[nc];W[md];B[ld];W[kf];B[le];W[jf];B[hc]
+C[Looks (to me, now) like he's trying to make eyespace.];W[hd];B[gb];W[id]
+;B[ic]
+C[I'm fine with that; it helps solidify a giant corner for me.];W[nl]
+C[Now crawling as much as I can just to reduce.];B[nm];W[nh];B[oh]
+(;W[oj]
+C[This was gote.];B[oi];W[ok];B[qk];W[fk]
+C[Trying to seal him in.];B[fb];W[eb];B[df];W[ef];B[de];W[ee]
+C[Certainly fine giving up a stone (which still has aji) to seal him in. ]
+;B[gc];W[fd]
+C[Trying not to leave defects!];B[gd];W[ge];B[bc];W[bb];B[ab];W[ba];B[bk]
+;W[cj];B[cl]
+C[This was an overplay.];W[bj];B[aj];W[bl]
+(;B[ak];W[al]
+C[Here he asked for an undo, but I didn't grant it because it's a correspondence game. So, certainly not a misclick but a misread.
+
+It was a pretty close game; it may have been the losing move.]
+;B[ag];W[ai];B[br]
+(;W[ar]
+C[Certainly too early for such small endgame moves.];B[cd];W[dc]
+(;B[qe]
+C[Definitely should have gotten this move in before him!
+
+He can't play Q15 because his P13 group is too weak.]
+;W[pe];B[pc];W[mc]
+(;B[mb];W[lc];B[kd]
+C[He has to fix a defect here instead of blocking. Which means N18 was an overplay.]
+;W[lb];B[kb];W[nb];B[ob];W[na];B[oa];W[ma];B[jd]
+C[Now I recognize this as making eyespace.];W[je];B[jr];W[js];B[is];W[ks]
+;B[pk];W[sm]
+C[This monkey jump nearly cost me the game because of the capturing race that it triggers.]
+;B[rn]
+C[This monkey jump is rather tricky to deal with.];W[sn];B[rl];W[sl];B[sk]
+;W[so];B[ro];W[sp];B[rk];W[kj]
+C[I could have started playing the capturing race but I knew I had it.];B[kk]
+;W[ki];B[rm]
+C[There's a capturing race in this corner; have to be very careful, I can't fall a move behind.]
+;W[qp];B[fl];W[el];B[ek]
+C[I don't see any virtue in this move.];W[em];B[hk];W[gi];B[ne];W[oe];B[ka]
+;W[fm];B[jk]
+C[Unfortunately he saw my attack :) But hey, sente!];W[fa];B[ga];W[ea];B[ss]
+;W[sq]
+C[Filling to avoid a double ko.];B[ol]
+C[This is not a ko threat. I'm not sure why he took the ko so early.];W[mh]
+;B[la];W[mb];B[ah];W[aj];B[on]
+C[This is a sneaky move that helps the capturing race along, so I respond in kind.]
+;W[kq];B[kn];W[ls];B[pn];W[ns];B[ln];W[rs];B[aq]
+C[This was a weak ko threat. I should have taken.]
+(;W[ap];B[ss]
+(;W[hp]
+C[A better ko threat would have been A14, and it also  has a followup threat at B14 if needed.]
+;B[qn];W[rs];B[ie];W[ps]
+C[I must've just been getting sick of the anxiety so I finished the ko.]
+;B[if];W[kg];B[he];W[gf];B[ig];W[hg];B[hf];W[gg];B[ih]
+C[I think he forgot about my threat, since this move is 1 point.];W[gp];B[hq]
+;W[hh];B[jh];W[aq];B[bs];W[];B[]
+C[I'm not sure how I won this game, frankly.]V[-13.5]
+TB[ga:la][oa:sc][ab:ah][fb:kb][bc:bi][gc:kd][nc][cd:cg][ld:lf][pd:sd][de:df][he:if][me:ne][qe:rn][se:sk][ig:jh][ng:pg][oh:pi][ci][ni:nj][hj:jl][lj:ln][pj:pn][kk:kn][fl:gl][ml:mn][ol:on][gm][im:jm][nm][jn:jo][ro][ep:fs][ip:is][dq:ds][gq:hs][br:cs][jr]
+TW[aa:fa][ma:md][na:nb][bb:eb][lb:lc][cc:fc][dd:fd][nd:od][ee:eo][fe:gk][je:kf][oe:pf][mf:mk][nf][dg:dp][hg:hi][kg:lg][ch][lh:li][nh][ai:as][ii:ki][bj:cq][kj][oj:ok][nk:nl][sl:ss][fm:fo][hm:hp][gn:gp][in:io][ko:ns][po:qs][jp:jq][op:os][rp:rs][js]
 )
+(;W[af]))
+(;W[ps];B[as];W[ap];B[ar];W[bp]))
+(;B[lc];W[mb]))
+(;B[pe];W[qg];B[qh];W[rg];B[rf];W[rh];B[ri];W[pi];B[ph];W[qi]))
+(;W[qe]
+(;B[pe];W[qg];B[rf];W[rg];B[re];W[qd];B[rd];W[qc];B[pc];W[rc];B[qb]
+(;W[sd])
+(;W[rb];B[pb];W[sd];B[ra];W[se];B[sb];W[sf]))
+(;B[qd];W[pe];B[re];W[rf];B[qg];W[rd])))
+(;B[ai];W[ak]
+(;B[ag])
+(;B[bg];W[af];B[bf];W[ae];B[ad])))
+(;W[pl];B[ql];W[pm];B[pk];W[ol];B[nn];W[ln];B[lm];W[on];B[mm]))
+(;W[gl];B[hm]
+(;W[fm])
+(;W[fn];B[fm])))
+(;W[gl]
+(;B[gk];W[fk];B[hk];W[fj];B[fl];W[el];B[fm];W[gm];B[em];W[dm];B[hm];W[fn]
+;B[dl];W[ek])
+(;B[gm];W[hm];B[fm];W[hl])))
+(;W[ho];B[gn];W[hm]
+(;B[hl])
+(;B[gm];W[hl];B[gl];W[hk];B[gk];W[ik];B[jk])))
+(;W[ro])
+(;W[as];B[qo];W[qn];B[ro];W[rn];B[so];W[sn];B[sp];W[sq]))
+(;B[rs];W[ps]))
+(;W[qq]
+(;B[qp];W[pp]
+(;B[pr];W[qo];B[rp];W[rq];B[ro];W[rn];B[qr];W[rr])
+(;B[qr];W[pr];B[ps];W[pq];B[rq];W[rr];B[qs];W[rp];B[sq];W[rs];B[os];W[mr]
+;B[qo];W[ns];B[sp];W[ro];B[qn];W[so]))
+(;B[pr];W[qr];B[qp])
+(;B[qr];W[rq];B[rr];W[sr];B[ps];W[rs];B[qs];W[sq];B[ss];W[ns];B[ms];W[mr]
+;B[os];W[kr])))
+(;W[ir]
+(;B[jq];W[gr];B[fr];W[hs])
+(;B[gr];W[jr];B[jq];W[lq]
+(;B[mq];W[kr])
+(;B[kr];W[lr]))))
+(;W[hm];B[ho]))
+(;W[jm]))
+(;W[cp]))
 
