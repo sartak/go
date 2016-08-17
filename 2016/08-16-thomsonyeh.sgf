@@ -7,27 +7,397 @@ PC[OGS: http://online-go.com/game/6104149]
 KM[6.5]
 RE[W+R]
 CP[online-go.com]
-RU[japanese];B[qd];W[dd];B[dp];W[pp];B[nc];W[qi];B[qn];W[nq];B[rp];W[qq]
-;B[qk];W[qf];B[oj];W[pd];B[pc];W[od];B[oc];W[qe];B[nd]
-(;W[of];B[ne];W[qc];B[rd];W[rc];B[ic];W[fc];B[he];W[df];B[cj];W[cn];B[fp]
-;W[bp];B[cq];W[cl];B[em];W[dk];B[dj];W[ek];B[fj];W[ej];B[ei];W[fi];B[fh]
-;W[gi];B[eh];W[ch];B[fk];W[di];B[ci];W[dh];B[ck];W[dl];B[bh];W[bg];B[ah]
-;W[ag];B[aj];W[bk];B[bj];W[bl];B[cg];W[dg];B[cf];W[bi];B[hh];W[gh];B[ef]
-;W[de];B[ff];W[fl];B[el];W[gl];B[hj];W[gj];B[hk];W[gk];B[ng];W[hp];B[hq]
-;W[ip];B[im];W[gq];B[iq];W[jq];B[gr];W[fq];B[ds];W[fr];B[fs];W[hr];B[gs]
-;W[hs];B[es];W[ir];B[gn];W[fo];B[go];W[ep];B[gp];W[eo];B[eq];W[er];B[dq]
-;W[dr];B[cr];W[cs];B[io];W[jo];B[on];W[hn];B[ho];W[hm];B[in];W[km];B[kn]
-;W[ln];B[ko];W[lm];B[lo];W[mn];B[no];W[jn];B[jm];W[jp];B[mo];W[jl];B[il]
-;W[kk];B[ml];W[hi];B[ii];W[jj];B[ij];W[ji];B[ih];W[nn];B[oo];W[nl];B[mk]
-;W[nk];B[mj];W[nj];B[mi];W[ni];B[oi];W[nh];B[oh];W[mh];B[ki];W[jh];B[kh]
-;W[jg];B[kg];W[jf];B[kf];W[hg];B[ig];W[if];B[hf];W[gg];B[do];W[hl];B[ik]
-;W[jk];B[fn];W[om];B[pm];W[pl];B[ql];W[pk];B[pj];W[mg];B[nf];W[og];B[qj]
-;W[mf];B[le];W[ie];B[hd];W[jd];B[kc];W[jc];B[jb];W[kd];B[kb];W[ld];B[me]
-;W[lc];B[mb];W[lb];B[la];W[id]
-(;B[ke];W[ib];B[hc];W[ka];B[ja];W[ia])
-(;B[hb];W[ke]
+RU[japanese];B[qd]
+C[I'm playing as white. Each player has 10 minutes main time, then 5 byo-yomi periods of 30 seconds, so a somewhat quick game.]
+;W[dd];B[dp];W[pp];B[nc]
+C[I'm used to seeing this stone at P17 instead, but I'm sure this is fine too.]
+;W[qi]
+C[If white approaches the top right corner any closer, there's a risk of being pincered. Any further away is cowardly and gives territory to black for free.]
+;B[qn]
+C[Black splits my stones, not wanting to give me a giant lower right side.]
+(;W[nq]
+C[White plays defensively.];B[rp]
+C[Black tries to get the corner.];W[qq]
+C[White blocks.];B[qk]
+C[Black makes a base and also puts pressure on the R11 stone, so I must strengthen it.]
+;W[qf]
+C[This two-space jump makes a base for the pressured stone.];B[oj]
+C[Black begins attacking the two white stones.];W[pd]
+C[The usual move here is jumping out with P14, but instead since O17 is farther away, I attach to his stone. This leaning attack helps white build up some strength to deal with black's attack from the bottom.]
+;B[pc]
+C[Perfectly ordinary response from black to defend against the attack.];W[od]
+C[The obvious move for white.];B[oc]
+C[Black is obligated to connect. If black had, instead of playing farther away on turn 5, played the expected move here, I wouldn't have been able to build up this strength.]
+;W[qe]
+C[This threatens to capture the lone black stone with R17, as well as building good shape for white.]
+(;B[nd]
+C[I think black should play at P14 instead to disrupt white's shape.]
+(;W[of]TR[od:pd][qe:qf][of]
+C[These five stones form a strong shape.];B[ne]
+C[White can ignore this move as it doesn't have a great followup.]
+(;W[qc]
+C[Black left this stone undefended, so capturing this will make my group completely safe and free from further attack.]
+;B[rd]
+C[Black struggles but there's no saving it.];W[rc]
+(;B[ic]
+C[Black begins to try to make use of his wall to sketch out a large territory. I think black can play a little further from the wall to stake a claim for more; H17 is the spot that draws my attention because it's the farthest away from the wall that doesn't permit white an easy base inside.]
+(;W[fc]
+C[I wasn't sure where to play this move. G17 was my other candidate, but I figured it's better to play a little defensively.]
+;B[he]
+C[Black continues to sketch out a large box of potential territory.];W[df]
+C[White allows it and takes a large corner territory.];B[cj]
+C[Black continues building.
+
+I think this stone is one line off; C9 would let him make a two-space extension from either direction.]
+;W[cn]
+C[But in the game move, when white pushes black from the bottom upwards, his base is already under attack by the D14 stone and that'll be problematic. So that's why I chose this direction rather than F3. Black's lone C10 stone doesn't have any good options here.]
+(;B[fp]
+C[Black answers my approach of the corner. I think F3 would be better instead of this, since the bottom right is white's. So black is being a little greedy.]
+;W[bp]
+C[White tries to take the corner.];B[cq]
+C[Black says no.];W[cl]
+C[White jumps up to make a base. Ordinarily the move is at C9 instead, but the black stone at C10 means I have to play a little cramped. It's not too bad, and this move attacks the C10 stone, so white's in no danger.]
+;B[em]
+C[Here black is trying to enclose white into a small area.];W[dk]
+C[But white can lean on the lone black stone to escape.];B[dj];W[ek];B[fj]
+C[This one point jump felt a little premature. The proverb is "1-2-3 jump". Jumping from only two stones is dangerous.]
+;W[ej]
+C[So I immediately poke through his jump with the full intention of cutting.]
+;B[ei]
+C[Black blocks but he's left two cutting points, at F11 and D11.]
+(;W[fi]
+C[White takes advantage of one of them; I picked this one because this white stone can run out, whereas a cutting stone at D11 would be captured in a ladder.]
+;B[fh]
+C[Black takes his free move (since I must respond or my cut was a waste, and black would have an intolerably strong position in the middle).]
+;W[gi]
+C[White must save the cutting stone.
+
+Again black is left with two cutting points himself.]
+(;B[eh]
+C[Black fixes one of the cuts, though I think fixing both with D12 instead might've been better, even though it's bad shape.]
+;W[ch]
+C[I'm very happy with this move; it has a good relationship with my large top-left corner (it's the natural extension from D14 and also stops black from coming into the corner from underneath). This white stone is also right on the vital point for black's shape. If black plays elsewhere, white can then cut at D11.]
+(;B[fk]
+C[Since black played elsewhere…];W[di]
+C[…white must cut.
+
+Incidentally this helps deal with the problem that black's previous move caused (trying to save the cutting stone, F10). By capturing D10 and C10, white can connect two of the three groups in the neighborhood and be free from attack. The third group, F11, is weak. But having only one weak group on the board is okay. Any more than that causes trouble.]
+;B[ci]
+C[Black begins struggling since he's been cut and now must try to find two eyes.]
+;W[dh];B[ck];W[dl]
+C[I'm playing very solidly to defend against any possible cuts.];B[bh]
+C[Black tries to find more eyespace.]
+(;W[bg]
+C[White blocks black from taking any more eyespace. This move ended up causing me difficulty. It probably would have been better for me to extend once at C13 to protect my D12 group with only two liberties first, then block. It looks like black still does not have enough room to live, even if I were to play these more defensive moves.]
+;B[ah];W[ag]
+C[I play this to threaten the B11 cut and capture. Black cannot cut with C13 quite yet (see variation).]
+(;B[aj]
+C[Black protects the B11 cut while trying to make eyeshape.];W[bk]
+C[White sticks in to prevent black from making eyes.
+
+I didn't read this out as carefully as I should have, but it turns out white is safe playing this. The C13 cut still doesn't work because this B9 stone gives white's throw-in stone extra liberties.]
+(;B[bj]
+C[Black makes one eye, but you need two to live.]
+(;W[bl]
+C[After black's B10, white absolutely must defend the B9 stone from being captured.
+
+But now the question is, what about the C13 cut? The only thing that had been saving it was the B11 counterattack, which is no longer an option.]
+;B[cg]
+C[Black tries it!];W[dg]
+C[White must defend the stones in atari, or else black becomes safe by capturing them.]
+;B[cf]
+C[Black must defend his own cutting stone in atari, or his C10 group is dead.]
+;W[bi]
+C[White throws a stone in, to atari the two-stone group at A12. Capturing those two stones would save white's two stones at A13 from being captured, as well as kill the C10 group. So black must take it. But I played it to reduce his liberties by one for free.
+
+So even if black captures the throw-in stone, he loses the capturing race (see variation) by one liberty. The C13 cut still did not work. So black should give up all the stones on the left edge of the board. Leaving them on the board would be a useful ko threat later.]
+(;B[hh]
+C[Black does rightly give up on those stones.
+
+Now, E12 and F11 are the weakest groups on the board. Black decides to initiate a running fight between them. Luckily for him, he has a lot of nearby support starting with H15, so white is at a disadvantage.]
+;W[gh]
+C[First, white decides to cause some shenanigans with another poke into a premature 1-2-jump.]
+(;B[ef]
+C[Black's move here is good; it saves his stones while also threatening to capture the D12 group.
+
+If black played the obvious response: blocking at G13, he would have lost his three stones.]
+(;W[de]
+C[So because White's D13 is very short on liberties, I decided to connect solidly instead of risk everything by counterattacking, such as by playing at F13 instead.]
+;B[ff]
+C[Black makes a bamboo joint to connect his stones to safety.];W[fl]
+C[While Black did successfully settle his weakest group, unfortunately he left his second weak group unsupervised; by attacking and capturing these cutting stones, white's weakest group can connect up to a strong group. This would leave white with no more weak groups on the board.]
+(;B[el]
+C[Black's cut here is ill-considered; it lets white capture the two stones, and thus connect anyway.
+
+If Black had instead worried about his weak stones he could have kept the pressure on my weak group and profited.]
+(;W[gl]
+C[This move captures the two black stones.
+
+G9 would have been better since it gives black only one forcing move instead of the next two moves.]
+;B[hj]
+C[Black knows this and plays moves that force me to capture while he gets to build the middle more.]
+;W[gj];B[hk];W[gk]
+C[Black's large box in the top middle of the board is looking pretty formidable, so perhaps there was still valuable profit in giving up the cutting stones.
+
+The score estimator has white up by 26 points here (mostly because of the big capture on the middle left) but it's still too early to tell.]
+;B[ng]
+C[Black played here to induce me to defend at P13, so he could follow by pushing downwards to solidify his walls even more. But my stones are safe; I can ignore this move.]
+;W[hp]
+C[... and instead play on the most open area of the board. I play on the fourth line rather than the third line at H3 because running out will help me reduce black's potential territory in the middle. Playing on the third line would mean settling for being enclosed against the bottom side.]
+(;B[hq]
+C[White's move is annoying for black to deal with. I'm not sure what I would have played in his stead. Maybe H6 to continue taking the middle, giivng up the bottom side to white.]
+;W[ip]
+C[White strengthens towards the middle rather than the corner to prepare for reducing it.]
+;B[im]
+C[Black senses my strategy and begins defending his middle.];W[gq]
+C[But in playing elsewhere, he'd left his single stone undefended, so I put the pressure on. Black can't really save his one stone now, which will help white build a large bottom group which will be a launching off point for reducing black's middle.]
+;B[iq]
+C[Black struggles but the writing is on the wall.];W[jq]
+C[White blocks black from getting any more liberties.];B[gr]
+C[Black tries to run to his corner.];W[fq]
+C[Black now has to start worrying about his previously safe corner group; if he continues struggling to save his dead stones, he risks throwing away the eyespace for his corner stones, killing them.]
+(;B[ds]
+C[I don't understand why he decided to monkey jump here. E3 would have been a much better move. Sacrifice those three dead stones to secure the corner.]
+;W[fr]
+C[White doesn't need to connect at G4 since keeping the pressure on will let him connect by capturing stones.]
+;B[fs]
+C[Black continues playing out the normal monkey jump moves, but the stones from which he monkey jumped are in mortal danger, so it's wasteful.]
+;W[hr];B[gs];W[hs];B[es]
+C[Black's E1 group now has three liberties to H1's two, so Black must capture the J3 stones to avoid getting captured himself.]
+;W[ir];B[gn]
+C[Black tries to connect out since his corner stones are looking grim.
+
+But this move is a little late - white already has a lot of strength now.]
+;W[fo]
+C[And so an aggressive cut like this usually leads to good result. If black blocks one way, white escapes the other way, leaving black cut.]
+(;B[go]
+(;W[ep]
+C[This atari was probably a mistake; the stone I'm trying to capture isn't very important. It's not cutting anything, and by sacrificing it black is probably more likely to connect out.]
+(;B[gp]
+C[So there's probably a better move for black here than saving this useless stone. E5 looks good.]
+;W[eo]
+C[White must connect to build strength and to help keep the three groups separated.]
+;B[eq]
+C[During the game, I didn't appreciate the value in Black's cut here, but it turns out to be quite important.]
+;W[er]
+C[White takes the free move.];B[dq]
+C[Black must defend his cutting stone.]
+(;W[dr];B[cr]
+(;W[cs]
+C[Capturing these stones is not important, it's just points. So I lost the initiative here with this move in particular, but the last few moves are all similarly problematic.]
+;B[io]
+C[White should have ignored this move and killed the corner group once and for all with D5. Leaving this weakness there will come back to haunt me in about fifty moves. My biggest mistake in the game.]
+;W[jo]
+C[Butting up against black here will push us both upwards, which will help white can reduce black's middle.]
+;B[on]
+C[Black keeps on building.];W[hn]
+C[White again decides to cause trouble by trying to stop black from connecting. This is the sort of move that ends up getting me myself into trouble, so I should stop playing it.]
+;B[ho];W[hm];B[in]
+(;W[km]
+C[Now white decides to jump out with a knight's move. One of the first tactics you learn about go is that a knight's move can be cut. Which black immediately proceeds to do.
+
+So this move was probably an overplay and the remaining 80 moves of the game is a direct consequence of this.]
+;B[kn]
+C[Which black does immediately.]
+(;W[ln];B[ko]
+(;W[lm]
+C[This wasn't a great move; I should have descended at M5 instead to try to connect to my strong group. I suppose I was worried about blighting my K5 stone but that stone isn't important.]
+;B[lo]
+C[Now white will have a very difficult time connecting to any strong group, and so must make two eyes in the center of the board, which is very tricky. There are plenty of weaknesses in black's position so it's possible but it could also be fruitless.
+
+Then again, even if black does take the entire middle, white is still up by 41 points, so I should not have worried. I need to count more often in my games to determine my strategy.]
+;W[mn];B[no];W[jn]
+C[Here I'm asking "may I connect?" and black says no. It also cuts black which is an advantage that will be useful in my struggle to live.]
+;B[jm]
+C[Black says haha no.]
+(;W[jp]
+C[White fixes his stones in atari. But much much better would have been to push in at N5! I still can connect to my strong groups at this point.]
+;B[mo]
+C[Now the possibility of me connecting has dropped to basically zero, so I need to start exploiting defects to be able to produce two eyes.]
+;W[jl]
+C[The first defect: can I cut off these 9+ stones?];B[il]
+C[Answer: of course not.];W[kk]
+C[But that's okay, white makes it further into the middle.];B[ml]
+C[Black tries to keep the pressure on and uses the opportunity to build more territory on the right side of the board.]
+;W[hi]
+C[White asks hey, can I cut off these 12+ stones?];B[ii]
+C[Black says no.];W[jj]
+C[White asks: are you sure though?];B[ij]
+C[Black says of course.];W[ji]
+C[Repeat.];B[ih]
+C[Repeat.];W[nn]
+C[White asks: can I cut off those five stones and capture them to connect back up?
+
+I believe this is where my main time ran out and I entered the 30 seconds per move phase.]
+;B[oo]
+C[Black says no.
+
+All the while, white is building up more and more of a position to try to make just two holes.]
+;W[nl]
+C[White attacks the lone black stone that has gotten himself almost surrounded. White's goal: keep attacking this black stone until good things happen.]
+;B[mk];W[nk];B[mj];W[nj]
+C[I'm a little bit concerned at this point about the cut. Black could play O7 at any point and either way I atari, he can connect to friendly stones so I'd be separated into two weak groups and almost certainly end up having to sacrifice one of them. (Luckily black never spotted it, or never got the time to play it)]
+;B[mi];W[ni]
+C[So far so good. Now at this point there's a window of opportunity: white could now run towards the right, to survive by connecting to that strong white group.]
+;B[oi]
+C[Black blocks that exit.];W[nh]
+C[But now black has to pick one direction from which to block me. Block me from the right and I try to surround the four stones. Block from the left and I easily connect to my friendly group.]
+(;B[oh]
+C[Black chose the better way, as surrounding the four stones is going to be more challenging for white.]
+;W[mh];B[ki]
+C[Black doesn't want to get cut, and if he played the hane at M12 he'd be cut immediately and I'd easily capture his four white stones. Ditto extending to M11: I'd just surround him.]
+(;W[jh]
+C[This move was a mistake; I should have been more aggressive towards the lone black stone by hane'ing at L12.]
+;B[kh];W[jg];B[kg];W[jf]
+C[I'm happy to keep pushing because more liberties can only help me. My only goal is to make two eyes and to survive. Black isn't building much territory or influence by attacking me, so struggling has little downside for white.]
+;B[kf];W[hg]
+C[Here I think: oh, excellent, I can get out of this problem by cutting off and capturing the sixteen black stones!]
+;B[ig];W[if];B[hf];W[gg]
+C[Now I'm thrilled because the cut worked. I have so many liberties than the now seventeen black stones, so winning the capturing race should be no problem. I've won!]
+;B[do]
+C[Oh no. My heart sinks. I forgot about those stones. There's no way I can save them, and it lets the seventeen black stones I'd thought I captured survive. Now my white stones are in peril again.]
+;W[hl]
+C[Here I play this move with only one possible answer (black must connect or the game is over) to buy myself another 30 seconds of thinking time.]
+;B[ik];W[jk]
+C[This time I play this move to try to build some eyespace. Black must respond by trying to capture the otherwise inconsequential group in the bottom left, so moves like this help me build strength where I need it, for little downside.]
+;B[fn];W[om]
+C[Now I decide to deal with the cutting problem, since I will no longer be able to connect my two weak groups on the upper side of the board. This connects my stones because black can no longer play at O7 since it'd be captured immediately.
+
+This pushing outwards also helps me search for defects, which is why I played it instead of O7 itself.]
+;B[pm];W[pl];B[ql];W[pk]
+(;B[pj]
+C[Now at this point I have one gote eye, at P8. Meaning I can discard my initiative to make one of the two eyes I need. But I need to maintain initiative to be able to make that second eye, so it's too early to play at P9.
+
+Black could have prevented this eye by playing at P9 himself and forcing me to connect. See variation.]
+;W[mg]
+C[So I continue seeking defects.];B[nf];W[og]
+C[Here white asks: can I capture the four black stones at P10? Then I could connect up.]
+;B[qj]
+C[Black says nuh uh.];W[mf]
+(;B[le]
+C[This effectively stops the right-hand side of my group from continuing upwards, while also helping the black groups inside connect out.]
+(;W[ie]
+C[Here I'm leaning on black's group to try to get out. If I can capture the two black stones at H15, perhaps if black ignores my move then I play H16 my troubles are over.]
+(;B[hd]
+C[Black didn't ignore my move, but my move was still valuable. By leaning on the left I can move to the right. Without this exchange black would just cut.]
+;W[jd]
+(;B[kc]
+C[This diagonal move is dangerous because it's weak. Black needs to play strong, solid moves to stop me from making a second eye. Not L17.
+
+This may have been the move that decided the game.]
+;W[jc]
+C[This marks the third time I've pushed into a one-point jump in this game.]
+;B[jb];W[kd]
+(;B[kb]
+C[Black must respond locally to L16 (see variation).];W[ld]
+C[Here black is worried about getting sealed in, which would almost certainly mean game over.]
+;B[me];W[lc]
+C[And so white continues to push to the side of the board (where it's easier to make eyes, and it's easier to capture weak stones)]
+(;B[mb]
+C[This move was a mistake; M18 would have been better. Again black needs to play solidly; leaving defects is the worst thing you can do when trying to capture 
+a huge dragon.
+
+I think by this point the game is over anyway, since black has so many other defects.]
+;W[lb]
+C[Fourth time.];B[la];W[id]
+C[This move threatens two things: it threatens to capture the K18 stones and it threatens to make an eye at K15 by playing at L15.
+
+Black can only defend against one of those two things.]
+(;B[ke]
+C[He chose to block me from making an eye, but that was foolish; I can capture stones which gives me easy eyes.]
+;W[ib]
+C[Now black must play at H17 since it's in atari.];B[hc];W[ka]
+C[Black must play at K19 since it's in atari.];B[ja];W[ia]
+C[If black plays L19 I can capture by playing at N19. If he plays anywhere else on the board I can capture by playing L19.
+
+Two eyes. Game over!]
+)
+(;B[hb]
+C[If Black had defended, at this point, White is still fine.];W[ke]
+C[White makes the first eye. Now there's miai for life: white can take the gote eye by playing P9, or white can cut black off with M14. Whichever one black chooses to protect against, white will choose the other and win.]
 (;B[ok];W[lf])
 (;B[lf];W[ok])))
+(;B[lb]
+(;W[mc];B[mb])
+(;W[mb];B[mc])
+(;W[id]
+(;B[ke];W[hc];B[ib];W[gc]
+C[White lives by capturing H15.])
+(;B[hb];W[ke];B[ok];W[lf]))))
+(;B[ok];W[kb];B[lc];W[ib];B[ja];W[ia];B[ka];W[la]))
+(;B[jc];W[kd];B[kc];W[ld];B[me];W[id];B[ke];W[ok];B[lc]))
+(;B[ok];W[hd];B[id];W[ge];B[gf];W[gd];B[ol];W[fg];B[eg];W[fe];B[ee];W[ed]
+))
+(;W[me];B[md]))
+(;B[me];W[lf];B[le];W[ke];B[je];W[kd];B[jd];W[kc];B[ok];W[ll];B[lk];W[li]
+;B[lj];W[lh];B[kj];W[mm];B[ol];W[lg]))
+(;B[ok]
+(;W[pj];B[ol];W[nm])
+(;W[ol];B[pj];W[mg];B[mf];W[nf];B[og];W[lf];B[me];W[lg];B[ke];W[le];B[ld]
+;W[je];B[jd])))
+(;W[kh];B[li];W[lh];B[jh];W[nm]))
+(;B[mh];W[oh];B[og];W[ph]
+(;B[pg];W[qg])
+(;B[nm];W[mm];B[om];W[mg];B[mf];W[lg];B[lh];W[kg];B[kh];W[jh];B[jg];W[jf]
+;B[ig];W[ke];B[kl];W[ll];B[lk];W[kl];B[kj];W[jk];B[ik];W[ki];B[li])))
+(;W[mo];B[mp];W[lp];B[kp];W[lq]
+(;B[np];W[jp])
+(;B[jp];W[np])))
+(;W[lo]
+(;B[jn];W[lp];B[kp];W[kq];B[jp];W[kk])
+(;B[kp];W[jn]
+(;B[jp];W[jm])
+(;B[jm];W[jp];B[lp];W[lm];B[mp];W[np];B[mo];W[nn];B[mn];W[mm];B[no];W[nm]
+;B[oo]))))
+(;W[jm];B[jn];W[lm];B[ln];W[mm];B[mn];W[nm];B[nn];W[il];B[hl];W[gm];B[jl]
+;W[ik];B[jk];W[ij];B[hi];W[ji]))
+(;W[do]))
+(;W[do]))
+(;W[cr];B[dr];W[bq];B[br];W[ar];B[cs];W[do];B[as];W[aq]))
+(;B[eo];W[gp];B[fn];W[fp];B[hm]))
+(;W[eo]
+(;B[ep];W[do];B[gp];W[hm];B[hn];W[in];B[hl];W[gm];B[io];W[jn];B[jo];W[ko]
+;B[jp];W[kp];B[bq])
+(;B[do];W[ep];B[gp];W[eq];B[fn];W[en];B[fm];W[dm]))
+(;W[gp];B[eo];W[ep];B[fn];W[fp];B[dn];W[co];B[do]))
+(;B[eo];W[fn];B[fm];W[go];B[ho];W[en];B[dn];W[gp]
+(;B[dm];W[gm])
+(;B[gm];W[dm])))
+(;B[eq];W[fr];B[er];W[hr];B[gp];W[ir];B[gn]))
+(;B[jp];W[hn];B[jn];W[il])
+(;B[hn];W[go];B[fn];W[gn];B[gm];W[hm];B[hl];W[fm];B[im];W[gm]))
+(;W[gk];B[hj];W[gj]))
+(;B[hj];W[gk];B[gj];W[hi]TR[hi];B[ij];W[ih];B[hg];W[ii];B[el]))
+(;W[fg];B[eg];W[de];B[ff];W[gg];B[gf];W[hg];B[hf];W[ig]))
+(;B[gg];W[fg];B[eg];W[ef]))
+(;B[ai];W[ak];B[bf];W[bi]))
+(;W[cf];B[bl];W[bm];B[ak];W[am];B[al]))
+(;B[cg];W[bi];B[ai];W[bj];B[bf];W[ak]))
+(;B[cg];W[dg];B[cf];W[bi];B[bf];W[ai]))
+(;W[cg];B[bg];W[bf];B[bl];W[bm];B[aj];W[bk]
+(;B[bj];W[al];B[ai];W[ag];B[ah])
+(;B[ag];W[bj];B[bi];W[al];B[ak];W[bl])))
+(;B[di];W[gk];B[gh];W[hi]
+(;B[ih];W[hh];B[hg];W[gg];B[fg];W[gf];B[hf];W[fe])
+(;B[hh])))
+(;B[dh];W[gh];B[fg];W[gg];B[ff];W[gf];B[ge];W[gk]))
+(;W[di];B[dh];W[ci];B[bi];W[ch];B[cg];W[bh];B[ah];W[bg];B[bf];W[ag];B[af]
+))
+(;B[co];W[dn];B[fp];W[dk];B[dj];W[ek];B[ej];W[fj];B[fi];W[dh];B[ei];W[fk]
+))
+(;W[gc]))
+(;B[re];W[rf];B[qb];W[se];B[rb];W[sd])
+(;B[fc];W[hc];B[fe];W[df];B[he];W[kc])
+(;B[hc];W[jc];B[he];W[je];B[ig]))
+(;W[dj]
+(;B[pe];W[oe];B[pf];W[pg])
+(;B[oe];W[pe];B[nf];W[og];B[ng];W[nh];B[oh];W[oi];B[ph];W[pi];B[ni];W[mh]
+;B[pg];W[pf])))
 (;W[nf]
 C[I misclicked here but he let me have an undo.]))
+(;B[of]
+(;W[nd];B[pe];W[qc];B[rd];W[rc];B[md];W[sd];B[ne];W[re];B[oe];W[qd])
+(;W[pf];B[oe];W[pe];B[nd];W[qc];B[rd];W[rc])))
+(;W[qo];B[pn];W[np];B[qk];W[qf])
+(;W[ql];B[qq];W[qp];B[pq];W[op];B[rp];W[ro];B[rq];W[qo];B[nq];W[qf]))
 
