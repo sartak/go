@@ -5,6 +5,10 @@ use warnings;
 my $current_year = 0;
 for my $file (reverse `git ls-files`) {
     chomp $file;
+    if ($file =~ s/^"(.+)"/$1/) {
+        $file =~ s/\\(\d\d\d)/chr oct $1/ge;
+    }
+
     next unless $file =~ /^(20\d\d)/; # ignore viewer/, .gitignore, etc
     my $year = $1;
 
