@@ -19,15 +19,28 @@
     .links {
         text-align: center;
     }
+
+    ul {
+        list-style-type: none;
+    }
+
+    li {
+        margin-bottom: .5em;
+    }
+
+    a {
+        text-decoration: none;
+    }
   </style>
   <body>
     <div class="well">
         <div id="board"></div>
     </div>
 
-    <div class="links"><a id="sgf-download" href="#">Download SGF</a> | <a href="http://github.com/sartak/go-games">All games</a></div>
+    <div class="links"><a id="sgf-download" href="#">Download SGF</a> | <a href="index.html">All games</a></div>
 
     <script src="glift_1_0_6.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
 
     <script type="text/javascript">
         function getParameterByName(name, url) {
@@ -40,24 +53,39 @@
             return decodeURIComponent(results[2].replace(/\+/g, " "));
         }
 
-        var gliftWidget = glift.create({
-            sgf         : getParameterByName('sgf'),
-            divId       : "board",
-            sgfDefaults : {
-                initialPosition : getParameterByName('position') || 1
-            },
-            display     : {
-                drawBoardCoords   : true,
-                theme             : 'DEPTH',
-                goBoardBackground : 'wood.png'
-            }
-        });
+        var sgf = getParameterByName('sgf');
+        if (sgf) {
+            var gliftWidget = glift.create({
+                sgf         : sgf,
+                divId       : "board",
+                sgfDefaults : {
+                    initialPosition : getParameterByName('position') || 1
+                },
+                display     : {
+                    drawBoardCoords   : true,
+                    theme             : 'DEPTH',
+                    goBoardBackground : 'wood.png'
+                }
+            });
 
-        window.addEventListener('resize', function(event){
-          gliftWidget && gliftWidget.redraw();
-        });
+            window.addEventListener('resize', function(event){
+                gliftWidget && gliftWidget.redraw();
+            });
 
-        document.getElementById('sgf-download').href = getParameterByName('sgf');
+            jQuery('#sgf-download').attr('href', sgf);
+        }
+        else {
+            jQuery('#board, .links').remove();
+            jQuery.ajax({
+                url: 'games.html',
+                success: function (response, status, xhr) {
+                    jQuery('.well').append(response);
+                },
+                error: function (xhr, status, error) {
+                    alert(status);
+                },
+            });
+        }
     </script>
   </body>
 </html>
