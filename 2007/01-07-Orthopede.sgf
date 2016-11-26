@@ -1,5 +1,6 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
-RU[Japanese]SZ[19]KM[6.50]TM[900]OT[5x30 byo-yomi]
+RU[Japanese]SZ[19]KM[6.50]
+GN[01-07-Orthopede]TM[900]OT[5x30 byo-yomi]
 PW[sartak]PB[Orthopede]WR[18k]BR[16k]DT[2007-01-07]PC[The KGS Go Server at http://www.gokgs.com/]RE[B+Resign]
 ;B[pp]BL[896.24]C[sartak [18k\]: hiya, have fun
 ]

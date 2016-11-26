@@ -1,5 +1,6 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
-RU[Japanese]SZ[13]KM[6.50]TM[1800]OT[5x30 byo-yomi]
+RU[Japanese]SZ[13]KM[6.50]
+GN[10-04-ONE0]TM[1800]OT[5x30 byo-yomi]
 PW[ONE0]PB[sartak]DT[2007-10-04]PC[The KGS Go Server at http://www.gokgs.com/]RE[W+Resign]
 ;B[jj]BL[1795.417]C[sartak [?\]: hello
 ONE0: hi

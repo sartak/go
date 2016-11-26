@@ -1,5 +1,6 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
-RU[Chinese]SZ[19]KM[7.50]TM[1800]OT[5x40 byo-yomi]
+RU[Chinese]SZ[19]KM[7.50]
+GN[12-03-GadgetoBOT]TM[1800]OT[5x40 byo-yomi]
 PW[sartak]PB[GadgetoBOT]BR[8k]DT[2006-12-03]PC[The KGS Go Server at http://www.gokgs.com/]C[GadgetoBOT [8k\]: GTP Engine for GadgetoBOT (black): GNU Go version 3.7.7
 ]RE[B+Resign]
 ;B[pd]BL[1799.348]

@@ -1,5 +1,6 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
-RU[Japanese]SZ[9]KM[6.50]TM[600]OT[5x30 byo-yomi]
+RU[Japanese]SZ[9]KM[6.50]
+GN[10-04-noodles-2]TM[600]OT[5x30 byo-yomi]
 PW[sartak]PB[noodles]DT[2007-10-04]PC[The KGS Go Server at http://www.gokgs.com/]RE[B+Resign]
 ;B[fd]BL[598.509]
 ;W[df]WL[597.907]C[noodles: hi again
