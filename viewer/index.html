@@ -55,6 +55,7 @@
 
         var sgf = getParameterByName('sgf');
         if (sgf) {
+            sgf = sgf.replace(/^(20\d\d)-(\d\d-\d\d\w?-[\w-]+)$/, '../$1/$2.sgf');
             var gliftWidget = glift.create({
                 sgf         : sgf,
                 divId       : "board",
