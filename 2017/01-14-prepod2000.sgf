@@ -1,0 +1,175 @@
+(;GM[1]FF[4]SZ[19]AP[SmartGo:0.7.3]CA[utf-8]
+GN[2017/01-14-prepod2000]
+PW[sartak]WR[13k ]
+PB[prepod2000]BR[16k ]
+EV[Internet Go Server game: sartak vs prepod2000]
+DT[2017-01-15]
+PC[IGS:  igs.joyjoy.net 6969]
+KM[6.5]
+RE[B+14.5]
+CP[   Copyright (c) PANDANET Inc. 2017   Permission to reproduce this game is given, provided proper credit is given.   No warrantee, implied or explicit, is understood.   Use of this game is an understanding and agreement of this notice. ]
+US[Brought to you by IGS PANDANET]
+TM[600.0]NW[16]NB[13]LT[]RR[Normal];B[pd]BL[582.0];W[dd]WL[598.0];B[pp]BL[581.0]
+;W[dp]WL[594.0];B[pj]BL[577.0];W[nc]WL[591.0]
+C[My understanding is that this is the right way to approach sanrensei.]
+;B[cn]BL[569.0]
+C[But I didn't know how to punish tenuki.];W[fq]WL[576.0];B[ck]BL[554.0]
+;W[co]WL[554.0]
+C[I kicked to make him overconcentrated and help seal off the corner.]
+(;B[cf]BL[512.0]
+C[I was expecting the B5, B4, C12 joseki, which would have given me a nice enclosure at C14.
+
+But I didn't know how to handle this.]
+;W[fc]WL[473.0]
+C[So I backed off.];B[nq]BL[475.0]
+C[I was expecting Black to fix with a fourth line move like D12. But he tenuki'd.]
+;W[ch]WL[449.0]
+C[Since he tenuki'd, I invaded to split Black into two weak groups.];B[ef]
+BL[440.0];W[dg]WL[437.0];B[df]BL[427.0]
+(;W[ej]WL[431.0]
+C[This move feels wrong, it should have been at F12. I guess I was thinking I'd attack both groups.]
+;B[dn]BL[411.0];W[fn]WL[419.0];B[eo]BL[313.0];W[fo]WL[413.0];B[ep]BL[299.0]
+;W[eq]WL[403.0];B[fp]BL[296.0];W[gp]WL[398.0]
+C[This exchange seemed like it didn't really benefit Black, but it benefited White by giving him a wall facing right, and also gives a forcing move later at E6 or D5.]
+;B[fh]BL[292.0];W[eg]WL[378.0]
+C[Here I played this intending to cut. I didn't appreciate that him playing E16 would make me lose momentum.]
+;B[fg]BL[250.0];W[ff]WL[377.0];B[fe]BL[218.0];W[gf]WL[376.0];B[ed]BL[206.0]
+;W[ec]WL[359.0]
+C[Now I have to defend instead of keeping the pressure on.];B[ge]BL[204.0]
+;W[hf]WL[358.0];B[he]BL[203.0];W[ig]WL[342.0];B[if]BL[183.0];W[hh]WL[315.0]
+;B[jf]BL[170.0];W[jd]WL[311.0]
+C[Here I peeped because it also has a good relationship with O17.];B[jg]
+BL[159.0]
+C[I didn't appreciate how vital it was that I dealt with this move appropriately.]
+(;W[ie]WL[303.0]
+C[I cut without realizing that my stones could now be captured in a ladder.
+
+Instead I should have extended at H11.
+
+There's a problem like this in Graded Go Problems for Beginners, but I didn't think of it during the game.]
+;B[hg]BL[109.0]
+(;W[ih]WL[231.0]
+C[Is there a good ladder breaker I can play instead of connecting here?
+
+Maybe I should give up these two stones as well and try to get some compensation for them?]
+;B[gg]BL[102.0];W[gj]WL[226.0];B[id]BL[60.0];W[jc]WL[218.0]
+C[J15 wasn't a very important stone so I let it go.];B[je]BL[30.0];W[jh]
+WL[196.0];B[kh]BL[10.0];W[ki]WL[181.0];B[lh]BL[896.0];W[li]WL[173.0];B[lf]
+BL[847.0]
+C[Black already has two eyes, so this move feels pure gote for no benefit.]
+;W[qf]WL[131.0]
+C[I decided to play this now, before Black gains any more strength in this area of the board.]
+;B[qh]BL[828.0];W[qc]WL[129.0];B[qd]BL[825.0];W[rd]WL[127.0];B[re]BL[783.0]
+;W[rc]WL[126.0];B[qe]BL[773.0];W[rf]WL[122.0];B[ei]BL[754.0];W[dj]WL[108.0]
+;B[di]BL[702.0];W[cj]WL[103.0];B[ci]BL[700.0];W[bi]WL[85.0];B[bk]BL[691.0]
+C[I felt like Black let me off the hook here by playing the peep instead of the cut at B10 which lets him take the D13 stones. But he's probably more concerned about making life for his bottom left group. So this peep is fair.]
+;W[bj]WL[82.0];B[el]BL[683.0];W[gl]WL[73.0];B[cq]BL[672.0];W[do]WL[68.0]
+;B[en]BL[652.0];W[dq]WL[56.0]
+C[I didn't want to connect. But the F3 and G4 stones have too many defects, and C5 has nowhere to go.]
+;B[bo]BL[648.0];W[bp]WL[56.0];B[bn]BL[645.0];W[bq]WL[52.0];B[pc]BL[638.0]
+;W[pb]WL[49.0];B[ob]BL[632.0];W[qb]WL[46.0];B[oc]BL[624.0];W[of]WL[44.0]
+;B[nd]BL[614.0];W[oe]WL[40.0]
+C[This peep was a mistake, because he can capture O17 and there's no problem for him.]
+(;B[lc]BL[584.0];W[nb]WL[883.0];B[na]BL[561.0];W[mb]WL[877.0];B[lb]BL[555.0]
+;W[ma]WL[872.0];B[oa]BL[531.0];W[se]WL[852.0];B[hb]BL[511.0];W[hc]WL[828.0]
+C[I played here with the intent to sacrifice K17 to protect my corner.];B[ic]
+BL[505.0];W[gb]WL[827.0];B[hd]BL[892.0];W[gc]WL[820.0];B[jb]BL[891.0];W[ha]
+WL[819.0]
+C[This was probably not that important, because if Black ignores to play C16 or C17, it hurts. I don't think I'd get enough compensation on the top center.]
+;B[ib]BL[889.0];W[cd]WL[803.0];B[cg]BL[881.0];W[bh]WL[792.0];B[dh]BL[872.0]
+;W[fi]WL[789.0];B[eh]BL[871.0];W[mh]WL[780.0]
+C[Now that the P14 group is there, I felt better about hane rather than extend, because if he cuts I have stones to run to.
+
+Though in reviewing here, it looks like my corner is not alive; I'd have to find a second eye on the outside, which would be difficult.]
+(;B[mg]BL[868.0];W[nh]WL[779.0];B[ng]BL[865.0]
+(;W[og]WL[771.0]
+C[Extending at P12 probably would have been better.];B[oh]BL[852.0];W[oi]
+WL[770.0];B[ph]BL[851.0];W[nj]WL[770.0];B[oj]BL[849.0];W[ro]WL[763.0]
+C[I played here hoping to take either the corner or the side. His five-stone group in the center right isn't very secure.]
+;B[rp]BL[844.0];W[qp]WL[760.0];B[qq]BL[843.0];W[qo]WL[758.0];B[rr]BL[841.0]
+;W[op]WL[756.0];B[oq]BL[837.0];W[po]WL[751.0];B[pq]BL[837.0];W[ql]WL[731.0]
+;B[nk]BL[813.0];W[mj]WL[727.0];B[pi]BL[807.0]
+(;W[ok]WL[711.0]
+C[Instead of cutting, maybe peeping to secure my stones and force him into a running fight would have been better, as he'd be running toward White stones.]
+;B[pk]BL[792.0];W[ol]WL[709.0];B[pl]BL[791.0];W[om]WL[897.0];B[pm]BL[789.0]
+;W[on]WL[887.0];B[qm]BL[782.0]
+C[But I was happy to have sealed off the center from the right.];W[rl]WL[877.0]
+;B[rm]BL[778.0];W[sm]WL[860.0];B[sn]BL[765.0];W[rn]WL[859.0];B[sl]BL[758.0]
+;W[rh]WL[842.0]
+C[This move was a mistake. It ends in gote for me, and I need sente to try to seal the bottom right group in.
+
+At least it gave my corner group the necessary second eye now that it was sealed in.]
+;B[ri]BL[894.0];W[sh]WL[823.0];B[si]BL[890.0];W[qg]WL[800.0];B[pg]BL[858.0]
+;W[pf]WL[799.0];B[jq]BL[791.0]
+(;W[kq]WL[783.0]
+C[It's looking like a shoulder hit would have been better.
+
+I suppose I was optimistic that I could cut this stone from the bottom right group while also sealing it in.]
+;B[kp]BL[747.0];W[lp]WL[778.0];B[lq]BL[739.0];W[ko]WL[763.0];B[kr]BL[734.0]
+;W[jp]WL[758.0];B[ip]BL[724.0];W[kq]WL[757.0];B[jo]BL[722.0];W[kp]WL[753.0]
+C[I was satisfied because now Black has five cutting points.]LB[io:A][iq:B][jr:C][lr:D][mq:E]
+;B[fk]BL[689.0];W[fj]WL[747.0];B[gk]BL[686.0];W[hk]WL[747.0];B[hl]BL[679.0]
+;W[fl]WL[742.0];B[ek]BL[678.0];W[ik]WL[737.0];B[hm]BL[666.0];W[gn]WL[708.0]
+;B[hn]BL[642.0];W[mq]WL[702.0]
+(;B[iq]BL[615.0];W[lr]WL[699.0]
+C[Instead of taking I should have protected against the cut.];B[gq]BL[601.0]
+;W[hq]WL[688.0]
+C[After I played this move I realized that I'm in big trouble.];B[gr]BL[593.0]
+;W[io]WL[597.0];B[jn]BL[556.0];W[ho]WL[570.0];B[hp]BL[533.0];W[hr]WL[887.0]
+;B[ir]BL[488.0];W[in]WL[876.0];B[im]BL[461.0];W[kn]WL[811.0];B[jm]BL[444.0]
+;W[ks]WL[800.0]
+C[This was a mistake, I should have sealed at L8, since Black intruding into my center is devastating.]
+(;B[jr]BL[429.0];W[kl]WL[799.0];B[km]BL[426.0];W[lm]WL[797.0];B[np]BL[899.0]
+;W[no]WL[795.0];B[fr]BL[883.0];W[er]WL[790.0];B[go]BL[843.0];W[sp]WL[765.0]
+;B[rq]BL[839.0];W[rk]WL[732.0]
+C[Here I'm trying to see what I can get away with, since I can tell I'm now well behind.]
+;B[qk]BL[779.0];W[sk]WL[718.0];B[sm]BL[765.0];W[nr]WL[672.0];B[oo]BL[762.0]
+;W[pn]WL[663.0];B[rj]BL[751.0];W[op]WL[661.0]
+C[I took the ko back to avoid the atari at N5.];B[mp]BL[749.0];W[mo]WL[660.0]
+;B[oo]BL[748.0]
+C[Black has decided this ko is important.
+
+But now that I connected at Q6 and protected O5, I don't think it's important any more.
+
+So I'll take free moves.]
+;W[od]WL[635.0];B[mc]BL[737.0];W[pa]WL[619.0];B[la]BL[735.0];W[ps]WL[609.0]
+;B[so]BL[688.0];W[dk]WL[595.0];B[dl]BL[681.0];W[bl]WL[594.0];B[cl]BL[679.0]
+;W[ak]WL[594.0];B[bm]BL[678.0];W[al]WL[594.0];B[am]BL[677.0];W[aj]WL[594.0]
+;B[bd]BL[671.0];W[be]WL[590.0];B[bf]BL[665.0];W[bc]WL[588.0];B[ae]BL[662.0]
+;W[ad]WL[899.0];B[ce]BL[661.0];W[af]WL[898.0];B[ag]BL[650.0];W[ae]WL[896.0]
+;B[bg]BL[645.0];W[fs]WL[806.0];B[gs]BL[626.0];W[es]WL[798.0];B[cr]BL[616.0]
+C[Now that White is sealed into the corner, this felt very dangerous.];W[cp]
+WL[795.0];B[br]BL[871.0];W[ar]WL[791.0];B[ao]BL[856.0];W[ap]WL[774.0];B[ia]
+BL[841.0];W[ga]WL[769.0];B[ah]BL[835.0];W[cs]WL[752.0]
+C[Here I'm playing extra moves because I'm concerned this will end in ko or seki.]
+;B[or]BL[821.0];W[os]WL[750.0];B[qs]BL[816.0];W[mr]WL[741.0];B[pr]BL[809.0]
+;W[ns]WL[740.0];B[op]BL[805.0];W[jl]WL[723.0];B[il]BL[791.0];W[jk]WL[711.0]
+;B[js]BL[789.0];W[ls]WL[708.0];B[nl]BL[780.0];W[nn]WL[705.0];B[ni]BL[777.0]
+;W[mi]WL[704.0];B[oi]BL[775.0];W[ne]WL[695.0]
+C[Is there anything better I can do in this area? This felt silly.];B[me]
+BL[772.0];W[nf]WL[692.0];B[mf]BL[771.0];W[fd]WL[684.0];B[ee]BL[768.0];W[gh]
+WL[650.0];B[sq]BL[727.0];W[bs]WL[570.0]
+C[Now that there are no more points on the board, I wanted to be extra certain!]
+;B[sj]BL[669.0];W[]WL[569.0];B[]BL[652.0];W[]WL[569.0];
+TW[aa:fb][qa:sa][rb:sb][ac][cc:dc][sc:sd][bd][sf:sg][rg][gi:ji][hj:lj][kk:nk][ll:nl][mm:mn][nm][ln:lo][aq][cq:cr][lq][br][dr:ds][as][ms]
+TB[ja:ka][ma:mb][kb:kg][nb:nc][jc:jd][ld:le][md][ie][ff:hf][dg:eg][lg][qi:qj][rk:rl][sk][fl:fo][gl:gn][ql][cm:em][an][in:io][ho][gp][sp][hq:hs][qr][sr:ss][is][rs]
+OS[dacio][litogo][quanton][sosadly95])
+(;B[jk]))
+(;B[ai]))
+(;W[kp];B[kq];W[lp]
+(;B[lq];W[np];B[mp];W[mo];B[mq];W[jp];B[ip];W[hq];B[iq];W[io];B[hp];W[ho]
+;B[hr];W[gq])
+(;B[np];W[oo];B[mo];W[mp];B[no];W[ln])))
+(;W[pl];B[ol];W[pk];B[ok];W[om];B[nm];W[ml];B[nl];W[nn];B[mm];W[mn];B[ll]
+))
+(;W[oh];B[og];W[pg]))
+(;B[pa];W[qa];B[od]
+(;W[sd];B[sb])
+(;W[sb];B[sd];W[sc];B[ra])))
+(;B[mc]))
+(;W[gg];B[gh];W[hg];B[hi];W[ih];B[ii];W[jh];B[kh];W[ji])
+(;W[nn]))
+(;W[hi]))
+(;W[fh];B[gf];W[hd]))
+(;B[bo];W[bp];B[ch];W[cf]))
+
