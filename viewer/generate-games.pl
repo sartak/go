@@ -13,6 +13,7 @@ for my $file (reverse `git ls-files`) {
     my $year = $1;
 
     next if $file =~ /\bedithk\b/
+         || $file =~ /\bAlbert\b/
          || $file =~ /^200/; # only care about games from 2016 on
 
     if ($current_year != $year) {
