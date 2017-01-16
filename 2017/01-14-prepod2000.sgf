@@ -139,21 +139,29 @@ So I'll take free moves.]
 ;W[ad]WL[899.0];B[ce]BL[661.0];W[af]WL[898.0];B[ag]BL[650.0];W[ae]WL[896.0]
 ;B[bg]BL[645.0];W[fs]WL[806.0];B[gs]BL[626.0];W[es]WL[798.0];B[cr]BL[616.0]
 C[Now that White is sealed into the corner, this felt very dangerous.];W[cp]
-WL[795.0];B[br]BL[871.0];W[ar]WL[791.0];B[ao]BL[856.0];W[ap]WL[774.0];B[ia]
-BL[841.0];W[ga]WL[769.0];B[ah]BL[835.0];W[cs]WL[752.0]
-C[Here I'm playing extra moves because I'm concerned this will end in ko or seki.]
+WL[795.0];B[br]BL[871.0];W[ar]WL[791.0];B[ao]BL[856.0];W[ap]WL[774.0]
+(;B[ia]BL[841.0];W[ga]WL[769.0];B[ah]BL[835.0];W[cs]WL[752.0]
+C[Here I'm playing extra moves because it seemed like my group was dead.]
 ;B[or]BL[821.0];W[os]WL[750.0];B[qs]BL[816.0];W[mr]WL[741.0];B[pr]BL[809.0]
 ;W[ns]WL[740.0];B[op]BL[805.0];W[jl]WL[723.0];B[il]BL[791.0];W[jk]WL[711.0]
 ;B[js]BL[789.0];W[ls]WL[708.0];B[nl]BL[780.0];W[nn]WL[705.0];B[ni]BL[777.0]
 ;W[mi]WL[704.0];B[oi]BL[775.0];W[ne]WL[695.0]
 C[Is there anything better I can do in this area? This felt silly.];B[me]
 BL[772.0];W[nf]WL[692.0];B[mf]BL[771.0];W[fd]WL[684.0];B[ee]BL[768.0];W[gh]
-WL[650.0];B[sq]BL[727.0];W[bs]WL[570.0]
-C[Now that there are no more points on the board, I wanted to be extra certain!]
+WL[650.0]
+(;B[sq]BL[727.0];W[bs]WL[570.0]
+C[Now that there are no more points on the board, I wanted to be extra certain! It looks like I'm alive without this move though.]
 ;B[sj]BL[669.0];W[]WL[569.0];B[]BL[652.0];W[]WL[569.0];
 TW[aa:fb][qa:sa][rb:sb][ac][cc:dc][sc:sd][bd][sf:sg][rg][gi:ji][hj:lj][kk:nk][ll:nl][mm:mn][nm][ln:lo][aq][cq:cr][lq][br][dr:ds][as][ms]
 TB[ja:ka][ma:mb][kb:kg][nb:nc][jc:jd][ld:le][md][ie][ff:hf][dg:eg][lg][qi:qj][rk:rl][sk][fl:fo][gl:gn][ql][cm:em][an][in:io][ho][gp][sp][hq:hs][qr][sr:ss][is][rs]
 OS[dacio][litogo][quanton][sosadly95])
+(;B[bs];W[ds]))
+(;B[bs]
+(;W[aq];B[cs])
+(;W[ds];B[cs])
+(;W[cs];B[ds]
+(;W[aq];B[dr])
+(;W[dr];B[aq]))))
 (;B[jk]))
 (;B[ai]))
 (;W[kp];B[kq];W[lp]
