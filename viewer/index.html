@@ -81,6 +81,21 @@
                 url: 'games.html',
                 success: function (response, status, xhr) {
                     jQuery('.well').append(response);
+
+                    var opponent = getParameterByName('opponent');
+                    if (opponent) {
+                        jQuery('.well li a').each(function () {
+                            if (!jQuery(this).text().includes(opponent)) {
+                                jQuery(this).closest('li').remove();
+                            }
+                        });
+
+                        var empty = jQuery('.well ul').filter(function () {
+                            return jQuery.trim(this.innerHTML) == '';
+                        });
+                        empty.prev().remove();
+                        empty.remove();
+                    }
                 },
                 error: function (xhr, status, error) {
                     alert(status);
