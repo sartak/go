@@ -30,12 +30,14 @@ C[Playing away from thickness.]TR[pl][rm][qp][oq];W[hq];B[cq];W[dq];B[cp]
 C[I love the trick moves that I know how to thwart...!];B[cr];W[dr];B[do]
 ;W[eo];B[dn];W[fp];B[cn];W[en];B[jd]
 C[Leaning on his stones to get my group out into the center.];W[id]
-C[Yeah you can cut a knight's move, but wow.];B[ic];W[ie];B[je];W[if]
+C[Yeah you can cut a knight's move, but wow.]
+(;B[ic];W[ie];B[je];W[if]
 (;B[jc]
 C[I didn't want to get cut surrounded by White.
 
 It looks like I could have pushed one more time and still been okay, but if he cuts, the fight is violent.]
-;W[fe];B[gd]
+;W[fe]
+(;B[gd]
 C[Protecting the connection and my eyespace, while also threatening the cut.]
 ;W[ge]
 (;B[lf]
@@ -45,7 +47,8 @@ C[White is now sealed in.];B[lj];W[ld];B[jf];W[jg];B[pg]
 C[Taking a sente move because I was a little worried about white playing Q14.]
 ;W[ph];B[cj]
 C[I wasn't sure how far to go. I was a little bit worried about an invasion if I went too far.]
-;W[ch];B[ej];W[eh];B[em]
+;W[ch];B[ej]
+(;W[eh];B[em]
 C[Now that I have E10 and C10 I'm not worried the cut after the hane.]
 (;W[fm]
 (;B[fl]
@@ -55,7 +58,7 @@ C[The hane looks like it ends up with a better result for Black even with white'
 C[He's protecting against his own cut but that's a little bit simple-minded. He can at least play H12 which still does just a good a job at protecting the cut, but is more active.]
 ;B[hj];W[jj]
 C[Stopping my two strong groups from connecting isn't that valuable.];B[gm]
-(;W[hm]
+;W[hm]
 C[Not sure why he played the atari rather than connecting. Maybe it ends up with a better shape?]
 ;B[fn];W[gn];B[fm]
 (;W[go]
@@ -123,15 +126,17 @@ C[I ignored his ko threat because there was no way he was capturing anything eve
 (;W[io];B[in];W[ho];B[fo];W[ep];B[gp];W[hp];B[gq];W[iq];B[er]))
 (;B[lq];W[lo];B[jp];W[kp];B[kq];W[ip];B[jq];W[jo];B[iq];W[io]))
 (;W[hl];B[go];W[hn];B[fo];W[ep];B[gp];W[gq];B[fr]))
-(;W[fn];B[hm]))
 (;W[hh];B[ig];W[ih];B[hg];W[gg];B[hf];W[he];B[gf];W[ff]))
 (;B[el];W[fl];B[fk];W[gk];B[gj];W[hk]))
 (;W[dm];B[cm];W[dl];B[el]
 (;W[dk];B[ck];W[dj];B[di];W[ei];B[ek])
 (;W[cl];B[bl];W[dk];B[dj];W[bm];B[bn];W[bk];B[am];W[bj];B[ck];W[bi])))
+(;W[dl]))
 (;B[kg];W[jg];B[lf];W[le];B[lh];W[kf];B[lg]))
+(;B[ld]))
 (;B[jf];W[jc];B[ig];W[ge];B[kg];W[gc];B[gd];W[hd];B[he];W[hf];B[fe];W[hg]
 ;B[gb]))
+(;B[jc]))
 (;B[fq];W[qb];B[rb];W[rd];B[rc];W[qe];B[pe];W[rf]))
 (;B[oc];W[nd];B[qf];W[jc];B[pl])
 (;B[lc];W[qc];B[pc];W[qd];B[pe];W[pb];B[ob];W[qb];B[oc];W[qf]))
