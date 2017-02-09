@@ -1,4 +1,4 @@
-(;GM[1]FF[4]SZ[19]AP[SmartGo:0.8.1]CA[utf-8]
+(;GM[1]FF[4]SZ[19]AP[SmartGo:0.8.2]CA[utf-8]
 GN[2017/02-05-trung12ly]
 PW[trung12ly]WR[11k]
 PB[sartak]BR[13k]
@@ -7,23 +7,132 @@ PC[OGS: http://online-go.com/game/7708661]
 KM[6.5]
 RE[B+T]
 CP[online-go.com]
-RU[japanese];B[pd];W[dp];B[qp];W[cd];B[oq];W[pj];B[ec];W[ed];B[fd];W[ee]
-;B[dc];W[cc];B[hc];W[nc];B[qf];W[pb];B[qc];W[kc];B[pl];W[qh];B[qb];W[pc]
-;B[od];W[nd];B[ne];W[me];B[nf];W[mf];B[ng];W[rk];B[rm];W[nj];B[mg];W[lg]
-;B[mi];W[mj];B[li];W[oh];B[fq];W[hq];B[cq];W[dq];B[cp];W[co];B[cr];W[dr]
-;B[do];W[eo];B[dn];W[fp];B[cn];W[en];B[jd];W[id];B[ic];W[ie];B[je];W[if]
-;B[jc];W[fe];B[gd];W[ge];B[lf];W[kg];B[le];W[md];B[lj];W[ld];B[jf];W[jg]
-;B[pg];W[ph];B[cj];W[ch];B[ej];W[eh];B[em];W[fm];B[fl];W[el];B[dm];W[gl]
-;B[fk];W[gk];B[gj];W[fi];B[fj];W[ih];B[hj];W[jj];B[gm];W[hm];B[fn];W[gn]
-;B[fm];W[go];B[hl];W[im];B[il];W[mq];B[mo];W[kp];B[jm];W[jl];B[jn];W[hn]
-;B[jo];W[kl];B[ln];W[jp];B[ml];W[kj];B[hh];W[hg];B[gh];W[gg];B[fh];W[fg]
-;B[lp];W[lq];B[ip];W[iq];B[hp];W[gp];B[oc];W[ob];B[kb];W[lb];B[jb];W[kd]
-;B[mb];W[ma];B[nb];W[na];B[pa];W[mc];B[eq];W[ep];B[ds];W[es];B[cs];W[er]
-;B[qk];W[qj];B[bh];W[bg];B[bi];W[ql];B[qm];W[rl];B[pk];W[ok];B[ol];W[nl]
-;B[nm];W[nk];B[om];W[ni];B[bf];W[cf];B[ag];W[be];B[cg];W[dg];B[bg];W[mp]
-;B[np];W[nq];B[op];W[or];B[pr];W[ns];B[ll];W[ij];B[df];W[ce];B[rg];W[rh]
-;B[io];W[ei];B[di];W[dh];B[cb];W[bb];B[db];W[lo];B[ko];W[mn];B[no];W[lm]
-;B[lp];W[pn];B[lo];W[km];B[mm];W[pm];B[qn];W[ci];B[dj];W[og];B[of];W[qg]
-;B[pf];W[rf];B[re];W[sg];B[dd];W[de];B[gi];W[eg];B[ki];W[mh];B[lk];W[nh]
-;B[ji];W[ii];B[kk])
+RU[japanese];B[pd];W[dp];B[qp];W[cd];B[oq];W[pj]
+C[Fourth line here is a little strange.];B[ec]
+C[So I tenuki'd.];W[ed]
+C[I hate this joseki for Black. I need to learn how to cope.];B[fd];W[ee]
+;B[dc];W[cc];B[hc]
+C[Looks like the move to play here is F15 instead.];W[nc]
+(;B[qf]
+C[I'm not sure which joseki would have been best, but I liked that I come out of this with sente, and I apply pressure to Q10.]
+;W[pb];B[qc];W[kc];B[pl];W[qh]
+(;B[qb]
+C[This is probably too slow. But I didn't like potentially being hemmed in from both sides, because White can steal my eyespace.]
+;W[pc];B[od];W[nd];B[ne];W[me];B[nf];W[mf];B[ng]
+C[Happy to keep pushing because it weakens the R12 group.];W[rk];B[rm]
+C[Taking a large corner and prevent him from growing his eyespace. Also trying not to make direct contact.]
+;W[nj];B[mg]
+C[Lean.];W[lg];B[mi];W[mj];B[li];W[oh]
+C[This must've been an eyeshape move as it doesn't attack anything. Wouldn't getting out be better?]
+;B[fq]
+C[Playing away from thickness.]TR[pl][rm][qp][oq];W[hq];B[cq];W[dq];B[cp]
+;W[co]
+C[I love the trick moves that I know how to thwart...!];B[cr];W[dr];B[do]
+;W[eo];B[dn];W[fp];B[cn];W[en];B[jd]
+C[Leaning on his stones to get my group out into the center.];W[id]
+C[Yeah you can cut a knight's move, but wow.];B[ic];W[ie];B[je];W[if]
+(;B[jc]
+C[I didn't want to get cut surrounded by White.
+
+It looks like I could have pushed one more time and still been okay, but if he cuts, the fight is violent.]
+;W[fe];B[gd]
+C[Protecting the connection and my eyespace, while also threatening the cut.]
+;W[ge]
+(;B[lf]
+C[Looks like this cut was a move too premature. Setting it up first would have been more severe.]
+;W[kg];B[le];W[md]
+C[White is now sealed in.];B[lj];W[ld];B[jf];W[jg];B[pg]
+C[Taking a sente move because I was a little worried about white playing Q14.]
+;W[ph];B[cj]
+C[I wasn't sure how far to go. I was a little bit worried about an invasion if I went too far.]
+;W[ch];B[ej];W[eh];B[em]
+C[Now that I have E10 and C10 I'm not worried the cut after the hane.]
+(;W[fm]
+(;B[fl]
+C[The hane looks like it ends up with a better result for Black even with white's cut.]
+;W[el];B[dm];W[gl];B[fk];W[gk];B[gj];W[fi];B[fj]
+(;W[ih]
+C[He's protecting against his own cut but that's a little bit simple-minded. He can at least play H12 which still does just a good a job at protecting the cut, but is more active.]
+;B[hj];W[jj]
+C[Stopping my two strong groups from connecting isn't that valuable.];B[gm]
+(;W[hm]
+C[Not sure why he played the atari rather than connecting. Maybe it ends up with a better shape?]
+;B[fn];W[gn];B[fm]
+(;W[go]
+C[Looks like he has to protect this side rather than the G9 group or risk losing the D3 group.]
+;B[hl];W[im]
+(;B[il]
+C[I played this move reflexively and I was punished for it. I was certain this was my largest mistake in the game, which in the end isn't so bad since it's "just" poor direction. (Turns out later analysis shows an actual blunder)
+
+Better would have been to diminish White's influence with a play at M3.]
+;W[mq];B[mo];W[kp];B[jm];W[jl]
+C[This cut doesn't bother me because White has plenty of defects to exploit, and Black has stones nearby.]
+;B[jn];W[hn];B[jo];W[kl];B[ln];W[jp];B[ml]
+C[Black effectively reduced White's moyo here at the bottom.];W[kj];B[hh]
+;W[hg];B[gh];W[gg];B[fh];W[fg];B[lp];W[lq];B[ip]
+(;W[iq];B[hp];W[gp];B[oc]
+C[Now that all the groups are more or less sealed off, time to start poking to see where I can make profit. It's also a defensive maneuver to make sure he doesn't do the same to me first.]
+;W[ob];B[kb];W[lb];B[jb];W[kd];B[mb]
+C[It looked like there were enough defects here that I just plopped a stone on the board.]
+;W[ma]
+(;B[nb]
+C[This was my blunder. I should have spent the time to read. O18 lets him capture my two stones. O19 kills.
+
+Oh well. It's a flashcard now!]
+;W[na];B[pa]
+C[I should have saved this for a ko threat. Especially because the shortage of liberties means he can't hane.]
+;W[mc];B[eq]
+C[This was a little too optimistic. Also should have saved it for a ko threat.]
+;W[ep];B[ds];W[es];B[cs];W[er];B[qk];W[qj];B[bh]
+(;W[bg]
+C[I can't fault him for hane-ing this way; looks like I can stir up some trouble if he were to block me from the other side.]
+;B[bi];W[ql]
+C[He tenuki'd away from B13, which means I can clamp later.];B[qm]
+(;W[rl]
+C[Why not capture the stone instead?];B[pk];W[ok];B[ol];W[nl];B[nm];W[nk]
+(;B[om]
+C[It looks like S11 instead right now would have killed his group.];W[ni]
+;B[bf];W[cf];B[ag];W[be];B[cg];W[dg];B[bg];W[mp];B[np]
+C[The stone he atari'd isn't important; more important is protecting my territory.]
+;W[nq];B[op];W[or];B[pr];W[ns]
+C[I wasn't worried about the clamp because of the close-by Black stones.]
+(;B[ll];W[ij];B[df]
+C[This was a silly overplay.];W[ce];B[rg];W[rh];B[io];W[ei];B[di];W[dh];B[cb]
+;W[bb];B[db];W[lo]
+(;B[ko]
+C[This was a mistake. Better to play solidly at N6 to avoid the cut.];W[mn]
+;B[no];W[lm];B[lp];W[pn];B[lo]
+C[I ignored his ko threat because there was no way he was capturing anything even if he did cut.]
+;W[km];B[mm];W[pm];B[qn];W[ci];B[dj];W[og];B[of];W[qg];B[pf];W[rf];B[re]
+;W[sg];B[dd];W[de];B[gi];W[eg];B[ki];W[mh];B[lk];W[nh];B[ji];W[ii];B[kk]
+)
+(;B[mn];W[kn];B[km];W[ko]))
+(;B[js];W[qr];B[ps];W[qq];B[pq];W[rp];B[ro];W[rq];B[rs];W[qs];B[sr];W[so]
+;B[rn];W[sp];B[rr];W[sn];B[sm]))
+(;B[ri]
+(;W[rj];B[rh];W[rg];B[qg];W[rf];B[re];W[qi];B[sg];W[oi];B[ni];W[sl];B[sj]
+;W[sh];B[si];W[sk];B[sf])
+(;W[rh];B[rj];W[qi];B[sl];W[oi];B[ni];W[rf];B[re];W[rg];B[qe];W[sf];B[sh]
+)))
+(;W[pk];B[ol]))
+(;W[bi];B[bg];W[cg];B[bf];W[bd];B[cf];W[df]))
+(;B[na]
+(;W[nb];B[la])
+(;W[la];B[ka];W[lc];B[nb])
+(;W[oa];B[la];W[nb];B[ma];W[mc];B[ka])))
+(;W[io];B[in];W[ho];B[fo];W[ep];B[gp];W[hp];B[gq];W[iq];B[er]))
+(;B[lq];W[lo];B[jp];W[kp];B[kq];W[ip];B[jq];W[jo];B[iq];W[io]))
+(;W[hl];B[go];W[hn];B[fo];W[ep];B[gp];W[gq];B[fr]))
+(;W[fn];B[hm]))
+(;W[hh];B[ig];W[ih];B[hg];W[gg];B[hf];W[he];B[gf];W[ff]))
+(;B[el];W[fl];B[fk];W[gk];B[gj];W[hk]))
+(;W[dm];B[cm];W[dl];B[el]
+(;W[dk];B[ck];W[dj];B[di];W[ei];B[ek])
+(;W[cl];B[bl];W[dk];B[dj];W[bm];B[bn];W[bk];B[am];W[bj];B[ck];W[bi])))
+(;B[kg];W[jg];B[lf];W[le];B[lh];W[kf];B[lg]))
+(;B[jf];W[jc];B[ig];W[ge];B[kg];W[gc];B[gd];W[hd];B[he];W[hf];B[fe];W[hg]
+;B[gb]))
+(;B[fq];W[qb];B[rb];W[rd];B[rc];W[qe];B[pe];W[rf]))
+(;B[oc];W[nd];B[qf];W[jc];B[pl])
+(;B[lc];W[qc];B[pc];W[qd];B[pe];W[pb];B[ob];W[qb];B[oc];W[qf]))
 
