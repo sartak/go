@@ -1,0 +1,548 @@
+(;GM[1]FF[4]SZ[19]AP[SmartGo:0.8.2]CA[utf-8]
+GN[2017/02-09-Matt-Clarke]
+PW[MattC]WR[5k]
+PB[sartak]BR[12k]
+DT[2017-02-10]
+PC[OGS: http://online-go.com/game/review/224969]
+KM[7.5]
+RE[B+T]
+CP[online-go.com]
+RU[aga]
+C[
+MattC: I might need some tips on how to use this. From move 0: 
+MattC: no. From move 0: 
+MattC: I should type here
+MattC: yeah
+MattC: I didn't know what to do on the top
+MattC: so I just threw stones on the board
+]
+;B[pd];W[dp];B[dc];W[qp];B[op];W[oq]
+C[
+MattC: white might not want to play c6
+]
+(;B[pp];W[pq]
+C[
+sartak: right. O3 is the typical joseki I know, but I figured a wall facing my 4-4 would be better
+MattC: O4 makes R5 awesome
+sriracha: Yeah, I kinda like Q4, but you have to follow it up right
+sartak: though I haven't studied avalanche, so maybe trying to play it is bad :)
+]
+(;B[np]
+C[
+sriracha: O4 is typically at R5
+sartak: ah
+sriracha: The famed "avalanche joseki"
+MattC: I was expecting R5
+sriracha: Either that or you play Q4 at O3
+]
+;W[qo]
+C[
+sartak: agreed
+sartak: yeah after this move I felt I'd made a mistake :)
+]
+;B[nq];W[jq];B[pn];W[po];B[on];W[oo];B[no];W[nn]
+C[
+sartak: I didn't expect you to actually cut her
+sartak: here
+MattC: I figured the cut would be a thorn in black's side
+sriracha: Black is already in deep trouble
+sartak: heh yeah..
+]
+(;B[kp]
+C[
+MattC: especially because black's five stones don't have any base yet
+sartak: I saved atari'ing the cutting stone until I figured out which direction would need it more
+sartak: any better move here? N6, sacrificing the two stones, then counterattack K3?
+]
+;W[gq]
+C[
+MattC: I liked the exchange of L4 for G3
+MattC: for white
+sartak: I didn't :|
+sartak: I felt I had to stop the double wing
+sriracha: L4 is pretty meek
+]
+;B[cn];W[ck]
+C[
+MattC: yeah, messing up the joseki, and then getting cut was really bad for black
+sartak: any better ideas than jumping in the corner?
+sartak: I probably shouldn't drive the review ;)
+sriracha: Nope, jumping in is right (I think)
+MattC: The only thing I'm thinking right for black is c3
+]
+;B[cq]
+C[
+sartak: nod
+];W[cp];B[dq];W[eq]
+C[
+sriracha: B4 now
+sartak: yeeah, this one bruised my ego a little
+MattC: I thought I messed up
+MattC: but this turned out alright for me
+sartak: I played against this trick move as if G3 weren't there
+]
+(;B[bq];W[bp];B[ep];W[do]
+(;B[fq];W[er]
+(;B[gp];W[fr]
+C[
+sriracha: which is not to say that I was right
+]
+(;B[hq]
+(;W[gr]
+C[
+MattC: I wanted to threaten to connect to k3
+]
+(;B[hp];W[hr]
+C[
+MattC: you let me off easy
+sriracha: I guess probably?
+]
+;B[jp]
+C[
+MattC: I figured it was a free forcing move
+]
+(;W[iq]
+(;B[nr];W[ip];B[io];W[nm]
+C[
+sriracha: You were right to ignore O2
+sriracha: It's just endgame
+sartak: fair enough
+sartak: J4 did prove to be way more important :)
+]
+(;B[jn];W[ho];B[hn]
+C[
+sriracha: I think you have to try to save the two stones on the right or the game is over
+]
+;W[go];B[gn];W[fo]
+C[
+MattC: they are bigger than they seem
+sartak: I was thinking R6 to make R3 more severe
+]
+(;B[qq]
+C[
+sriracha: at the end of that
+];W[rq];B[qr]
+C[
+sriracha: S1
+];W[rr];B[pr];W[qm]
+C[
+sriracha: Did you look at Black R6? It doesn't work (I think)
+MattC: and then decided that it probably worked
+]
+(;B[ce]
+C[
+sriracha: I would just R14 now as W
+sriracha: and try to cruise to victory
+sriracha: though my last game against Matt demonstrated just how bad my cruising technique is
+sartak: yeah I was thinking R14 now as B instead
+sriracha: so to speak
+sartak: limits how much white can get on the right
+]
+;W[nc];B[lc];W[qf]
+C[
+sartak: I didn't know how to deal with R14
+sriracha: Your response was pretty normal
+sartak: I think attaching on top like I did is the usual response but it felt like it gave white too much
+MattC: eidogo sayso16
+MattC: o16
+]
+(;B[pf];W[pg];B[of];W[qc];B[pc];W[qd];B[qe];W[re];B[pe];W[rf];B[qb];W[og]
+;B[ng]
+C[
+sartak: how'd we do here Dan?
+sriracha: Now I thought W O12
+sartak: yeah that is what I was evaluating! whether to double hane
+]
+(;W[jc]
+(;B[hc];W[je]
+C[
+sartak: nod
+]
+(;B[le];W[fc]
+C[
+sartak: bruh
+sriracha: F17 is way too greedy IMO
+sartak: :)
+sriracha: Just stroll out with your K17 stones
+sriracha: Black's the guy who needs to start a big fight to win
+]
+;B[gd];W[ed]
+C[
+MattC: "rich people shouldn't start fights" is the proverb here
+sriracha: Yup
+]
+(;B[dd]
+C[
+sartak: I agree, but I wanted to stay solid
+];W[ee];B[gf]
+C[
+sriracha: D16 feels weird
+];W[eg]
+(;B[if]
+C[
+sriracha: Can you get away with K13?
+];W[kf];B[lf];W[kg]
+;B[hh]
+C[
+sriracha: J14 also feels funny
+];W[lg];B[nh];W[mg]
+(;B[nf]
+(;W[lb]
+C[
+sriracha: :)
+sartak: I was really disappointed with my result here
+sriracha: M18 seemed a little over the top, but it worked out
+]
+(;B[kb];W[kc];B[mb];W[ld]
+C[
+MattC: I think black might be able to cut
+MattC: m18 l16
+]
+(;B[mc]
+C[
+sriracha: On the other hand, if he makes a base or an eye along the way, then great
+]
+;W[md];B[nb];W[mf];B[dj]
+C[
+MattC: I read out a capture on your two black stones
+sriracha: That'll do
+]
+;W[dh];B[cj];W[ei];B[ek]
+C[
+sriracha: I like D10
+sriracha: Black's one chance is to capture White's stones in the TL
+sartak: I picked that one up from get strong at attacking. there's an almost identical problem
+]
+;W[gj];B[ij];W[hi];B[ii];W[gh];B[hg];W[jh];B[hj];W[gi];B[ih];W[he];B[ge]
+;W[hd];B[hb]
+(;W[fb]
+C[
+MattC: does nothing for the life and death of my group
+MattC: endgame
+sriracha: Oh, nvm
+sriracha: If you D18, B E17
+]
+;B[gl]
+C[
+MattC: f18 was a mistake
+sriracha: Yup
+]
+(;W[bh];B[ec];W[fd];B[cg];W[fk];B[fl];W[el];B[ch];W[ci]
+(;B[di];W[bi];B[bj]
+C[
+MattC: white d9 instead of e10 works I think
+]
+(;W[ej]
+(;B[bk];W[dk];B[cl];W[em];B[fn]
+(;W[en];B[qj];W[rb];B[qh]
+C[
+sartak: can you hear me?
+sriracha: I think Matt made this game a lot more exciting than it needed to be :)
+sartak: typical SDK bully
+sartak: smartgo score estimator says it's close, W+4.5. maybe a little generous to B
+sriracha: !
+sartak: and I'm sure your endgame will make it less close
+sartak: the left side is big
+sartak: it also thinks black has a decent amount in the center
+sriracha: Can I download an SGF from here?
+sriracha: Ah, found it
+sartak: yep, in the menu on the right, the down arrow icon
+sartak: I'm sure white would have reduced the center considerably
+sriracha: Crazy Stone says White 68%, up by 15
+sartak: nod
+sartak: thanks for the game Matt, and to both of you for the review
+MattC: thanks Shawn
+MattC: thank Dan
+sriracha: Thanks for the entertainment :)
+MattC: \\o/
+MattC: hopefully we'll meet next thursday
+sriracha: Weather willing
+]
+)
+(;W[pj];B[en];W[dn]))
+(;B[dk];W[dl]
+(;B[bk]
+(;W[cl];B[bl];W[bm];B[cm]
+C[
+MattC: ooh
+sartak: dang
+sartak: wish I'd spotted this
+])
+(;W[bl];B[cl];W[cm];B[bm];W[ck]
+C[
+sartak: hmm, maybe it doesn't work
+]))
+(;B[cl];W[bk])))
+(;W[dk];B[bg];W[ej];B[bk];W[bl]))
+(;B[bi];W[di];B[bg];W[bj]))
+(;W[db];B[ec];W[fd];B[eb]))
+(;W[gc]
+C[
+sriracha: Could make an eye
+];B[jb]
+C[
+sriracha: with D18
+]))
+(;B[md];W[mc]
+C[
+sriracha: I wasn't really reading at this point though
+]
+))
+(;B[kd]
+C[
+sriracha: I thought W should be running rather than trying to connect to O17
+]
+))
+(;W[mf];B[me];W[ne];B[nd]
+C[
+sartak: this game is hard
+]))
+(;B[mf]
+C[
+sriracha: Yeah
+]))
+(;B[jg]
+C[
+sriracha: Don't touch when you attack
+sartak: nod
+]))
+(;B[de]
+C[
+sriracha: First instinct is G14
+])
+(;B[gf]
+C[
+MattC: I was thinking of f16 then fix the corner
+sriracha: What is he going to do to your two stones on the left?
+sriracha: The two stones at H17 are much weaker
+sartak: makes sense
+]
+)
+(;B[fd]
+C[
+sriracha: Independent of that D16 is weird shape
+];W[ec]
+))
+(;B[he];W[le]
+C[
+sriracha: I think H15 gives you more of a chance to come back
+sartak: I was a little too worried about O14
+sriracha: Yeah, you're behind by a lot in any case
+]
+))
+(;B[kd]
+(;W[jd];B[je]
+C[
+sriracha: If B L16 I might just W G16 or something
+];W[ie]
+)
+(;W[gd]
+C[
+sartak: nod
+sriracha: Is that too weird? I just want to reduce
+sartak: seems fair to me, and robbing white of the base is why my reply was H17 instead of L16
+]
+)))
+(;W[nh];B[mh]
+C[
+sriracha: Maybe N13 O14 O11
+]
+(;W[nf];B[mg]
+C[
+sriracha: I thought the upper right sequence made sense
+sriracha: I don't think W would play O14
+]
+)
+(;W[mg];B[nf]
+C[
+MattC: I was too jealous of black's top
+];W[ni]
+C[
+sriracha: Yeah, you didn't need to be
+sartak: just take your seventh line territory :)
+sriracha: You destroyed him in the BL corner and did better than average in the BR
+]
+)))
+(;B[nd];W[of]))
+(;B[qf]
+C[
+MattC: black also has q8 and p8 for forcing moves later
+sartak: yeah, that plus the peep near R13 is why I invaded at the end, figured there was enough to get two eyes
+]
+;W[de])
+(;B[qn];W[rn]
+C[
+sriracha: but it's worth looking at (after White R7)
+];B[ro]
+;W[rp];B[rm]
+C[
+MattC: I was looking at it
+]
+(;W[so]
+C[
+sriracha: I think
+];B[pm];W[ql];B[pl]
+C[
+sriracha: T5 -> Q7
+])
+(;W[pm];B[sn];W[om];B[rn];W[rl]
+C[
+sriracha: Yeah
+sriracha: Or maybe T5 -> T6 is cleaner
+sartak: I didn't read that one :)
+MattC: I read most of it
+]
+;B[sp];W[sl];B[sq];W[sm]
+C[
+MattC: white kills
+])))
+(;B[qn];W[rn]
+(;B[pl]
+C[
+sriracha: I was thinking P8
+];W[rm]
+C[
+MattC: ooh
+sriracha: Crane's nest!
+MattC: I know this shape
+sriracha: At least now you have a fight
+sartak: black to play though :)
+sriracha: White's two stones are now weak, not strong
+]
+(;B[ql])
+(;B[ol]
+C[
+sartak: yeah, I like this branch better
+];W[nl];B[qq]
+C[
+sriracha: Yeah
+]
+(;W[qr];B[rq];W[ro];B[rr];W[pr]
+C[
+sriracha: I think
+];B[rs]
+C[
+sriracha: Looks like it captures
+MattC: white s3 rather than r2
+]
+)
+(;W[rq];B[qr]
+C[
+sriracha: and S2 to force again
+sriracha: (as in the game)
+]
+;W[rr];B[pr])))
+(;B[ol]
+C[
+sriracha: First
+]))
+(;B[ol];W[om];B[pm]
+C[
+sriracha: Maybe not :)
+];W[pl];B[ql]
+C[
+sriracha: I'm not sure if it works but it's the standard idea
+]
+;W[pk]))
+(;B[ln];W[jo];B[jn];W[ho];B[in]))
+(;B[ip]
+C[
+MattC: I misread the cut at r3
+];W[kq];B[lq]
+C[
+sriracha: Was J3 even necessary?
+]))
+(;W[jd];B[ir]
+C[
+MattC: because I thought j4 would be severe
+]
+(;W[iq];B[jr]
+(;W[kr];B[kq])
+(;W[kq];B[kr]))
+(;W[jr];B[iq];W[is]
+C[
+sriracha: Yeah, I was yelling at you to push through at J4 (and then you did)
+]
+)))
+(;B[hr]
+C[
+MattC: I figured as long as my lower group had more liberties than your corner group I was fine
+]
+;W[hp];B[ip];W[ho];B[iq]
+C[
+sriracha: White's good either way I think
+];W[jp];B[dr];W[fp]
+C[
+sartak: yeah I couldn't have saved all my cutting stones
+]
+))
+(;W[fp]
+C[
+sartak: I was expecting that yeah
+];B[eo]
+C[
+sartak: it's definitely a fight..
+]
+(;W[go])
+(;W[fo];B[en];W[go]
+C[
+sriracha: White has to be careful about his 4 stones on the left
+MattC: I was worried about something like this
+sartak: hmm
+sartak: yeah
+MattC: yeah
+sartak: just noticing that haha
+]
+)))
+(;B[fp];W[hp];B[ho];W[ip]
+C[
+sriracha: I wanted White to take at F4 after Black H3
+];B[gn]
+))
+(;B[fr];W[fp];B[eo];W[gr]
+C[
+sriracha: I think I said E2 for White right before White played E2
+sartak: ah
+]
+))
+(;B[er]
+C[
+sartak: is this when you were suggesting E2 dan?
+]))
+(;B[kh]
+C[
+MattC: I was expecting some crazy fight
+])
+(;B[bp];W[bo];B[bq];W[co];B[er];W[fr];B[dr]
+C[
+MattC: I was worried about white's group dying
+]))
+(;B[mn];W[nm];B[mm];W[nl]
+C[
+sriracha: Maybe? It is just a really small extension and doesn't even really pressure White
+]
+;B[hq]
+C[
+MattC: you still have to worry about the cut at n5
+sartak: nod
+sriracha: This at least feels like you're trying to actually do something
+sriracha: whether or not it's good :)
+sartak: hard to come back from the cut I guess
+]
+))
+(;B[qo];W[np]
+C[
+sriracha: Enh, none of us have
+MattC: haha it's true
+]))
+(;B[nq];W[pq];B[fq];W[cn];B[np];W[qn]
+C[
+sartak: is that right?
+sriracha: Yeah, now K4
+];B[jp]
+C[
+MattC: this would be nice for black
+MattC: very efficient
+]
+))
+
