@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+  <title>sartak go games</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     p { font-size: 1.25em }
@@ -55,6 +56,7 @@
 
         var sgf = getParameterByName('sgf');
         if (sgf) {
+            document.title = document.title + " - " + sgf;
             sgf = sgf.replace(/^(20\d\d)-(\d\d-\d\d\w?-[\w-]+)$/, '../$1/$2.sgf');
             var gliftWidget = glift.create({
                 sgf         : sgf,
