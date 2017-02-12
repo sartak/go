@@ -1,4 +1,4 @@
-(;GM[1]FF[4]SZ[19]AP[SmartGo:0.7.3]CA[utf-8]
+(;GM[1]FF[4]SZ[19]AP[SmartGo:0.8.2]CA[utf-8]
 GN[2017/01-13-Indigora]
 PW[Indigora]WR[10k]
 PB[sartak]BR[13k]
@@ -7,36 +7,67 @@ PC[OGS: http://online-go.com/game/7473758]
 KM[6.5]
 RE[W+T]
 CP[online-go.com]
-RU[japanese];B[pd];W[pq];B[dc];W[dp];B[ce];W[qo];B[fq];W[qf];B[nd]
+RU[japanese]
+C[Additional commentary by Alexandre Dinerchtein (AD)];B[pd];W[pq];B[dc]
+;W[dp];B[ce];W[qo];B[fq];W[qf];B[nd]
 C[I played high because I had the enclosure facing me.];W[eq];B[fp];W[dn]
 ;B[jq];W[mq];B[qh];W[rd];B[qc];W[lc]
-C[This move was annoying to deal with, so much so that I'm discouraged from playing high after my opponent approaches the orthodox 4-4.]
+C[This move was annoying to deal with, so much so that I'm discouraged from playing high after my opponent approaches the orthodox 4-4.
+
+AD: Fuseki is comfortable for Black.]
 ;B[jc]
-C[So far I think this is good for Black. It's only move 19 and White has already made two weak groups.]
-;W[rc];B[rb];W[pb];B[qb];W[oc];B[nc];W[od];B[pe];W[oe];B[pf]
-C[I was happy at this point because now White has three weak groups in this corner.]
-;W[qg];B[pg];W[rh]
+C[So far I think this is good for Black. It's only move 19 and White has already made two weak groups.
+
+AD: Good move. White doesn't have many points, and now has two weak groups.]
+;W[rc];B[rb];W[pb];B[qb];W[oc]
+(;B[nc]
+C[AD: Maybe just stay connected and block?];W[od]
+(;B[pe]
+C[AD: Even now Black can block.];W[oe]
+C[AD: White has such a good shape. While Black may be able to kill the right-hand White group, if White can kill the two Black stones on the left, that would be too good for him.]
+;B[pf]
+C[I was happy at this point because now White has three weak groups in this corner.
+
+AD: White should play at A. It would be a good trade.]
+LB[nb:A]
+(;W[qg];B[pg];W[rh]
 (;B[qi]
-C[I think I should have hane'd instead, to capture the two stones in the top right, to make my group both strong and out into the center.]
+C[I think I should have hane'd instead, to capture the two stones in the top right, to make my group both strong and out into the center.
+
+AD: If Black hanes, then White gives up some stones, but gets a ponnuki on the outside and also takes sente, and Black's territory is not very big, so we can't say it's bad for White. So Black's move in the game is not necessarily a mistake.]
 ;W[ri];B[qj]
 C[This does feel like I'm letting White off the hook by giving him room to live, but he's pushing from behind on the second line, which is very good for Black.]
-;W[nb];B[ld];W[mc];B[md];W[kc];B[kd];W[jb];B[ib]
+;W[nb]
+C[AD: This is great for him. Difficult to say whether Black's group is thickness or weakness. And Black has no points.]
+;B[ld]
+C[AD: It's difficult for Black to use the two stones. It was important to save them before, but now they're not very useful. So better than 37 would be A.]
+LB[cl:A];W[mc];B[md]TR[kd]
+C[AD: White can cut, and Black would be too heavy in the center.]
+(;W[kc];B[kd];W[jb];B[ib]
 C[Here I hane'd because I could see that the cut doesn't work.]
 (;W[kb];B[ic];W[nf];B[nh]
 C[I blocked from this side because I felt that of the two groups, the right one was a little weaker, since the left one can easily connect to my corner enclosure.]
-;W[mg];B[li];W[rj];B[qk];W[cg];B[ci];W[eg];B[dh]
-C[I'm not sure about this move... I like it because the followup at F11 lets me get out faster.]
+;W[mg]
+(;B[li];W[rj];B[qk];W[cg]
+C[AD: The right play for White would be at A or B. This is too close to Black thickness.]
+LB[cj:A][ck:B];B[ci];W[eg];B[dh]
+C[I'm not sure about this move... I like it because the followup at F11 lets me get out faster.
+
+AD: This move is fine. It makes him heavy.]
 ;W[dg];B[fi];W[ch]
 (;B[dj]
 C[Should I have connected solidly instead? I didn't appreciate it during the game but it looks like if we play out the obvious moves, White can take a very nice peep at C9 which works well to help seal off a large corner.]
-(;W[ed];B[ee]
+(;W[ed]
+C[AD: You later killed his group but lost the corner. You can try to kill without losing the corner.]
+(;B[ee]
 C[Separate.];W[dd];B[de];W[cd];B[be];W[ec]
 (;B[bc]
 C[This move was an overplay. I can't both keep the corner and stop him from connecting his two groups.]
 ;W[bd]
 (;B[fe]
 C[Now with this move I realized I had been too greedy in trying to prevent White from taking anything, which is unreasonably optimistic. So I gave up the corner in order to keep his two groups separated, which lets me continue attacking something.]
-;W[ac];B[lp]TR[pg][nh][qh:qk][fi][li][dj][fp][lp]
+;W[ac]
+C[AD: Now Black is behind.];B[lp]TR[pg][nh][qh:qk][fi][li][dj][fp][lp]
 C[Now I'm feeling that I have a lot of stones facing the center of the board, so I'd like to turn that into territory.
 
 I didn't realize it during the game, but I have almost no points now that White ruined my moyo in the top left. Capturing the D13 group will give me so points, but not enough for the three corners he has.
@@ -46,10 +77,14 @@ This is my best guess as to why I lose my games: whenever I can, I take the outs
 (;B[hr]
 C[Was playing on the bottom too passive? It didn't end well for me. It looks like playing on top would have worked just as well to prevent him from connecting.]
 ;W[ir];B[iq];W[gr];B[hp];W[gq]
-(;B[jr];W[hs];B[fr]
+(;B[jr];W[hs]
+(;B[fr]
 C[I'm trying to seal him in, while also undercutting both of his corners. But it was a little too greedy I think, as now I can't connect my two halves. So now Black has two weak groups.]
-;W[gp];B[fo];W[ho];B[io];W[go]
-C[H4 isn't important so it wasn't worth saving, especially since its capture will leave a false eye.]
+;W[gp];B[fo];W[ho]
+C[AD: Now it's too difficult for Black.];B[io];W[go]
+C[H4 isn't important so it wasn't worth saving, especially since its capture will leave a false eye.
+
+AD: Black is separated into two weak groups, and has no points except for the four stones.]
 ;B[fn];W[in];B[jo];W[dr];B[er]
 C[I played this both to prevent him from connecting and also to disrupt his corner a little.]
 ;W[cl]
@@ -84,14 +119,30 @@ Even if the bottom left white group lived and the bottom left black group lived,
 (;W[gj];B[dl];W[gi];B[fh]))))
 (;B[cm];W[bl];B[dl];W[bj];B[bi];W[dk];B[el];W[ck];B[ek];W[ak];B[ai];W[aj]
 ))
+(;B[fn];W[fr];B[mp];W[nq];B[kg]
+C[AD: If Black can keep a big center, maybe it is still possible to win.]
+))
 (;B[gp];W[fr];B[jr];W[hs]))
 (;B[hp];W[iq];B[ip];W[jr];B[kr];W[kq];B[jp];W[lr];B[ir];W[ks];B[hr]))
 (;B[ad];W[fe];B[ff];W[ef];B[fd];W[ge];B[gd]))
 (;B[bd];W[bc];B[bb];W[cc];B[ac]))
+(;B[ec];W[gg]))
 (;W[bi];B[bj];W[bh];B[gg];W[ck];B[cj];W[ei]))
 (;B[di]))
+(;B[rj]
+C[AD: This move is sente];W[rf];B[si];W[sg]))
 (;W[ic];B[jd];W[hb];B[kb]))
-(;B[ri];W[qi];B[ph];W[rj];B[rg]
+(;W[kd];B[mf]))
+(;B[ri];W[qi];B[ph];W[rj]
+(;B[rg]
 (;W[rf];B[sh])
-(;W[si];B[qe];W[rf];B[re];W[sg];B[se])))
+(;W[si];B[qe];W[rf];B[re];W[sg];B[se]))
+(;B[nb]
+C[AD: Kill White's stones later.]))
+(;B[nb]
+C[AD: Now Black's group is thickness.]))
+(;W[nb];B[qg];W[cj]))
+(;B[oe]))
+(;B[od]
+C[AD: White is not completely connected.];W[as];B[nb];W[nc];B[ob]))
 
