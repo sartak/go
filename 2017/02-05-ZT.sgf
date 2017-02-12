@@ -1,4 +1,4 @@
-(;GM[1]FF[4]SZ[19]AP[SmartGo:0.8.1]CA[utf-8]
+(;GM[1]FF[4]SZ[19]AP[SmartGo:0.8.2]CA[utf-8]
 GN[2017/02-05-ZT]
 PW[sartak]WR[13k ]
 PB[ZT]BR[14k+]
@@ -23,7 +23,8 @@ C[And so I took the proper extension. I considered K4 instead but I didn't like 
 ;B[oq]BL[38.0]
 C[This guy's crazy!];W[pq]WL[588.0]
 C[Descending to keep him out of my corner, and to try to play a hane at the head of two.]
-;B[pr]BL[37.0];W[qr]WL[585.0];B[ps]BL[36.0]
+;B[pr]BL[37.0];W[qr]WL[585.0]
+(;B[ps]BL[36.0]
 C[Not afraid of this cut because I can ladder him.];W[mq]WL[573.0]
 C[Take away his base, while claiming more for myself.]
 (;B[nq]BL[29.0];W[mp]WL[567.0]
@@ -36,7 +37,8 @@ C[I felt a little bit too weak to hane. But playing it out, it seems like it wou
 ;B[oo]BL[22.0];W[pn]WL[506.0]
 C[I should have hane'd by now. But I guess I preferred to profit by attacking rather than trying to kill.]
 ;B[on]BL[21.0];W[om]WL[498.0]
-C[Finally.];B[mn]BL[19.0];W[kn]WL[488.0]
+C[Finally.];B[mn]BL[19.0]
+(;W[kn]WL[488.0]
 C[Again I thought it would be better to let him struggle and profit rather than go in for the kill.]
 ;B[nm]BL[17.0];W[ol]WL[486.0];B[nl]BL[16.0];W[ok]WL[479.0];B[oj]BL[596.0]
 C[He spent a long time considering this move. I guess he didn't want to give up his position here.]
@@ -47,18 +49,21 @@ C[I figured it'd be better to solidly march on than try to keep up with him. Plu
 C[This is an odd shape he's made.];W[qg]WL[432.0]
 C[Trying to take away the base on his two stones, as well as making a large extension from my corner.]
 ;B[pk]BL[589.0];W[qm]WL[423.0]
-C[I didn't want to give him any more aji than I had to.];B[ql]BL[588.0];W[rm]
-WL[419.0];B[rl]BL[587.0];W[qi]WL[405.0]
-C[Again robbing his eyespace.];B[qj]BL[585.0];W[ri]WL[392.0];B[rj]BL[582.0]
-;W[nh]WL[385.0]
+C[I didn't want to give him any more aji than I had to.];B[ql]BL[588.0]
+(;W[rm]WL[419.0]
+C[This was too slow.];B[rl]BL[587.0];W[qi]WL[405.0]
+C[Again robbing his eyespace.];B[qj]BL[585.0];W[ri]WL[392.0]
+(;B[rj]BL[582.0];W[nh]WL[385.0]
 C[Now that he clearly has only one eye, time to profit!];B[nj]BL[578.0];W[mj]
 WL[383.0];B[ni]BL[576.0]
 (;W[oh]WL[376.0]
 C[While I could have blocked at N11, it seemed like my position was a little too weak to suffer a counterattack.
 
 Maybe it would have been alright though.]
-;B[mi]BL[575.0];W[lg]WL[367.0]
-C[Profit!];B[li]BL[574.0];W[kk]WL[352.0]
+;B[mi]BL[575.0]
+(;W[lg]WL[367.0]
+C[Profit!]
+(;B[li]BL[574.0];W[kk]WL[352.0]
 C[Keep him separated. I wasn't worried about the cut.]
 (;B[jk]BL[570.0];W[kj]WL[598.0];B[ki]BL[569.0];W[jj]WL[595.0]
 C[Keep him separated.];B[ji]BL[566.0];W[ij]WL[593.0];B[ii]BL[565.0];W[fc]
@@ -84,11 +89,15 @@ BL[594.0];W[gj]WL[434.0];B[gi]BL[592.0];W[eh]WL[425.0]
 C[This turned out to have been a serious overplay. There's not enough weakness to exploit here, and my positions are too far away to run to.]
 ;B[dg]BL[590.0];W[ei]WL[423.0];B[fj]BL[588.0]
 (;W[fi]WL[419.0]
-C[Better would have been to split.];B[ej]BL[587.0];W[fg]WL[398.0]
+C[Better would have been to split.];B[ej]BL[587.0]
+(;W[fg]WL[398.0]
 C[No way I'm connecting out.];B[gf]BL[586.0];W[ff]WL[396.0];B[fe]BL[585.0]
 ;W[gg]WL[395.0];B[hf]BL[584.0];W[hg]WL[392.0];B[ig]BL[583.0];W[ge]WL[389.0]
-;B[ee]BL[582.0];W[if]WL[599.0]
-C[Here I start exploiting my dead group for aji.];B[he]BL[581.0];W[ie]WL[595.0]
+(;B[ee]BL[582.0]
+C[CrazyStone calls this a huge, 30 point mistake.];W[if]WL[599.0]
+C[Here I start exploiting my dead group for aji.];B[he]BL[581.0]
+(;W[ie]WL[595.0]
+C[CrazyStone also calls this a huge, 35-point mistake. I could have saved my group, and possibly killed the dragon.]
 ;B[gd]BL[576.0];W[hd]WL[593.0];B[ge]BL[575.0];W[jg]WL[588.0];B[ih]BL[573.0]
 ;W[hc]WL[577.0];B[gc]BL[571.0];W[gb]WL[576.0];B[ec]BL[569.0];W[fb]WL[573.0]
 ;B[eb]BL[567.0];W[bh]WL[567.0];B[ci]BL[565.0];W[bi]WL[566.0];B[bj]BL[563.0]
@@ -110,7 +119,9 @@ C[Casting a loose net to make sure he doesn't try to break into my territory.]
 ;B[hl]BL[562.0]
 C[No need for him to worry about the cut because his group has 1 eye + two half-eyes. So this was gote for no reason.]
 ;W[qs]WL[573.0]
-C[Wanted to make sure my corner was solid. I guess I should have worried more about the other one.]
+C[Wanted to make sure my corner was solid. I guess I should have worried more about the other one.
+
+CrazyStone is also very concerned about Black taking advantage of this shape.]
 ;B[qc]BL[559.0]
 C[I wasn't able to kill this corner invasion, but I did force it down to two points.]
 ;W[qd]WL[570.0];B[rd]BL[557.0];W[re]WL[565.0];B[sd]BL[556.0];W[pc]WL[554.0]
@@ -151,19 +162,31 @@ OS[Regis68])
 (;W[sc];B[sb];W[qa];B[ra];W[se];B[rc];W[pa])
 (;W[qa];B[ra];W[sb];B[sc];W[se];B[sa]))
 (;W[cd];B[cb];W[bb];B[cc]))
+(;W[jg];B[ih];W[gd];B[ie];W[jf]))
+(;B[he]))
+(;W[bh]))
 (;W[ej];B[ek];W[fk];B[fi];W[dk];B[el];W[cj];B[di];W[ci];B[dh];W[bh];B[ck]
-;W[bk];B[cl];W[bl];B[bm]))
+;W[bk];B[cl];W[bl];B[bm])
+(;W[fk]))
 (;W[dq];B[er]))
 (;B[cd];W[de];B[ee];W[ed]))
 (;B[lk];W[lj]
 (;B[ll];W[kj])
 (;B[kj];W[jk];B[ll];W[ki];B[jj];W[kh])))
+(;B[ki]))
+(;W[kj]))
 (;W[mi];B[oh];W[ng];B[og];W[of];B[pg];W[pf];B[qh];W[rh];B[ph];W[pi];B[oi]
 ;W[qf];B[rg];W[sg];B[si];W[rf];B[sj];W[sl]))
+(;B[oh]))
+(;W[nh]))
+(;W[nm]))
 (;W[oo];B[po];W[qo];B[pn];W[no];B[qn];W[rp];B[qq];W[qp];B[rq];W[rr]))
 (;W[np];B[lq]
 (;W[lp];B[kq];W[kp];B[kr];W[jr];B[ls])
 (;W[kq];B[lp];W[lo]))
-(;W[ls];B[lq];W[lp];B[kq];W[kp];B[kr];W[jr];B[ks]))
+(;W[ls];B[lq];W[lp];B[kq];W[kp];B[kr];W[jr];B[ks])
+(;W[qm]
+C[CrazyStone suggests this move.]))
 (;B[qq];W[rq];B[qp]))
+(;B[lq]))
 
