@@ -1,0 +1,85 @@
+(;GM[1]FF[4]SZ[19]AP[SmartGo:0.8.6]CA[UTF-8]
+GN[2017/07-06-nygard]
+PW[nygard]
+PB[sartak]
+DT[2017-07-07]
+PC[The KGS Go Server at http://www.gokgs.com/]
+KM[6.5]
+RE[B+1.50]
+RU[Japanese]ST[2]
+TM[2400.0]OT[3x30 byo-yomi];B[pd]BL[2389.6];W[dp]WL[2396.1];B[fq]BL[2378.8]
+;W[pq]WL[2381.2];B[cd]BL[2368.2];W[hq]WL[2355.7];B[cn]BL[2330.1];W[fp]WL[2337.5]
+;B[dk]BL[2321.1];W[lp]WL[2302.4];B[pj]BL[2288.4];W[nc]WL[2276.8];B[lc]BL[2259.6]
+;W[qc]WL[2270.0];B[qd]BL[2255.5];W[pc]WL[2268.6];B[od]BL[2253.4];W[oc]WL[2264.0]
+;B[nd]BL[2185.1];W[ec]WL[2253.9];B[dc]BL[2149.1];W[ed]WL[2248.1];B[df]BL[2141.3]
+;W[ic]WL[2245.1];B[le]BL[2107.0];W[oi]WL[2234.0];B[pi]BL[2090.3];W[oh]WL[2231.0]
+;B[oj]BL[2076.3];W[nj]WL[2148.8];B[nk]BL[2054.3];W[mj]WL[2124.8];B[po]BL[2038.1]
+;W[qp]WL[2079.7];B[qo]BL[2017.5];W[cq]WL[2059.2];B[mh]BL[1967.9];W[ni]WL[1994.5]
+;B[ll]BL[1905.2];W[mk]WL[1937.4];B[ml]BL[1897.2];W[nl]WL[1934.8];B[ok]BL[1892.3]
+;W[nn]WL[1930.9];B[nm]BL[1879.3];W[on]WL[1908.0];B[om]BL[1849.0];W[pn]WL[1903.2]
+;B[kj]BL[1838.9];W[ql]WL[1884.5];B[pm]BL[1772.4];W[qn]WL[1881.4];B[ie]BL[1751.7]
+;W[he]WL[1857.8];B[hf]BL[1748.7];W[if]WL[1854.0];B[je]BL[1738.1];W[gf]WL[1851.8]
+;B[hg]BL[1736.4];W[ge]WL[1843.8];B[gg]BL[1719.4];W[ef]WL[1795.9];B[dg]BL[1706.3]
+;W[bo]WL[1733.1];B[bn]BL[1696.6];W[ej]WL[1712.4];B[dj]BL[1641.2];W[ek]WL[1703.4]
+;B[el]BL[1631.9];W[ei]WL[1649.3];B[di]BL[1438.5];W[fg]WL[1587.4];B[gj]BL[1347.8]
+;W[fh]WL[1562.0];B[ho]BL[1285.7];W[ip]WL[1540.6];B[io]BL[1245.5];W[ki]WL[1475.5]
+;B[jj]BL[1141.5];W[ji]WL[1463.2];B[ij]BL[1091.7];W[ig]WL[1459.8];B[gi]BL[1015.0]
+;W[gh]WL[1450.4];B[hh]BL[1013.2];W[ih]WL[1448.5];B[hi]BL[1011.3];W[mg]WL[1446.8]
+;B[lh]BL[945.0];W[lg]WL[1443.9];B[kh]BL[937.3];W[kg]WL[1409.8];B[li]BL[910.0]
+;W[lj]WL[1406.5];B[jh]BL[908.3];W[ph]WL[1370.0];B[qi]BL[860.1];W[qh]WL[1366.9]
+;B[ri]BL[830.7];W[re]WL[1342.1];B[rd]BL[820.9];W[rh]WL[1337.9];B[qf]BL[746.4]
+;W[pf]WL[1309.4];B[qe]BL[732.3];W[qg]WL[1260.0];B[of]BL[648.3];W[md]WL[1197.6]
+;B[mc]BL[588.8];W[me]WL[1193.7];B[mf]BL[587.3];W[ke]WL[1185.6];B[lf]BL[468.4]
+;W[kf]WL[1176.1];B[ng]BL[426.0];W[ld]WL[1141.5];B[nf]BL[422.8];W[kd]WL[1139.9]
+;B[jd]BL[316.8];W[kc]WL[1128.5];B[nh]BL[177.3];W[rc]WL[1112.7];B[rf]BL[140.5]
+;W[op]WL[1026.4];B[jp]BL[129.0];W[jq]WL[1021.3];B[hp]BL[123.5];W[iq]WL[1018.9]
+;B[gp]BL[93.8];W[gq]WL[1014.6];B[ep]BL[50.9];W[fo]WL[1012.4];B[eo]BL[48.7]
+;W[fn]WL[1010.1];B[eq]BL[46.2];W[jo]WL[994.8];B[jn]BL[31.4];W[ko]WL[990.4]
+;B[im]BL[24.9];W[en]WL[981.8];B[do]BL[15.1];W[dl]WL[979.5];B[fl]BL[30.0]
+OB[3];W[kn]WL[942.5];B[km]BL[30.0]OB[3];W[cl]WL[923.8];B[dn]BL[30.0]OB[3]
+;W[db]WL[913.5];B[cb]BL[30.0]OB[3];W[de]WL[905.0];B[ce]BL[30.0]OB[3];W[dh]
+WL[901.4];B[ch]BL[30.0]OB[3];W[eh]WL[897.6];B[ci]BL[30.0]OB[3];W[hm]WL[874.8]
+;B[hl]BL[30.0]OB[3];W[co]WL[796.4];B[dq]BL[30.0]OB[3];W[cp]WL[690.4];B[cr]
+BL[30.0]OB[2];W[br]WL[686.6];B[dr]BL[30.0]OB[2];W[bs]WL[583.5];B[ao]BL[30.0]
+OB[2];W[ap]WL[576.6];B[an]BL[30.0]OB[2];W[aq]WL[568.7];B[qm]BL[30.0]OB[2]
+;W[rn]WL[566.2];B[rm]BL[30.0]OB[2];W[sm]WL[545.1];B[sl]BL[30.0]OB[2];W[sn]
+WL[542.6];B[rl]BL[30.0]OB[2];W[gk]WL[485.4];B[gl]BL[30.0]OB[2];W[fk]WL[479.9]
+;B[hk]BL[30.0]OB[2];W[ii]WL[474.8];B[jg]BL[30.0]OB[2];W[jf]WL[473.0];B[ne]
+BL[30.0]OB[2];W[jc]WL[469.2];B[pe]BL[30.0]OB[2];W[sc]WL[455.8];B[sd]BL[30.0]
+OB[2];W[eb]WL[454.6];B[mn]BL[30.0]OB[2];W[mo]WL[452.0];B[gr]BL[30.0]OB[2]
+;W[hr]WL[448.6];B[dd]BL[30.0]OB[2];W[ee]WL[442.3];B[fr]BL[30.0]OB[2];W[ln]
+WL[434.6];B[mm]BL[30.0]OB[2];W[lm]WL[432.1];B[kl]BL[30.0]OB[2];W[ca]WL[426.3]
+;B[ba]BL[30.0]OB[2];W[da]WL[416.4];B[bb]BL[30.0]OB[2];W[eg]WL[408.1];B[cg]
+BL[30.0]OB[2];W[cs]WL[386.3];B[mq]BL[30.0]OB[2];W[lq]WL[345.7];B[np]BL[30.0]
+OB[2];W[no]WL[326.3];B[rp]BL[30.0]OB[2];W[rq]WL[231.6];B[bl]BL[30.0]OB[2]
+;W[ds]WL[229.7];B[es]BL[30.0]OB[2];W[gs]WL[225.4];B[fs]BL[30.0]OB[2];W[hs]
+WL[224.1];B[]BL[30.0]OB[1];W[fi]WL[221.1];B[]BL[30.0]OB[1];W[fj]WL[219.5]
+;B[hj]BL[30.0]OB[1];W[]WL[177.7];B[]BL[30.0]OB[1]
+TW[ea:sa][fb:sb][fc:ff][gc:hd][lc:mc][id:je][lo][oo:so][bp:bq][jp:kp][mp:ns][pp][rp:sp][kq:ks][oq:os][qq:qs][sq:ss][ar:as][ir:js][lr:ls][pr:ps][rr:rs]
+TB[aa:am][bc:bk][cc][oe][re:se][cf][pf:ph][sf:sk][og:oi][qg:rh][mi:mk][ni:nj][cj:cm][lj:lk][qj:ql][rj:rk][ik:kk][pk:pl][dl:dm][il:jl][nl:ol][bm][em:hn][jm][in][fo:fp][go][er]
+C[nygard [?\]: gg
+sartak [?\]: wow, very close
+nygard [?\]: I was lucky to make it close
+sartak [?\]: thanks for the game
+nygard [?\]: Thank you!
+sartak [?\]: yeah, you fought back in the upper side very well
+nygard [?\]: Nothing but blind running.
+nygard [?\]: :)
+dfan [2k\]: I think A4 instead of A5 is the "sartak tesuji"
+nygard [?\]: Ha!
+sartak [?\]: uh oh :)
+sartak [?\]: same shape isn't it
+nygard [?\]: Pretty close.
+dfan [2k\]: W plays A5, you play B3
+nygard [?\]: I kept eyeing the lower left.
+nygard [?\]: After it lived, I really wanted to try and kill that group of yours.
+nygard [?\]: Never quite worked though..
+sartak [?\]: yeah. I felt safe because F6 only had 4 libs
+nygard [?\]: Yeah.
+sartak [?\]: though I realized maybe you could play enough forcing moves for me to take f6 off the board to live with b8
+nygard [?\]: OK, dinner for me.  See you at the review.
+sartak [?\]: see you
+nygard [?\]: You'll upload?
+]
+)
+
