@@ -1,4 +1,4 @@
-(;GM[1]FF[4]SZ[9]AP[SmartGo Kifu:4.2]CA[utf-8]
+(;GM[1]FF[4]SZ[9]AP[SmartGo:0.8.6]CA[utf-8]
 GN[2016/08-12-edithk-2]
 PW[sartak]
 PB[edithk]
@@ -8,8 +8,8 @@ HA[2]
 KM[0.5]
 RU[Japanese Rules]
 AB[gc][cg]
-PL[W]CH[1];W[ee];B[gg];W[ff];B[ge];W[fg];B[fe];W[gf];B[hf];W[hg];B[gh];W[he]
-;B[hd];W[if];B[ie];W[id]
+PL[W];W[ee];B[gg];W[ff];B[ge];W[fg];B[fe];W[gf];B[hf];W[hg];B[gh];W[he];B[hd]
+;W[if];B[ie];W[id]
 (;B[ic]
 (;W[ed];B[ie];W[fh];B[hf];W[hh];B[ig];W[ih];B[fd];W[if];B[he];W[ec];B[ef]
 ;W[df];B[de];W[cf]
@@ -21,3 +21,4 @@ PL[W]CH[1];W[ee];B[gg];W[ff];B[ge];W[fg];B[fe];W[gf];B[hf];W[hg];B[gh];W[he]
 (;B[be]))
 (;W[ie];B[ed];W[dd];B[de];W[ef];B[cd]))
 (;B[hc]))
+

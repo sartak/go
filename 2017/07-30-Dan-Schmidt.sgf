@@ -4,6 +4,7 @@ PW[sartak]
 PB[Dan Schmidt]
 DT[2017-07-30]
 KM[7.5]
+RE[B+R]
 RU[AGA (Territory)];B[cp];W[pp];B[dc];W[pc];B[eq];W[cj];B[cl];W[cf];B[cd]
 ;W[ef];B[pe];W[ph];B[md];W[oe];B[of];W[ne];B[pd];W[nc];B[qc];W[oc];B[nf]
 ;W[me];B[qb];W[pf];B[pg];W[qf];B[qg];W[re];B[qe];W[rf];B[rg];W[rd];B[qd]
@@ -24,5 +25,5 @@ RU[AGA (Territory)];B[cp];W[pp];B[dc];W[pc];B[eq];W[cj];B[cl];W[cf];B[cd]
 ;W[on];B[sk];W[sl];B[si];W[al];B[an];W[ge];B[od];W[nd];B[gn];W[fn];B[hn]
 ;W[hm];B[kk];W[kj];B[rl];W[sm];B[aj];W[bk];B[qj];W[qk];B[pj];W[oj];B[sn]
 ;W[rm];B[so];W[rn];B[sp];W[nn];B[mm];W[fs];B[es];W[gs];B[cq];W[de];B[ml]
-;W[mk];B[qh];W[pi];B[ni];W[pk];B[mj])
+;W[mk];B[qh];W[pi];B[ni];W[pk];B[mj];RW[])
 

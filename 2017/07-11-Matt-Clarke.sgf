@@ -1,4 +1,4 @@
-(;GM[1]FF[4]SZ[19]AP[SmartGo Kifu:4.4]
+(;GM[1]FF[4]SZ[19]AP[SmartGo:0.8.6]CA[utf-8]
 GN[2017/07-11-Matt-Clarke]
 PW[Matt Clarke]
 PB[sartak]
@@ -6,7 +6,7 @@ EV[Casual Game]
 DT[2017-07-11]
 KM[6.5]
 RE[W+R]
-RU[Japanese Rules]CH[1];B[pd];W[cp];B[pq];W[dc];B[ep];W[eq];B[fq];W[dq];B[fp]
+RU[Japanese Rules];B[pd];W[cp];B[pq];W[dc];B[ep];W[eq];B[fq];W[dq];B[fp]
 ;W[cn];B[jp];W[qn];B[po];W[rp];B[pn];W[qm];B[de];W[fd];B[cc];W[cb];B[cd]
 ;W[bb];B[ci];W[qc];B[pc];W[qd];B[qf];W[qe];B[pe];W[rf];B[qb];W[rb];B[rg]
 ;W[pf];B[qg];W[pb];B[ob];W[qa];B[of];W[jc];B[kc];W[jd];B[kd];W[je];B[qk]
@@ -17,5 +17,4 @@ RU[Japanese Rules]CH[1];B[pd];W[cp];B[pq];W[dc];B[ep];W[eq];B[fq];W[dq];B[fp]
 ;W[kh];B[kj];W[li];B[mh];W[lj];B[ok];W[nl];B[mk];W[nk];B[mj];W[mi];B[lk]
 ;W[lm];B[ni];W[nh];B[oi];W[mg];B[le];W[lg];B[mh];W[nf];B[me];W[ne];B[og]
 ;W[ng];B[nd];W[kk];B[kl];W[jk];B[ij];W[ik];RB[])
-
 

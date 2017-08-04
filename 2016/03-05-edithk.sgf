@@ -1,4 +1,4 @@
-(;GM[1]FF[4]SZ[9]AP[SmartGo Kifu:4.1]CA[utf-8]
+(;GM[1]FF[4]SZ[9]AP[SmartGo:0.8.6]CA[utf-8]
 GN[2016/03-05-edithk]
 PW[sartak]
 PB[edithk]
@@ -8,8 +8,8 @@ HA[3]
 KM[0.5]
 RU[AGA (Area)]
 AB[cc][gc][cg]
-PL[W]CH[1];W[gg];B[ee];W[ce];B[cd];W[cf];B[de];W[df];B[ef];W[dg];B[eg];W[dh]
-;B[ch];W[bg];B[bf];W[be];B[bd];W[ae];B[ad];W[gd];B[eh];W[ei];B[fi];W[di]
+PL[W];W[gg];B[ee];W[ce];B[cd];W[cf];B[de];W[df];B[ef];W[dg];B[eg];W[dh];B[ch]
+;W[bg];B[bf];W[be];B[bd];W[ae];B[ad];W[gd];B[eh];W[ei];B[fi];W[di]
 (;B[ci]
 (;W[af];B[ah];W[fh];B[gi];W[gh];B[hh];W[hi];B[hg];W[hf];B[gf]
 (;W[ge];B[ff];W[dd];B[ed];W[dc];B[db];W[ec];B[fc]
@@ -25,3 +25,4 @@ TW[ia:ii][hc:hi][gd:ge][ae:ci][df:di][gg:gi][fh:fi][ei])
 (;B[ec];W[dc];B[db];W[ed];B[fd])))
 (;W[eb];B[af]))
 (;B[fh]))
+

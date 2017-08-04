@@ -1,4 +1,4 @@
-(;GM[1]FF[4]SZ[19]AP[SmartGo Kifu:4.3]CA[utf-8]
+(;GM[1]FF[4]SZ[19]AP[SmartGo:0.8.6]CA[utf-8]
 GN[2017/02-23-Brendan]
 PW[Brendan]
 PB[sartak]
@@ -6,8 +6,9 @@ EV[Casual Game]
 DT[2017-02-23]
 KM[6.5]
 RE[B+R]
-RU[AGA (Territory)]CH[1];B[pd];W[dp];B[pq];W[dd];B[qk];W[fq];B[fc];W[jd]
-;B[fe];W[df];B[db];W[cc];B[ib];W[fg];B[cn];W[co];B[ck];W[bn];B[dh];W[cm]
-;B[eg];W[ef];B[ff];W[gg];B[ie];W[dn];B[fi];W[nd];B[pf];W[kf];B[ig];W[nf]
-;B[jq];W[hh];B[hj];W[ih];B[jg];W[kh];B[jh];W[ji];B[ii];W[gf];B[hg];W[ge]
-;B[gd];W[eh];B[dg];W[ei];B[di];W[gi];B[ej];W[fh];B[fj];RW[])
+RU[AGA (Territory)];B[pd];W[dp];B[pq];W[dd];B[qk];W[fq];B[fc];W[jd];B[fe]
+;W[df];B[db];W[cc];B[ib];W[fg];B[cn];W[co];B[ck];W[bn];B[dh];W[cm];B[eg]
+;W[ef];B[ff];W[gg];B[ie];W[dn];B[fi];W[nd];B[pf];W[kf];B[ig];W[nf];B[jq]
+;W[hh];B[hj];W[ih];B[jg];W[kh];B[jh];W[ji];B[ii];W[gf];B[hg];W[ge];B[gd]
+;W[eh];B[dg];W[ei];B[di];W[gi];B[ej];W[fh];B[fj];RW[])
+
