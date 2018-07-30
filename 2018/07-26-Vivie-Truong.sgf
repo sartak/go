@@ -1,0 +1,69 @@
+(;GM[1]FF[4]SZ[19]AP[SmartGo Kifu:4.6.2]CA[utf-8]
+GN[2018-07-26a]
+PW[sartak]WR[6k]
+PB[Vivie Truong]BR[5k]
+EV[US Open]
+DT[2018-07-26]
+PC[Williamsburg, Virginia]
+KM[7.5]
+RU[AGA (Territory)]CH[1]FA[];B[dp];W[pd];B[dc];W[pp];B[nc];W[ce];B[ci];W[ed]
+;B[ec];W[fd];B[cd]
+(;W[de];B[gc];W[gd];B[hc];W[ck];B[dj];W[dk];B[ek];W[dn];B[ei];W[el];B[fl]
+(;W[em];B[co];W[fk];B[ej];W[gl];B[gp];W[fm];B[qf];W[oe];B[qc];W[pg];B[qd]
+;W[gi];B[gh];W[fh]
+C[Works];B[fi];W[fg];B[bk];W[bl];B[bj]
+(;W[cg];B[ie];W[hi];B[cj];W[cm];B[bh];W[ch];B[bg];W[bf];B[ai]
+(;W[hg]
+C[This is like a pass. The game feels pretty even before this pass, but now Black takes the initiative]
+;B[nq];W[lq]
+(;B[qq];W[pq];B[qp];W[po];B[pr];W[or];B[qr];W[oq];B[qn];W[hp]
+C["AlphaGo", looks working];B[gq]
+(;W[go];B[hq];W[ip];B[pn];W[on];B[pl];W[nl];B[jq];W[jp];B[oj]
+C[Feels a little greedy, but hard to punish]
+(;W[qj]
+(;B[pf];W[of];B[og]
+(;W[qg]
+C[Not really working];B[rg]
+C[Review by Zirui Song 1p ];W[qo];B[ro];W[oh];B[ng];W[oi];B[rh];W[ph];B[mf]
+;W[me];B[le];W[md];B[lf];W[ld];B[pc];W[fc];B[fb];W[jc];B[id];W[ic];B[hd]
+;W[mc];B[nb];W[nf];B[mg];W[hb];B[gb];W[mb];B[od];W[kd];B[nj];W[pk];B[om]
+;W[ql];B[rn];W[ok];B[nm];W[ml];B[nr];W[ke];B[kf];W[jf];B[jg];W[if];B[je]
+;W[lh];B[kh];W[li];B[ki];W[lj];B[kj];W[kb];B[ib];W[jb];B[nn];W[ln];B[ko]
+;W[lo];B[lk];W[ni];B[mj];W[nh];B[mk];W[qi];B[jk];W[ll];B[kl];W[jm];B[km]
+;W[lm];B[kn];W[kp];B[ih];W[hh];B[ii];W[hj];B[in];W[im];B[ho];W[hn];B[hm]
+;W[gn];B[il];W[jn];B[hk];W[ij];B[gj];W[gk];B[fj];W[no];B[oo];W[np];B[mp]
+;W[mo];B[ha];W[lc];B[pe];W[ne];B[iq];W[bd];B[bc];W[ak];B[ag];W[ac];B[ab]
+;W[ad];B[bb];W[bo];B[bp];W[bn];B[rk];W[ol];B[qk];W[rl];B[si];W[rj];B[pj]
+;W[pi];B[mq];W[lr];B[pm];W[ns];B[ms];W[os];B[af];W[be];B[kr];W[bq];B[cq]
+;W[ap];B[br];W[cp];B[jl];W[io];B[bp];W[aq];B[cp];W[ar];B[cr];W[al];B[dh]
+;W[dg];B[aj];W[he];B[ge];W[hf];B[eg];W[ef];B[eh];W[gg];B[fo];W[eo];B[ep]
+;W[kq];B[dd];W[jr];B[ir];W[ks];B[ps];W[op];B[sj];W[sk];B[sm];W[rm];B[ri]
+;W[na];B[oa];W[ma];B[ob];W[fn];B[ja];W[ka];B[fp];W[is];B[hs];W[sl];B[sn]
+;W[ao];B[ia];W[bs];B[cs];W[as];B[do];W[en];B[js];W[kr];B[is];W[cn];B[nd]
+)
+(;W[ph];B[oh]
+C[Also not working, since Black seals White in and destroys White's potential]
+))
+(;B[mj]))
+(;W[mj]
+C[Feels a little bad but it secures the moyo]))
+(;W[hq]
+C[Better to descend since Black can't cut, and takes lots of points]
+(;B[ho];W[go])
+(;B[go];W[ho];B[gn];W[hn];B[gm];W[hm])))
+(;B[qn]
+C[Avoid giving Black too much potential]))
+(;W[jq]))
+(;W[bh]
+C[Black is dead]))
+(;W[fk];B[ej]))
+(;W[fc]
+C[Better]
+(;B[de];W[dd]
+(;B[cc];W[df])
+(;B[df];W[cc];B[bd];W[cb]))
+(;B[bd]
+(;W[jd])
+(;W[lc]))))
+
+
